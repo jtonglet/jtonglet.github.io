@@ -1,7 +1,3 @@
----
-layout: post
----
-<!DOCTYPE html>
 <html>
 <head>
 <title>Jonathan Tonglet</title>
