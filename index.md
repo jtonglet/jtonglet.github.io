@@ -5,7 +5,7 @@
 **Master of Artificial Intelligence (incoming)** | KULeuven | 2022-2023
 Specialization in Natural Language Processing.
 
-**Master of Business & Information Systems Engineering** | KULeuven| 2020-2022
+**Master of Business & Information Systems Engineering** | KULeuven | 2020-2022
 Specialization in Data Science. 
 Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision"
 
