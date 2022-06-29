@@ -2,19 +2,22 @@
 
 ***
 
-**Master of Artificial Intelligence (incoming)** - KULeuven - 2022-2023 <br/>
+**Master of Artificial Intelligence (incoming)** 
+* KULeuven 
+* 2022-2023 
+
 Specialization in Natural Language Processing. 
 
-**Master of Business&Information Systems Engineering** - KULeuven - 2020-2022 <br/>
+**MSc. in Business&Information Systems Engineering** - KULeuven - 2020-2022 <br/>
 Specialization in Data Science. <br/>
-Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision", written in partnership with Statistics Flanders. <br/>
+Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision", written in partnership with [Statistics Flanders](https://www.vlaanderen.be/en/statistics-flanders). <br/>
 Partner Relations member of Emergent Leuven, the data science & AI student organization of KULeuven.
 
 **Master of Computer science and engineering (Erasmus exchange)** - Politecnico di Milano - 2021 <br/>
 Specialization in Artificial Intelligence.  Average of 28.4/30. 
 
 **Bachelor of Business Engineering** - UCLouvain - 2017-2020 <br/>
-Specialization in Computer science.  Graduated Magna Cum Laude with an average of 85.6%.
+Specialization in Computer science.  Graduated Magna Cum Laude with an average of 17.2/20
 
 ## Work Experience
 
