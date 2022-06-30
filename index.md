@@ -12,11 +12,11 @@ Specialization in Data Science. <br/>
 Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision", written in partnership with [Statistics Flanders](https://www.vlaanderen.be/en/statistics-flanders). Received the LIRIS award for Best Master's Thesis.<br/>
 Partner Relations member of [Emergent Leuven](https://emergentleuven.be/), the data science & AI student organization of KULeuven.
 
-**MSc. in Computer science and engineering (Erasmus exchange)** <br/>
+**[MSc. in Computer science and engineering](https://www2.polimi.it/index.html%3Fid=9015&L=1.html) (Erasmus exchange)** <br/>
 Politecnico di Milano || 2021 <br/>
 Specialization in Artificial Intelligence.  Average of 28.4/30. 
 
-**BSc. in Business Engineering** <br/>
+**[BSc. in Business Engineering](https://uclouvain.be/en-prog-2022-inge1ba)** <br/>
 UCLouvain || 2017-2020 <br/>
 Specialization in Computer science.  Graduated Magna Cum Laude with an average of 17.2/20
 
