@@ -39,7 +39,7 @@ My tasks included feature design, test sessions, inbound marketing and competito
 
 **Member of the Board of Directors** <br/>
 UCLouvain || 2018-2019 <br/>
-I represented my student peers as a member of the university Board of Directors. Focus on the growth of the university industry park.
+I represented my student peers as a member of the university Board of Directors. Focused on the growth of the university industry park.
 
 ## Teaching 
 
