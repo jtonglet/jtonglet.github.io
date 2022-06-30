@@ -2,11 +2,11 @@
 
 ***
 
-**MSc. in Artificial Intelligence (incoming)** <br/>
+**[MSc. in Artificial Intelligence](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50268936.htm#activetab=diploma_omschrijving) (incoming)** <br/>
 KULeuven ||  2022-2023 <br/>
 Specialization in Natural Language Processing. 
 
-**MSc. in Business & Information Systems Engineering** <br/>
+**[MSc. in Business & Information Systems Engineering](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_53845164.htm#activetab=diploma_omschrijving)** <br/>
 KULeuven ||  2020-2022 <br/>
 Specialization in Data Science. <br/>
 Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision", written in partnership with [Statistics Flanders](https://www.vlaanderen.be/en/statistics-flanders). Received the LIRIS award for Best Master's Thesis.<br/>
