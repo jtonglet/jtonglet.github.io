@@ -24,6 +24,9 @@ Specialization in Computer science.  Graduated Magna Cum Laude with an average o
 
 ***  
 
+**Research Intern** <br/>
+LIRIS || July-August 2022 <br/>
+Data collection and modelling at the [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris) research group.
 
 **Data Science Intern** <br/>
 Telenet Group || July-August 2021 <br/>
@@ -33,6 +36,10 @@ I conducted a research project about explainable AI under the supervision of Pro
 Wooclap || July-December 2020 <br/>
 I worked on the launch of the Wooflash e-learning platform. 
 My tasks included feature design, test sessions, inbound marketing and competitors analysis.
+
+**Member of the Board of Directors** <br/>
+UCLouvain || 2018-2019 <br/>
+I represented my student peers as a member of the university Board of Directors. Focus on the growth of the university industry park.
 
 ## Teaching 
 
