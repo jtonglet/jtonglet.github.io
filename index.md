@@ -10,7 +10,7 @@ Specialization in Natural Language Processing.
 KULeuven ||  2020-2022 <br/>
 Specialization in Data Science. <br/>
 Master thesis : "Predicting the demographics of Twitter users with programmatic weak supervision", written in partnership with [Statistics Flanders](https://www.vlaanderen.be/en/statistics-flanders). Received the LIRIS award for Best Master's Thesis.<br/>
-Partner Relations member of Emergent Leuven, the data science & AI student organization of KULeuven.
+Partner Relations member of [Emergent Leuven](https://emergentleuven.be/), the data science & AI student organization of KULeuven.
 
 **MSc. in Computer science and engineering (Erasmus exchange)** <br/>
 Politecnico di Milano || 2021 <br/>
@@ -23,7 +23,6 @@ Specialization in Computer science.  Graduated Magna Cum Laude with an average o
 ## Work Experience
 
 ***  
-
 
 
 **Data Science Intern** <br/>
