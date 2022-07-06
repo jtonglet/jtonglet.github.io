@@ -28,7 +28,7 @@ Specialization in Computer science. Graduated Magna Cum Laude with an average of
 LIRIS || July-August 2022 <br/>
 Data collection and modelling at the [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris) research group.
 
-**Data Science Intern** <br/>
+**Research Intern** <br/>
 Telenet Group || July-August 2021 <br/>
 Research project about explainable AI under the supervision of Professor Bart Baesens for the data science team at Telenet.
 
@@ -45,5 +45,5 @@ Representing my student peers as a member of the university Board of Directors. 
 *** 
 
 **Probability - LINGE1113** <br/> 
-UCLouvain ||  2019-2020 <br/>
-Teaching assistant for the course [Probability](https://uclouvain.be/en-cours-2022-linge1113) given by Professor Johan Segers.  I was responsible for a class of 35 first-year students.
+UCLouvain || 2020 <br/>
+Teaching assistant for the course [Probability](https://uclouvain.be/en-cours-2022-linge1113) given by Professor Johan Segers. I was responsible for a class of 35 first-year students.
