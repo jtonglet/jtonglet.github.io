@@ -8,7 +8,7 @@ Specialization in Natural Language Processing.
 
 **[MSc. in Business & Information Systems Engineering](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_53845164.htm#activetab=diploma_omschrijving)** <br/>
 KULeuven ||  2020-2022 <br/>
-Specialization in Data Science. <br/>
+Specialization in Data Science. Graduated Summa Cum laude with an average of 85.84%. <br/>
 Master thesis : "Predicting the Demographics of Twitter Users with Programmatic Weak Supervision", written in partnership with [Statistics Flanders](https://www.vlaanderen.be/en/statistics-flanders). Received the LIRIS award for Best Master's Thesis.<br/>
 Partner Relations member of [Emergent Leuven](https://emergentleuven.be/), the data science & AI student organization of KULeuven.
 
@@ -18,7 +18,7 @@ Specialization in Artificial Intelligence. Average of 28.4/30.
 
 **[BSc. in Business Engineering](https://uclouvain.be/en-prog-2022-inge1ba)** <br/>
 UCLouvain || 2017-2020 <br/>
-Specialization in Computer science. Graduated Magna Cum Laude with an average of 17.12/20.
+Specialization in Computer science. Graduated Magna Cum Laude with an average of 85.6%.
 
 ## Work Experience
 
