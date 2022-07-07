@@ -29,7 +29,7 @@ LIRIS || July-August 2022 <br/>
 Data collection and modelling at the [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris) research group.
 
 **Research Intern** <br/>
-Telenet Group || July-August 2021 <br/>
+Telenet Group || June-August 2021 <br/>
 Research project about explainable AI under the supervision of Professor Bart Baesens for the data science team at Telenet.
 
 **Project Management Intern** <br/>
