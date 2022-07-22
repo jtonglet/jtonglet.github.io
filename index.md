@@ -14,7 +14,7 @@ Partner Relations member of [Emergent Leuven](https://emergentleuven.be/), the d
 
 **[MSc. in Computer science and engineering](https://www2.polimi.it/index.html%3Fid=9015&L=1.html) (Erasmus)** <br/>
 Politecnico di Milano || 2021 <br/>
-Specialization in Artificial Intelligence. Average of 28.4/30. 
+Specialization in Artificial Intelligence. Average of 94.67%. 
 
 **[BSc. in Business Engineering](https://uclouvain.be/en-prog-2022-inge1ba)** <br/>
 UCLouvain || 2017-2020 <br/>
@@ -25,7 +25,7 @@ Specialization in Computer science. Graduated Magna Cum Laude with an average of
 ***  
 
 **Research Intern** <br/>
-LIRIS || July-August 2022 <br/>
+LIRIS KU Leuven || July-August 2022 <br/>
 Data collection and modelling at the [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris) research group.
 
 **Research Intern** <br/>
