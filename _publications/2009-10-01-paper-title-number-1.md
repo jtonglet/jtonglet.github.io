@@ -10,7 +10,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-[code](
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+[code](https://github.com/jtonglet/Demographics-PWS)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
