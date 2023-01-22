@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Business Engineering, UCLouvain, 2017-2020, 85.6% *Magna Cum Laude* 
+  * Interdisciplinary B.Sc. at the intersection of economics and engineering
+  * Courses : Calculus, Algebra, Statistics, Programming, Algorithmic, Econometrics, Economics, Physics
+* M.Sc. in Business and Information Systems Engineering, KU Leuven, 2020-2022, 85.84% *Summa Cum Laude*
+  * Major in Data Science
+  * Courses : Machine Learning, NLP, Time Series, Operations Research, Software Architecture
+* M.Sc. in Computer Science and Engineering, Politecnico di Milano, Fall 2021, 94.67%
+  * Exchange Program 
+  * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
+* M.Sc. in Artificial Intelligence, KU Leuven, 2022-2023 (current)
+  * Major in Speech and Language Technologies
+  * Courses : Fundamentals of AI, Privacy and Big Data, Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering 
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * KU Leuven, LIRIS group
+  * Duties included: Data Collection, Model Implementation, Hyperparameter Tuning with Weight and Biases
+  * Supervisor: Professors Bart Baesens and Wouter Verbeke
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021 : Research Intern
+  * Telenet Group
+  * Duties included: Implementing a counterfactual explanation model for telco churn prediction
+  * Supervisor: Professor Bart Baesens (academic), Anke Cassauwers (industry)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Transformers, PySpark)
+  * R
+  * Git
+* Languages
+  * French (native)
+  * Dutch (fluent)
+  * English (fluent, IELTS 7.5)
+
+Awards
+======
+* LIRIS award for the best master thesis in Business and Information Systems Engineering, June 2022
 
 Publications
 ======
@@ -47,13 +62,10 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
   
-Teaching
+Miscellaneous
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Vice-President of UStart, the student entrepeneurship society, 2018-2020
+* Partner Relations Lead for Emergent, the student data science and AI society, 2021-2022
+* Student representative at the program committee, 2019, 2023
