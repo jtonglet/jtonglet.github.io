@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Probability : Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-Probability
+venue: "UCLouvain"
+date: Spring 2020
+location: "Louvain-la-Neuve, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the course Probability given by Professor Johan Segers. I
+was responsible for a class of 35 first-year students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Content : Discrete and Continuous Random Variables, Multivariate Probabilities, Combinatorics, Central-Limit Theorem and Introduction to Statistics 
