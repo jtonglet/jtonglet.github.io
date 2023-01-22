@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-Probability
 venue: "UCLouvain"
-date: Spring 2020
+date: 2020
 location: "Louvain-la-Neuve, Belgium"
 ---
 
