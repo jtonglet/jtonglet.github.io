@@ -11,18 +11,20 @@ redirect_from:
 
 Full CV available [here](https://github.com/jtonglet/jtonglet.github.io/blob/master/files/CV.pdf).
 
-Want to contact me or to collaborate on a project? Feel free to contact me by mail!
+Want to collaborate on a project? Feel free to contact me by mail!
 
 Education
 ======
 * **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023 (current)
   * Major in Speech and Language Technologies
   * Courses : Fundamentals of AI, Privacy and Big Data, Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering 
-* **Exchange Semester at Politecnico di Milano - Computer Science & Enginering**, Fall 2021, 94.67%
+  * Thesis : Multimodal Numerical Reasoning on Large Financial Documents
+* **Exchange Semester - Computer Science & Enginering**, Politecnico di Milano, Fall 2021, 94.67%
   * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
 * **M.Sc. in Business and Information Systems Engineering**, KU Leuven, 2020-2022, 85.84% *Summa Cum Laude*
   * Major in Data Science
   * Courses : Machine Learning, NLP, Time Series, Operations Research, Software Architecture
+  * Thesis : Predicting the Demographics of Twitter Users with Programmatic Weak Supervision
 * **B.Sc. in Business Engineering**, UCLouvain, 2017-2020, 85.6% *Magna Cum Laude* 
   * Interdisciplinary B.Sc. at the intersection of economics and engineering
   * Courses : Calculus, Algebra, Statistics, Programming, Algorithmic, Econometrics, Economics, Physics
