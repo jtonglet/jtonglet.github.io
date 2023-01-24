@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](https://github.com/jtonglet/jtonglet.github.io/blob/master/files/CV.pdf).
+Full CV available [here](https://github.com/jtonglet/jtonglet.github.io/files/CV.pdf).
 
 Want to collaborate on a project? Feel free to contact me by mail!
 
