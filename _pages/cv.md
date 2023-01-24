@@ -9,20 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV available [here](https://github.com/jtonglet/jtonglet.github.io/blob/master/files/CV.pdf).
+
+Want to contact me or to collaborate on a project? Feel free to contact me by mail!
+
 Education
 ======
-* B.Sc. in Business Engineering, UCLouvain, 2017-2020, 85.6% *Magna Cum Laude* 
-  * Interdisciplinary B.Sc. at the intersection of economics and engineering
-  * Courses : Calculus, Algebra, Statistics, Programming, Algorithmic, Econometrics, Economics, Physics
-* M.Sc. in Business and Information Systems Engineering, KU Leuven, 2020-2022, 85.84% *Summa Cum Laude*
-  * Major in Data Science
-  * Courses : Machine Learning, NLP, Time Series, Operations Research, Software Architecture
-* M.Sc. in Computer Science and Engineering, Politecnico di Milano, Fall 2021, 94.67%
-  * Exchange Program 
-  * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
-* M.Sc. in Artificial Intelligence, KU Leuven, 2022-2023 (current)
+* **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023 (current)
   * Major in Speech and Language Technologies
   * Courses : Fundamentals of AI, Privacy and Big Data, Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering 
+* **Exchange Semester at Politecnico di Milano - Computer Science & Enginering**, Fall 2021, 94.67%
+  * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
+* **M.Sc. in Business and Information Systems Engineering**, KU Leuven, 2020-2022, 85.84% *Summa Cum Laude*
+  * Major in Data Science
+  * Courses : Machine Learning, NLP, Time Series, Operations Research, Software Architecture
+* **B.Sc. in Business Engineering**, UCLouvain, 2017-2020, 85.6% *Magna Cum Laude* 
+  * Interdisciplinary B.Sc. at the intersection of economics and engineering
+  * Courses : Calculus, Algebra, Statistics, Programming, Algorithmic, Econometrics, Economics, Physics
 
 Research experience
 ======
@@ -31,17 +34,19 @@ Research experience
   * Duties included: Data Collection, Model Implementation, Hyperparameter Tuning with Weight and Biases
   * Supervisor: Professors Bart Baesens and Wouter Verbeke
 
+Industry experience
+======
 * Summer 2021 : Research Intern
   * Telenet Group
   * Duties included: Implementing a counterfactual explanation model for telco churn prediction
   * Supervisor: Professor Bart Baesens (academic), Anke Cassauwers (industry)
+
   
 Skills
 ======
 * Programming
-  * Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Transformers, PySpark)
-  * R
-  * Git
+  * Proficient : Python (Pandas, Numpy, Scikit-Learn, TensorFlow, Transformers, PySpark), R, git
+  * Notions : Java, SQL, Prolog
 * Languages
   * French (native)
   * Dutch (fluent)
@@ -69,3 +74,4 @@ Miscellaneous
 * Vice-President of UStart, the student entrepeneurship society, 2018-2020
 * Partner Relations Lead for Emergent, the student data science and AI society, 2021-2022
 * Student representative at the program committee, 2019, 2023
+* Member of the University Board of Directors, 2018-2019
