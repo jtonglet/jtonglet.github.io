@@ -12,8 +12,15 @@ Welcome, Bienvenue, Welkom!
 
 I am studying Artificial Intelligence at KU Leuven, with a specialization in Speech & Language Technologies. 
 
+### **Research Interests**
 
-**Contact**
+- Natural Language Understanding and Generation
+- Multimodal Learning
+- Weak Supervision
+- Fact-Checking
+- Computational Social Science
+
+### **Contact**
 
 firstname \[dot\] name \[at\] gmail \[dot\] com 
 
