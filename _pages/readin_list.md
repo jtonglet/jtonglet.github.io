@@ -1,11 +1,11 @@
 ---
-permalink: /readin_list/
+permalink: /reading_list/
 title: "Reading List"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
   - "/nmp/"
-  - "/readin_list.html"
+  - "/reading_list.html"
 ---
 
 List of books, I recently read and enjoyed.
