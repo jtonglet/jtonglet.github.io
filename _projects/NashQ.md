@@ -1,6 +1,6 @@
 ---
 title: "Nash Q Learning with 2 agents"
-excerpt: "Python implementation of the Nash Q Learning Algorithm for simple grid-world games with 2 agents.   \[[link](https://github.com/jtonglet/Nash-Q-Learning/)]\] <br/> <img src='/images/nashq.PNG'>"
+excerpt: "Python implementation of the Nash Q Learning Algorithm for simple grid-world games with 2 agents.   \[[link](https://github.com/jtonglet/Nash-Q-Learning/)]\]</br> <img src='/images/nashq.PNG'>"
 collection: projects
 ---
 
