@@ -4,5 +4,4 @@ excerpt: "Implementation of a genetic algorithm to solve large assymetric travel
 collection: projects
 ---
 
-Implementation of a genetic algorithm to solve large assymetric travelingsalesman problems. The implementation was part of a project for the course "Genetic Algorithms & Evolutionary
-Computing" taught at KU Leuven in 2022-2023 by Professor Nick Vannieuwenhoven.
+Implementation of a genetic algorithm to solve large assymetric travelingsalesman problems. The implementation was part of a project for the course Genetic Algorithms & Evolutionary Computing taught at KU Leuven in 2022-2023 by Professor Nick Vannieuwenhoven.
