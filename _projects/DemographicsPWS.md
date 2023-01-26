@@ -7,4 +7,4 @@ collection: projects
 This model predicts the gender, age category, and location at the province level of Twitter users in Flanders, Belgium. The aggregated results are used to remove demographic biases 
 from samples collected by official statisticians on the platform.
 
-[\[link\]](https://github.com/jtonglet/Demographics-PWS)
+\[[link](https://github.com/jtonglet/Demographics-PWS)\]
