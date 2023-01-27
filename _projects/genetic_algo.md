@@ -1,6 +1,6 @@
 ---
 title: "Genetic Algorithms for TSP"
-excerpt: "Implementation of a genetic algorithm to solve large assymetric travelingsalesman problems.<br/> <img src='/images/genetic.PNG'>"
+excerpt: "Implementation of a genetic algorithm to solve large assymetric travelingsalesman problems.<br/> <img src='/images/genetic.png'>"
 collection: projects
 ---
 
