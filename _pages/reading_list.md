@@ -15,7 +15,7 @@ Artificial Intelligence
 - The book of why, Judea Pearl
 - AI Super Powers, Kai-Fu Lee
 
-International
+International literature
 ======
 - La peste, Albert Camus
 - Grave of the fireflies, Aikyuki Nosaka
