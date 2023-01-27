@@ -8,4 +8,4 @@ Implementation of the Nash Q-Learning algorithm to solve games with two agents, 
 
 Feel free to use for your own projects or contribute!
 
-\[[link](https://github.com/jtonglet/Nash-Q-Learning/)]\]
+\[[link](https://github.com/jtonglet/Nash-Q-Learning/)\]
