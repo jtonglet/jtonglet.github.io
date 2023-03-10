@@ -17,14 +17,13 @@ In September 2023, I will join the ELLIS PhD program under the supervision of Pr
 
 - Natural Language Understanding and Generation
 - Multimodal Learning
-- Weak Supervision
 - Fact-Checking
+- Weak Supervision
 - Computational Social Science
 
 ### **Contact**
 
 Feel free to get in touch. 
-
 firstname \[dot\] name \[at\] gmail \[dot\] com 
 
 ### **Miscellaneous** 
