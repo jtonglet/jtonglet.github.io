@@ -11,6 +11,7 @@ redirect_from:
 Welcome, Bienvenue, Welkom! 
 
 I am studying Artificial Intelligence at KU Leuven, with a specialization in Speech & Language Technologies. 
+In September 2023, I will join the ELLIS PhD program under the supervision of Professor Iryna Gurevych at the UKP Lab. I will work on Multimodal Fact Checking.
 
 ### **Research Interests**
 
@@ -21,6 +22,8 @@ I am studying Artificial Intelligence at KU Leuven, with a specialization in Spe
 - Computational Social Science
 
 ### **Contact**
+
+Feel free to get in touch. 
 
 firstname \[dot\] name \[at\] gmail \[dot\] com 
 
