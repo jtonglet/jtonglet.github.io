@@ -10,6 +10,15 @@ redirect_from:
 
 List of books, I recently read and enjoyed.
 
+Belgian literature
+======
+
+- De bourgondier : arartsvaders van de lage landen, Bart Van Loo
+- Revolusi. Indonesië en het Onstaan van de Moderne Wereld, David Van Reybrouck
+- De opgang, Stefan Hertmans
+- Derrière la haine, Barbara Abel
+- Et dans la jungle Dieu dansait, Alain Lallemand
+
 Artificial Intelligence
 ======
 - The book of why, Judea Pearl
@@ -21,20 +30,11 @@ International literature
 - Grave of the fireflies, Aikyuki Nosaka
 - L'ordre du jour, Eric Vuillard
 - A Column of Fire, Ken Follett
-- Les fourmis, Bernard Werber
 - A promised land, Barack Obama
 - Homo Deus : A brief History of Tomorrow, Yuval Noah Arari
 - Le cosmos et le lotus, Trinh Xuan Thuan
 - A brief history of everyone who ever lived, Adam Rutherford
-
-Belgian literature
-======
-
-- De bourgondier : arartsvaders van de lage landen, Bart Van Loo
-- Revolusi. Indonesië en het Onstaan van de Moderne Wereld, David Van Reybrouck
-- De opgang, Stefan Hertmans
-- Derrière la haine, Barbara Abel
-- Et dans la jungle Dieu dansait, Alain Lallemand
+- Far north, Marcel Theroux
 
 Graphic Novels
 ======
