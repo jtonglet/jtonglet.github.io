@@ -2,11 +2,11 @@
 title: "Predicting the Demographics Attributes of Twitter Users with Programmatic Weak Supervision"
 collection: publications
 permalink: /publication/demographicsPWS
-excerpt: 'Master thesis. '
-date: 20202-06-03
+excerpt: 'Master thesis : Business & Information Systems Engineering, major Data Science'
+date: 2022-06-03
 venue: 'KULeuven'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Tonglet, J., et al. (2022). &quot;Predicting the Demographics of Twitter Users with Programmatic Weak Supervision.&quot; <i>Under Review </i>.'
+paperurl: ''
+<!-- citation: 'Tonglet, J., et al. (2022). &quot;Predicting the Demographics of Twitter Users with Programmatic Weak Supervision.&quot; <i>Under Review </i>.' -->
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
