@@ -6,7 +6,7 @@ excerpt: 'Master thesis : Business & Information Systems Engineering, major Data
 date: 2022-06-03
 venue: 'KULeuven'
 paperurl: ''
-<!-- citation: 'Tonglet, J., et al. (2022). &quot;Predicting the Demographics of Twitter Users with Programmatic Weak Supervision.&quot; <i>Under Review </i>.' -->
+citation: 'Tonglet, J., et al. (2022). &quot;Predicting the Demographics of Twitter Users with Programmatic Weak Supervision.&quot; <i>KU Leuven</i>.'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
