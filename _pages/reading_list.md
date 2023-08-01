@@ -19,11 +19,6 @@ Belgian literature
 - Derrière la haine, Barbara Abel
 - Et dans la jungle Dieu dansait, Alain Lallemand
 
-Artificial Intelligence
-======
-- The book of why, Judea Pearl
-- AI Super Powers, Kai-Fu Lee
-
 International literature
 ======
 - La peste, Albert Camus
@@ -35,6 +30,7 @@ International literature
 - Le cosmos et le lotus, Trinh Xuan Thuan
 - A brief history of everyone who ever lived, Adam Rutherford
 - Far north, Marcel Theroux
+- Surely You're joking, Mr. Feynman, Richard P. Feynman
 
 Graphic Novels
 ======
