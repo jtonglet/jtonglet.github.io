@@ -15,7 +15,8 @@ Want to collaborate on a research project? Feel free to contact me by mail!
 
 Education
 ======
-* **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023 (current)
+* **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023
+  * **89.92%** *Summa Cum Laude with the Congratulations of the Board of Examiners* (best grades of the promotion)
   * Major in Speech and Language Technologies
   * Courses : Fundamentals of AI, Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering, Reinforcement Learning 
   * Thesis : In-Context Learning for HybridQA 
