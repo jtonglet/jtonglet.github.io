@@ -10,7 +10,7 @@ citation: 'Tonglet, J., et al. (2022). &quot;Predicting the Demographics of Twit
 ---
 -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-[code](https://github.com/jtonglet/Demographics-PWS)
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[code](https://github.com/jtonglet/Demographics-PWS) -->
 
 <!-- Recommended citation: Tonglet, J., Jehoul, J., Reusens, M., Reusens, M, Baesens, B. (2022). "Predicting the Demographics of Twitter Users with Programmatic Weak Supervision ". KULeuven. -->
