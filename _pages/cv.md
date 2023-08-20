@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](https://jtonglet.github.io/files/CV.pdf).
-
 Want to collaborate on a research project? Feel free to contact me by mail!
 
 Education
