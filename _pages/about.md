@@ -10,8 +10,9 @@ redirect_from:
 
 Welcome, Bienvenue, Welkom! 
 
-I recently graduated from Artificial Intelligence at KU Leuven, with a specialization in Speech & Language Technologies. 
-In September 2023, I will join the ELLIS PhD program under the supervision of Professor Iryna Gurevych at the UKP Lab in Darmstadt and Professor Marie-Francine Moens at KU Leuven. I will work on Multimodal Fact Checking.
+I am an ELLIS PhD student under the supervision of Professor Iryna Gurevych at the UKP Lab in Darmstadt and Professor Marie-Francine Moens at KU Leuven. I am working on Multimodal Fact-Checking.
+I recently graduated from the master of Artificial Intelligence at KU Leuven, with a specialization in Speech & Language Technologies. 
+
 
 ### **Research Interests**
 
