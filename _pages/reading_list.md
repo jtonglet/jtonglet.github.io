@@ -8,7 +8,7 @@ redirect_from:
   - "/reading_list.html"
 ---
 
-List of books, I recently read and enjoyed.
+List of books, I read and enjoyed.
 
 Belgian literature
 ======
@@ -34,8 +34,13 @@ International literature
 
 Graphic Novels
 ======
+Comic strips and graphic novels are an integral part of the franco-belgian culture. I am including here the works that have made a lasting impression on me and that deserve to be better known internationally.
 
 - L'Arabe du Futur, Riad Sattouf
 - Les deux vies de Baudouin, Fabien Toulmé
 - Chroniques de Jérusalem, Guy Delisle
 - L'âge d'or, Cyril Pedrosa
+- Les Indes fourbes, Alain Ayroles et Juanjo Guarnido
+- Le retour à la terre, Manu Larcenet
+- Jours de sable, Aimée de Jongh
+- Charlotte impératrice, Fabien Nury et Matthieu Bonhomme
