@@ -13,6 +13,9 @@ Want to collaborate on a research project? Feel free to contact me by mail!
 
 Education
 ======
+* **ELLIS PhD Student in Computer Science**, TU Darmstadt and KU Leuven, 2023-2027
+  * Supervisors : by Iryna Gurevych (TU Darmstadt) and Marie-Francine Moens (KU Leuven)
+  * Research on Multimodal Fact-Checking
 * **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023
   * **89.92%** *Summa Cum Laude with the Congratulations of the Board of Examiners* (best grades of the promotion)
   * Major in Speech and Language Technologies
