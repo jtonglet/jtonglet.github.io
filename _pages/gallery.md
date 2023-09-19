@@ -1,7 +1,7 @@
 ---
 permalink: /gallery/
 title: "Brussels picture gallery"
-excerpt: "This is a page not in th emain menu"
+excerpt: "Pictures of Brussels."
 author_profile: true
 redirect_from: 
   - "/nmp/"
