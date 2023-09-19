@@ -11,12 +11,12 @@ redirect_from:
 <div class="gallery">
   <figure>
     <img src="/images/brussels/bourgogne.jpg" alt="Hometown Image 1">
-    <figcaption>Caption for Image 1</figcaption>
+    <figcaption>The library of the Dukes of Burgundy, KBR museum.</figcaption>
   </figure>
 
   <figure>
     <img src="/images/brussels/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
-    <figcaption>Caption for Image 2</figcaption>
+    <figcaption>Hotel Van Eetvelde, Art Nouveau architecture.</figcaption>
   </figure>
 
   <!-- Add more images and captions as needed -->
