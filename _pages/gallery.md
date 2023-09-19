@@ -1,5 +1,5 @@
 ---
-permalink: /reading_list/
+permalink: /gallery/
 title: "Brussels picture gallery"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
