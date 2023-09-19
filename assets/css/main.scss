@@ -39,3 +39,27 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Image Gallery Overlay */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.gallery figure {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  flex: 1;
+  cursor: pointer;
+}
+
+.gallery img {
+  max-width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.gallery figcaption
