@@ -18,6 +18,19 @@ redirect_from:
     <img src="/images/brussels/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
     <figcaption>Hotel Van Eetvelde, Art Nouveau architecture.</figcaption>
   </figure>
+  
+  <figure>
+    <img src="/images/brussels/mont_art.jpg" alt="Hometown Image 2">
+    <figcaption>Mont des arts, cultural heart of the upper town.</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/images/brussels/tintin.jpg" alt="Hometown Image 2">
+    <figcaption>Characters of the comic strip Tintin, in Stockel underground station.</figcaption>
+  </figure>
+
+
+
 
   <!-- Add more images and captions as needed -->
 </div>
