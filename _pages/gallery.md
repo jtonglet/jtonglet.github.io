@@ -15,7 +15,7 @@ redirect_from:
   </figure>
 
   <figure>
-    <img src="/images/hometown/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
+    <img src="/images/brussels/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
     <figcaption>Caption for Image 2</figcaption>
   </figure>
 
