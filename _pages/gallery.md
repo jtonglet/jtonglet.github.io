@@ -46,7 +46,7 @@ Pictures of Brussels.
     <figcaption>Royal parc.</figcaption>
   </figure>
 
-    <figure>
+  <figure>
     <img src="/images/brussels/art_nouv.jpg" alt="Hometown Image 2">
     <figcaption>Maison Hannon, painted wall, Art Nouveau.</figcaption>
   </figure>
