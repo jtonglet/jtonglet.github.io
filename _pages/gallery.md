@@ -46,6 +46,11 @@ Pictures of Brussels.
     <figcaption>Royal parc.</figcaption>
   </figure>
 
+    <figure>
+    <img src="/images/brussels/art_nouveau.jpg" alt="Hometown Image 2">
+    <figcaption>Maison Hannon, painted wall, Art Nouveau.</figcaption>
+  </figure>
+
   <figure>
     <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
     <figcaption>National basilica of the Sacred Heart.</figcaption>
@@ -56,6 +61,25 @@ Pictures of Brussels.
     <figcaption>Tour & Taxi, near to the canal.</figcaption>
   </figure>
 
+  <figure>
+    <img src="/images/brussels/tour_taxi.jpg" alt="Hometown Image 2">
+    <figcaption>Gare maritime, Tour & Taxi.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/magritte.jpg" alt="Hometown Image 2">
+    <figcaption>Street art in the city center, based on the paintings from René Magritte.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/botanique.jpg" alt="Hometown Image 2">
+    <figcaption>Botanical gardens.</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/images/brussels/broussaille.jpg" alt="Hometown Image 2">
+    <figcaption>Street art in the city center, based on the comic strip Broussaille.</figcaption>
+  </figure>
 
 
   <!-- Add more images and captions as needed -->
