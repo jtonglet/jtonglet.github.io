@@ -36,23 +36,25 @@ Pictures of Brussels.
     <figcaption>Characters from the comic strip Tintin, in Stockel underground station.</figcaption>
   </figure>
 
-  <div class="gallery-row">
-    <figure>
-      <img src="/images/brussels/anneau.jpg" alt="Hometown Image 1">
-      <figcaption>Tondo bridge, federal parliament.</figcaption>
-    </figure>
-
-    <figure>
-      <img src="/images/brussels/botanique.jpg" alt="Hometown Image 2">
-      <figcaption>Botanical gardens.</figcaption>
-    </figure>
-  </div>
-
   <figure>
     <img src="/images/brussels/fine_arts.jpg" alt="Hometown Image 2">
     <figcaption>Royal Museum of Fine Arts.</figcaption>
   </figure>
 
+  <figure>
+    <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
+    <figcaption>Royal parc.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
+    <figcaption>National basilica of the Sacred Heart.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/canal.jpg" alt="Hometown Image 2">
+    <figcaption>Tour & Taxi, near to the canal.</figcaption>
+  </figure>
 
 
 
