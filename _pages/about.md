@@ -27,7 +27,7 @@ firstname \[dot\] name \[at\] gmail \[dot\] com
 
 ### **Miscellaneous** 
 
-I come from Waterloo in the periphery of Brussels, the capital of Belgium. I am passionate by the Brussel's history and love to explore and to take pictures of its many architectural and cultural wonders. I regularly update a photo gallery [here](https://jtonglet.github.io/gallery.html).
+I come from Waterloo in the periphery of Brussels, the capital of Belgium. I am passionate by Brussel's history and love to explore and to take pictures of its many architectural and cultural wonders. I regularly update a photo gallery [here](https://jtonglet.github.io/gallery.html).
 
 I keep a reading list [here](https://jtonglet.github.io/reading_list.html).
 
