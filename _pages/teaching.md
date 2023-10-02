@@ -3,9 +3,6 @@ permalink: /teaching/
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 ### Teaching assistant
