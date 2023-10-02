@@ -1,9 +1,11 @@
 ---
+layout: archive
+title: "Teaching"
 permalink: /teaching/
-title: "About me"
-excerpt: "About me"
 author_profile: true
 ---
+
+{% include base_path %}
 
 ### Teaching assistant
 
