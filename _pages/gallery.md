@@ -21,6 +21,11 @@ Pictures of Brussels.
     <figcaption>Hotel Van Eetvelde, Art Nouveau architecture.</figcaption>
   </figure>
 
+   <figure>
+    <img src="/images/brussels/anneau.jpg" alt="Hometown Image 2">
+    <figcaption>Passerelle Tondo, Belgian Parliament</figcaption>
+  </figure>
+
   <figure>
     <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
     <figcaption>Abbaye de la Cambre.</figcaption>
@@ -52,13 +57,18 @@ Pictures of Brussels.
   </figure>
 
   <figure>
-    <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
-    <figcaption>National basilica of the Sacred Heart.</figcaption>
+    <img src="/images/brussels/bourse.jpg" alt="Hometown Image 2">
+    <figcaption>Brussel's old stock exchange.</figcaption>
   </figure>
 
   <figure>
     <img src="/images/brussels/canal.jpg" alt="Hometown Image 2">
     <figcaption>Tour & Taxi, near to the canal.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
+    <figcaption>Colored houses in Schaerbeek.</figcaption>
   </figure>
 
   <figure>
@@ -74,6 +84,11 @@ Pictures of Brussels.
   <figure>
     <img src="/images/brussels/botanique.jpg" alt="Hometown Image 2">
     <figcaption>Botanical gardens.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
+    <figcaption>National basilica of the Sacred Heart.</figcaption>
   </figure>
   
   <figure>
