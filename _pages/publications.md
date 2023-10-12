@@ -6,15 +6,6 @@ author_profile: true
 ---
 
 
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+### 🔮 [SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA](https://arxiv.org/abs/2310.06675v1)
+**Jonathan Tonglet**, Manon Reusens, Philipp Borchert, Bart Baesens
+Accepted at EMNLP 2023. [paper](https://arxiv.org/abs/2310.06675v1)[code](https://github.com/jtonglet/SEER)
