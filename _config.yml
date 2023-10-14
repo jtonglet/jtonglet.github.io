@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jonathan Tonglet"
   avatar           : "photo_profile.png"
-  bio              : "ELLIS PhD student at UKP Lab and KU Leuven on Multimodal Fact Checking."
+  bio              : "ELLIS PhD student at UKP Lab and KU Leuven working on Multimodal Fact Checking."
   location         : "Waterloo, Belgium"
   employer         :
 #   pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QOEvEWYAAAAJ&hl=fr&oi=ao"
   email            : 
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
