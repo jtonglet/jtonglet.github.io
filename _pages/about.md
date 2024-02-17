@@ -23,8 +23,7 @@ I recently graduated from the master of Artificial Intelligence at KU Leuven, wi
 
 ### **News**
 
-- [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/). See you in 🇸🇬
-- [Oct 2023] Participated in the [Symposium on Large Language and Foundation models](https://ellis.eu/events/ellis-ai4media-and-aida-symposium-on-large-language-and-foundation-models) in Amsterdam 🇳🇱
+- [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/) 
 - [Sep 2023] Started my joint ELLIS PhD at TU Darmstadt and KU Leuven 🚀
 
 ### **Contact**
