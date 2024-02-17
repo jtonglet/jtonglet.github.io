@@ -23,7 +23,7 @@ Pictures of Brussels.
 
    <figure>
     <img src="/images/brussels/anneau.jpg" alt="Hometown Image 2">
-    <figcaption>Passerelle Tondo, Belgian Parliament</figcaption>
+    <figcaption>Passerelle Tondo, Belgian Parliament.</figcaption>
   </figure>
 
   <figure>
@@ -61,10 +61,6 @@ Pictures of Brussels.
     <figcaption>Brussel's old stock exchange.</figcaption>
   </figure>
 
-  <figure>
-    <img src="/images/brussels/canal.jpg" alt="Hometown Image 2">
-    <figcaption>Tour & Taxi, near to the canal.</figcaption>
-  </figure>
 
   <figure>
     <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
@@ -77,14 +73,10 @@ Pictures of Brussels.
   </figure>
 
   <figure>
-    <img src="/images/brussels/magritte.jpg" alt="Hometown Image 2">
-    <figcaption>Street art in the city center, based on the paintings from René Magritte.</figcaption>
+    <img src="/images/brussels/wiertz.jpg" alt="Hometown Image 2">
+    <figcaption>Wiertz Museum, Quartier Européen.</figcaption>
   </figure>
 
-  <figure>
-    <img src="/images/brussels/botanique.jpg" alt="Hometown Image 2">
-    <figcaption>Botanical gardens.</figcaption>
-  </figure>
 
   <figure>
     <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
