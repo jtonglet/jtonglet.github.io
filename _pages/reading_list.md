@@ -13,7 +13,7 @@ List of books, I read and enjoyed.
 Belgian literature
 ======
 
-- De bourgondier : arartsvaders van de lage landen, Bart Van Loo
+- De bourgondiërs : aartsvaders van de Lage Landen, Bart Van Loo
 - Revolusi. Indonesië en het Onstaan van de Moderne Wereld, David Van Reybrouck
 - De opgang, Stefan Hertmans
 - Derrière la haine, Barbara Abel
@@ -22,6 +22,7 @@ Belgian literature
 International literature
 ======
 - La peste, Albert Camus
+- L'étranger, Albert Camus
 - Grave of the fireflies, Aikyuki Nosaka
 - L'ordre du jour, Eric Vuillard
 - A Column of Fire, Ken Follett
@@ -30,13 +31,16 @@ International literature
 - Le cosmos et le lotus, Trinh Xuan Thuan
 - A brief history of everyone who ever lived, Adam Rutherford
 - Far north, Marcel Theroux
+- Tales of the Otori, Lian Hearn
 - Surely You're joking, Mr. Feynman, Richard P. Feynman
 
 Graphic Novels
 ======
-Comic strips and graphic novels are an integral part of the franco-belgian culture. I am including here the works that have made a lasting impression on me and that deserve to be better known internationally.
+Comic strips and graphic novels are an integral part of the franco-belgian culture. I am including here the works that have made a lasting impression on me and that deserve to be better known internationally. Most of them have been translated in English and several other languages.
 
 - L'Arabe du Futur, Riad Sattouf
+- L'Atelier Mastodonte, collective work
+- Spirou, l'espoir malgré tout, Emile Bravo
 - Les deux vies de Baudouin, Fabien Toulmé
 - Chroniques de Jérusalem, Guy Delisle
 - L'âge d'or, Cyril Pedrosa
@@ -44,3 +48,4 @@ Comic strips and graphic novels are an integral part of the franco-belgian cultu
 - Le retour à la terre, Manu Larcenet
 - Jours de sable, Aimée de Jongh
 - Charlotte impératrice, Fabien Nury et Matthieu Bonhomme
+- Seuls, Fabien Vehlmann and Bruno Gazzotti
