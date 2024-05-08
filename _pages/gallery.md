@@ -1,14 +1,12 @@
 ---
 permalink: /gallery/
-title: "Brussels picture gallery"
+title: "Brussels in pictures"
 excerpt: "Pictures of Brussels."
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/gallery.html"
 ---
-
-Pictures of Brussels.
 
 <div class="gallery">
   <figure>
@@ -33,7 +31,7 @@ Pictures of Brussels.
   
   <figure>
     <img src="/images/brussels/mont_art.jpg" alt="Hometown Image 2">
-    <figcaption>Mont des arts, cultural heart of the upper town.</figcaption>
+    <figcaption>Mont des arts.</figcaption>
   </figure>
   
   <figure>
@@ -58,13 +56,13 @@ Pictures of Brussels.
 
   <figure>
     <img src="/images/brussels/bourse.jpg" alt="Hometown Image 2">
-    <figcaption>Brussel's old stock exchange.</figcaption>
+    <figcaption>Stock exchange.</figcaption>
   </figure>
 
 
   <figure>
     <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
-    <figcaption>Colored houses in Schaerbeek.</figcaption>
+    <figcaption>Schaerbeek.</figcaption>
   </figure>
 
   <figure>
@@ -74,7 +72,7 @@ Pictures of Brussels.
 
   <figure>
     <img src="/images/brussels/wiertz.jpg" alt="Hometown Image 2">
-    <figcaption>Wiertz Museum, Quartier Européen.</figcaption>
+    <figcaption>Wiertz Museum.</figcaption>
   </figure>
 
 
@@ -85,7 +83,7 @@ Pictures of Brussels.
   
   <figure>
     <img src="/images/brussels/broussaille.jpg" alt="Hometown Image 2">
-    <figcaption>Street art in the city center, based on the comic strip Broussaille.</figcaption>
+    <figcaption>Street art based on the comic strip Broussaille.</figcaption>
   </figure>
 
 
