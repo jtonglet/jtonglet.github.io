@@ -14,6 +14,7 @@ Belgian literature
 ======
 
 - De bourgondiërs : aartsvaders van de Lage Landen, Bart Van Loo
+- Napoleon : de schaduw van de revolutie, Bart Van Loo
 - Revolusi. Indonesië en het Onstaan van de Moderne Wereld, David Van Reybrouck
 - De opgang, Stefan Hertmans
 - Derrière la haine, Barbara Abel
@@ -26,13 +27,10 @@ International literature
 - Grave of the fireflies, Aikyuki Nosaka
 - L'ordre du jour, Eric Vuillard
 - A Column of Fire, Ken Follett
-- A promised land, Barack Obama
-- Homo Deus : A brief History of Tomorrow, Yuval Noah Arari
 - Le cosmos et le lotus, Trinh Xuan Thuan
-- A brief history of everyone who ever lived, Adam Rutherford
 - Far north, Marcel Theroux
 - Tales of the Otori, Lian Hearn
-- Surely You're joking, Mr. Feynman, Richard P. Feynman
+- L'oiseau bleu d'Erzeroum, Ian Manook
 
 Graphic Novels
 ======
