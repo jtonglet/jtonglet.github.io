@@ -11,20 +11,22 @@ redirect_from:
 Welcome, Bienvenue, Welkom, Willkomen! 
 
 I am an ELLIS PhD student supervised by Professor Iryna Gurevych at the UKP Lab in Darmstadt and Professors Marie-Francine Moens and Tinne Tuytelaars at KU Leuven. I am working on Multimodal Fact-Checking. 
-I recently graduated from the master of Artificial Intelligence at KU Leuven, with a specialization in Speech & Language Technologies. 
 
 
 ### **Research Interests**
 
-- Multimodal language models
-- Fact-Checking
+- Automated fact-Checking
+- Open Source Intelligence
+- Chart comprehension
 - Computational Social Science
 
 
 ### **News**
 
+- [September 2024] I am starting a 9-months research internship at [ESAT](https://www.esat.kuleuven.be/) in the group of Tinne Tuytelaars
+- [August 2024] New preprint: [Image, tell me your story!](https://www.arxiv.org/abs/2408.09939)
 - [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/) 
-- [Sep 2023] Started my joint ELLIS PhD at TU Darmstadt and KU Leuven 🚀
+- [Sep 2023] I started my joint ELLIS PhD at TU Darmstadt and KU Leuven 🚀
 
 ### **Contact**
 
@@ -36,6 +38,8 @@ firstname \[dot\] name \[at\] gmail \[dot\] com
 I come from Waterloo in the periphery of [Brussels](https://jtonglet.github.io/gallery.html).
 
 I keep a reading list [here](https://jtonglet.github.io/reading_list.html).
+
+In my free time, I enjoy cycling and hiking.
 
 
 
