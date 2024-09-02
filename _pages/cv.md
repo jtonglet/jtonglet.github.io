@@ -20,7 +20,7 @@ Education
   * **89.92%** *Summa Cum Laude with the Congratulations of the Board of Examiners* (best grades of the promotion)
   * Major in Speech and Language Technologies
   * Courses : Fundamentals of AI, Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering, Reinforcement Learning 
-  * Thesis : SEER: A Knapsack approach to exemplar selection for In-Context HybridQA, accepted as a long paper at EMNLP 2023
+  * Thesis : SEER: A Knapsack approach to exemplar selection for In-Context HybridQA, accepted as a long paper at EMNLP main 2023
 * **Exchange Semester - Computer Science & Enginering**, Politecnico di Milano, Fall 2021
   * **94.67%**
   * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
@@ -39,8 +39,7 @@ Education
 
 Industry experience
 ======
-* Summer 2021 : Research Intern
-  * Telenet Group
+* Summer 2021 : Research Intern at Telenet Group, Mechelen, Belgium
   * Duties included: Implementing a counterfactual explanation model for telco churn prediction
   * Supervisor: Professor Bart Baesens (academic), Anke Cassauwers (industry)
 
@@ -50,16 +49,21 @@ Awards
 
 Students
 ======
-* Jan Zimny : master thesis student (May 2024-January 2025)
-* Gabriel Thiem : master student assistant (February 2024 - ...)
+* Yusuf Heylen : master thesis student (Sep 2024 - Jun 2025)
+* Jan Zimny : master thesis student (May 2024 - Jan 2025)
+* Gabriel Thiem : student assistant (Feb 2024 - Dec 2024)
+* Niklas Traser : student assistant (Jun 2024 - Jul 2024)
 
 Service
 ======
-* Volunteer at EMNLP 2023
+* Volunteer at EMNLP 2023 in Singapore
 
 Publications
 ======
 
+
+* Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke,  and Bart Baesens. 2024. Evaluating text classification: A benchmark study. _Expert systems with applications_, 124302.   
+[https://doi.org/10.1016/j.eswa.2024.124302](https://doi.org/10.1016/j.eswa.2024.124302)
 * **Jonathan Tonglet**, Astrid Jehoul, Manon Reusens, Michael Reusens, and Bart Baesens. 2024. Predicting the demographics of Twitter users with programmatic weak supervision. _TOP_, 1-37.   
 [https://doi.org/10.1007/s11750-024-00666-y](https://doi.org/10.1007/s11750-024-00666-y)
 * **Jonathan Tonglet**, Manon Reusens, Philipp Borchert, and Bart Baesens. 2023. SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 13569–13583, Singapore. Association for Computational Linguistics.
@@ -75,7 +79,7 @@ Languages
 
 Miscellaneous
 ======
-* Vice-President of UStart LLN, the UCLouvain chapter of the Belgian student entrepeneurship society, 2018-2020
 * Partner Relations Lead for Emergent, the student data science and AI society of KU Leuven, 2021-2022
 * Student representative at the program committee, 2019 and 2023
+* Vice-President of UStart LLN, the UCLouvain chapter of the Belgian student entrepeneurship society, 2018-2020
 * Member of the University Board of Directors (UCLouvain), 2018-2019
