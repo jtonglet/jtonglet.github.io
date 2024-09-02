@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 📸 ["Image, tell me your story!:Predicting the original meta-context of visual misinformation](https://arxiv.org/abs/2408.09939)
+### 📸 ["Image, tell me your story!" Predicting the original meta-context of visual misinformation](https://arxiv.org/abs/2408.09939)
 **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych <br>
 arXiv preprint under review. 2024. \[[preprint](https://arxiv.org/abs/2408.09939)\] \[[code](https://github.com/UKPLab/5pils)\]
 
