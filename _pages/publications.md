@@ -7,7 +7,7 @@ author_profile: true
 
 ### 📸 ["Image, tell me your story!:Predicting the original meta-context of visual misinformation](https://arxiv.org/abs/2408.09939)
 **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych <br>
-Expert Systems with Applications. 2024. \[[preprint](https://arxiv.org/abs/2408.09939)\] \[[code](https://github.com/UKPLab/5pils)\]
+arXiv preprint under review. 2024. \[[preprint](https://arxiv.org/abs/2408.09939)\] \[[code](https://github.com/UKPLab/5pils)\]
 
 ### ⚖️ [Evaluating text classification: A benchmark study](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680)
 Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke, Bart Baesens <br>
