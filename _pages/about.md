@@ -11,7 +11,7 @@ redirect_from:
 Welcome, Bienvenue, Welkom, Willkomen! 
 
 I am an ELLIS PhD student working on multimodal fact-checking. I am supervised by Iryna Gurevych (TU Darmstadt), Marie-Francine Moens (KU Leuven), and Tinne Tuytelaars (KU Leuven). I am interested in research at the intersection of natural language processing and computer vision to assist human fact-checkers.  
-I am currently based in Leuven, Belgium.
+I am currently based at KU Leuven in Belgium. 
 
 
 ### **Research Interests**
