@@ -45,13 +45,15 @@
 .gallery {
   display: grid !important;
   grid-template-columns: repeat(2, 1fr) !important;
-  gap: 2px !important;
+  gap: 0px !important;
 }
 
 .gallery figure {
   position: relative;
   overflow: hidden;
   margin: 0;
+  margin: 0; /* Remove any default margin */
+  padding: 0; /* Ensure no padding around figures */
 }
 
 .gallery img {
