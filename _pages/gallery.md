@@ -10,6 +10,7 @@ redirect_from:
 
 <div class="gallery">
   <figure>
+    <a href="https://www.kbr.be/en/museum/" target="_blank">
     <img src="/images/brussels/bourgogne.jpg" alt="Hometown Image 1">
     <figcaption>The library of the Dukes of Burgundy, KBR museum.</figcaption>
   </figure>
