@@ -20,7 +20,7 @@ EMNLP main conference. 2023. \[[paper](https://aclanthology.org/2023.emnlp-main.
 ## Journal papers
 
 ### ⚖️ [Evaluating text classification: A benchmark study](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680)
-Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke, Bart Baesens <br>
+Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, <br> Wouter Verbeke, Seppe vanden Broucke, Bart Baesens <br>
 Expert Systems with Applications. 2024. \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680)\] \[[code](https://github.com/manon-reusens/text-classification-benchmark)\]
 
 ### 🐥 [Predicting the demographics of Twitter users with Programmatic Weak Supervision](https://link.springer.com/article/10.1007/s11750-024-00666-y)
