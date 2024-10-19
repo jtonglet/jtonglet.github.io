@@ -17,18 +17,24 @@ redirect_from:
   </figure>
 
   <figure>
-    <img src="/images/brussels/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
-    <figcaption>Hotel Van Eetvelde, Art Nouveau architecture.</figcaption>
+    <a href="https://www.lab-an.be/en/" target="_blank">
+      <img src="/images/brussels/hotel_van_eetvelde.jpg" alt="Hometown Image 2">
+      <figcaption>Hotel Van Eetvelde, Art Nouveau architecture.</figcaption>
+    </a>
   </figure>
 
    <figure>
-    <img src="/images/brussels/anneau.jpg" alt="Hometown Image 2">
-    <figcaption>Passerelle Tondo, Belgian Parliament.</figcaption>
+     <a href="https://belgiqueinsolite.com/passerelle-tondo/" target="_blank">
+       <img src="/images/brussels/anneau.jpg" alt="Hometown Image 2">
+       <figcaption>Passerelle Tondo, Belgian Parliament.</figcaption>
+     </a>
   </figure>
 
   <figure>
-    <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
-    <figcaption>Abbaye de la Cambre.</figcaption>
+    <a href=https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797" target="_blank">
+      <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
+      <figcaption>Abbaye de la Cambre.</figcaption>
+    </a>
   </figure>
   
   <figure>
@@ -72,20 +78,10 @@ redirect_from:
     <figcaption>Gare maritime, Tour & Taxi.</figcaption>
   </figure>
 
-  <figure>
-    <img src="/images/brussels/wiertz.jpg" alt="Hometown Image 2">
-    <figcaption>Wiertz Museum.</figcaption>
-  </figure>
-
 
   <figure>
     <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
     <figcaption>National basilica of the Sacred Heart.</figcaption>
-  </figure>
-  
-  <figure>
-    <img src="/images/brussels/broussaille.jpg" alt="Hometown Image 2">
-    <figcaption>Street art based on the comic strip Broussaille.</figcaption>
   </figure>
 
 
