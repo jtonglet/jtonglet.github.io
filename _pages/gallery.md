@@ -31,7 +31,7 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href=https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797" target="_blank">
+    <a href="https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797/" target="_blank">
       <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
       <figcaption>Abbaye de la Cambre.</figcaption>
     </a>
