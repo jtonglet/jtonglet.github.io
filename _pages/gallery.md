@@ -57,7 +57,7 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://fine-arts-museum.be/en" target="_blank">
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
     <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
     <figcaption>Royal parc.</figcaption>
       </a>
