@@ -67,6 +67,7 @@ redirect_from:
     <a href="https://maisonhannon.be/en" target="_blank">
     <img src="/images/brussels/art_nouv.jpg" alt="Hometown Image 2">
     <figcaption>Maison Hannon, painted wall, Art Nouveau.</figcaption>
+    </a>
   </figure>
 
   <figure>
