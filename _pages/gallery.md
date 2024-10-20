@@ -50,6 +50,13 @@ redirect_from:
     <figcaption>AfricaMuseum in Tervuren.</figcaption>
     </a>
   </figure>
+
+  <figure>
+    <a href="https://www.royalebelge-brussels.be/en/" target="_blank">
+    <img src="/images/brussels/fox2.PNG" alt="Hometown Image 2">
+    <figcaption>Royale Belge.</figcaption>
+    </a>
+  </figure>
   
   <figure>
     <img src="/images/brussels/tintin.jpg" alt="Hometown Image 2">
@@ -134,12 +141,6 @@ redirect_from:
     </a>
   </figure>
 
-  <figure>
-    <a href="https://www.royalebelge-brussels.be/en/" target="_blank">
-    <img src="/images/brussels/fox2.PNG" alt="Hometown Image 2">
-    <figcaption>Royale Belge.</figcaption>
-    </a>
-  </figure>
 
 
   <!-- Add more images and captions as needed -->
