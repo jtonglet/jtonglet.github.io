@@ -46,7 +46,7 @@ redirect_from:
 
   <figure>
     <a href="https://www.africamuseum.be/en/visit/" target="_blank">
-    <img src="/images/brussels/tervuren2.PNG" alt="Hometown Image 2">
+    <img src="/images/brussels/tervuren2.png" alt="Hometown Image 2">
     <figcaption>AfricaMuseum in Tervuren.</figcaption>
     </a>
   </figure>
