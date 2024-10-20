@@ -38,8 +38,10 @@ redirect_from:
   </figure>
   
   <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.The-Mont-des-Arts-Garden.266026/" target="_blank">
     <img src="/images/brussels/mont_art.jpg" alt="Hometown Image 2">
     <figcaption>Mont des arts.</figcaption>
+    </a>
   </figure>
   
   <figure>
@@ -48,45 +50,68 @@ redirect_from:
   </figure>
 
   <figure>
+    <a href="https://fine-arts-museum.be/en" target="_blank">
     <img src="/images/brussels/fine_arts.jpg" alt="Hometown Image 2">
     <figcaption>Royal Museum of Fine Arts.</figcaption>
+    </a>
   </figure>
 
   <figure>
+    <a href="https://fine-arts-museum.be/en" target="_blank">
     <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
     <figcaption>Royal parc.</figcaption>
+      </a>
   </figure>
 
   <figure>
+    <a href="https://maisonhannon.be/en" target="_blank">
     <img src="/images/brussels/art_nouv.jpg" alt="Hometown Image 2">
     <figcaption>Maison Hannon, painted wall, Art Nouveau.</figcaption>
   </figure>
 
   <figure>
+    <a href="https://www.belgianbeerworld.be/en/la-bourse" target="_blank">
     <img src="/images/brussels/bourse.jpg" alt="Hometown Image 2">
     <figcaption>Stock exchange.</figcaption>
+    </a>
   </figure>
 
 
   <figure>
     <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
-    <figcaption>Schaerbeek.</figcaption>
+    <figcaption>Houses in Schaerbeek.</figcaption>
+  </figure>
+
+    <figure>
+    <img src="/images/brussels/bolivar.jpg" alt="Hometown Image 2">
+    <figcaption>Boulevard Simon Bolivar.</figcaption>
   </figure>
 
   <figure>
+  <a href="https://tour-taxis.com/fr/event-space/gare-maritime/" target="_blank">
     <img src="/images/brussels/tour_taxi.jpg" alt="Hometown Image 2">
     <figcaption>Gare maritime, Tour & Taxi.</figcaption>
+  </a>
   </figure>
 
 
   <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.National-Basilica-of-the-Sacred-Heart-Koekelberg.270598" target="_blank">
     <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
     <figcaption>National basilica of the Sacred Heart.</figcaption>
+    </a>
   </figure>
 
     <figure>
     <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
     <figcaption>Pannenhuis metro station.</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://fine-arts-museum.be/en/museums/musee-wiertz-museum" target="_blank">
+    <img src="/images/brussels/wirtz_2.JPG" alt="Hometown Image 2">
+    <figcaption>Wirtz museum.</figcaption>
+    </a>
   </figure>
 
 
