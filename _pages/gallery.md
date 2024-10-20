@@ -1,4 +1,4 @@
-![art_nouv_3](https://github.com/user-attachments/assets/d80f7b6a-978d-420e-a379-8bfb8f2a3a08)---
+---
 permalink: /gallery/
 title: "Brussels in pictures"
 excerpt: "Pictures of Brussels."
