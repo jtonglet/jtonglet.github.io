@@ -111,7 +111,7 @@ redirect_from:
   <figure>
     <a href="https://fine-arts-museum.be/en/museums/musee-wiertz-museum" target="_blank">
     <img src="/images/brussels/wirtz_2.png" alt="Hometown Image 2">
-    <figcaption>Wirtz museum.</figcaption>
+    <figcaption>Wiertz museum.</figcaption>
     </a>
   </figure>
 
