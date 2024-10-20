@@ -1,4 +1,4 @@
----
+![art_nouv_3](https://github.com/user-attachments/assets/d80f7b6a-978d-420e-a379-8bfb8f2a3a08)---
 permalink: /gallery/
 title: "Brussels in pictures"
 excerpt: "Pictures of Brussels."
@@ -33,7 +33,7 @@ redirect_from:
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797/" target="_blank">
       <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
-      <figcaption>Abbaye de la Cambre.</figcaption>
+      <figcaption>La Cambre Abbey.</figcaption>
     </a>
   </figure>
   
@@ -43,10 +43,17 @@ redirect_from:
     <figcaption>Mont des arts.</figcaption>
     </a>
   </figure>
+
+  <figure>
+    <a href="https://www.africamuseum.be/en/visit/" target="_blank">
+    <img src="/images/brussels/tervuren.png" alt="Hometown Image 2">
+    <figcaption>AfricaMuseum in Tervuren.</figcaption>
+    </a>
+  </figure>
   
   <figure>
     <img src="/images/brussels/tintin.jpg" alt="Hometown Image 2">
-    <figcaption>Characters from the comic strip Tintin, in Stockel underground station.</figcaption>
+    <figcaption>Stockel metro station.</figcaption>
   </figure>
 
   <figure>
@@ -59,7 +66,7 @@ redirect_from:
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
     <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
-    <figcaption>Royal parc.</figcaption>
+    <figcaption>Brussels park.</figcaption>
       </a>
   </figure>
 
@@ -73,7 +80,7 @@ redirect_from:
   <figure>
     <a href="https://www.belgianbeerworld.be/en/la-bourse" target="_blank">
     <img src="/images/brussels/bourse.jpg" alt="Hometown Image 2">
-    <figcaption>Stock exchange.</figcaption>
+    <figcaption>La Bourse.</figcaption>
     </a>
   </figure>
 
@@ -99,7 +106,7 @@ redirect_from:
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.National-Basilica-of-the-Sacred-Heart-Koekelberg.270598" target="_blank">
     <img src="/images/brussels/koekelberg.jpg" alt="Hometown Image 2">
-    <figcaption>National basilica of the Sacred Heart.</figcaption>
+    <figcaption>National Basilica of the Sacred Heart.</figcaption>
     </a>
   </figure>
 
@@ -112,6 +119,25 @@ redirect_from:
     <a href="https://fine-arts-museum.be/en/museums/musee-wiertz-museum" target="_blank">
     <img src="/images/brussels/wirtz_2.png" alt="Hometown Image 2">
     <figcaption>Wiertz museum.</figcaption>
+    </a>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/rogier.PNG" alt="Hometown Image 2">
+    <figcaption>Place Rogier.</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://maisonhannon.be/en" target="_blank">
+    <img src="/images/brussels/art_nouv_3.JPG" alt="Hometown Image 2">
+    <figcaption>Maison Hannon, Art Nouveau architecture.</figcaption>
+    </a>
+  </figure>
+
+  <figure>
+    <a href="https://www.royalebelge-brussels.be/en/" target="_blank">
+    <img src="/images/brussels/fox2.PNG" alt="Hometown Image 2">
+    <figcaption>Royale Belge.</figcaption>
     </a>
   </figure>
 
