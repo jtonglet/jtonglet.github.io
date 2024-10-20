@@ -84,6 +84,11 @@ redirect_from:
     <figcaption>National basilica of the Sacred Heart.</figcaption>
   </figure>
 
+    <figure>
+    <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
+    <figcaption>Pannenhuis metro station.</figcaption>
+  </figure>
+
 
   <!-- Add more images and captions as needed -->
 </div>
