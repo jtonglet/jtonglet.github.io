@@ -10,7 +10,7 @@ author_profile: true
 
 ### 📸 ["Image, tell me your story!" Predicting the original meta-context of visual misinformation](https://arxiv.org/abs/2408.09939)
 **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych <br>
-EMNLP main conference. 2024. \[[preprint](https://arxiv.org/abs/2408.09939)\] \[[code](https://github.com/UKPLab/5pils)\]
+EMNLP main conference. 2024. \[[paper](https://aclanthology.org/2024.emnlp-main.448/)\] \[[code](https://github.com/UKPLab/5pils)\]
 
 ### 🔮 [SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA](https://aclanthology.org/2023.emnlp-main.837/)
 **Jonathan Tonglet**, Manon Reusens, Philipp Borchert, Bart Baesens <br>
