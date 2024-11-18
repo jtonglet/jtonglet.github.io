@@ -17,15 +17,16 @@ I am currently based at KU Leuven in Belgium.
 
 ### **Research Interests**
 
-- Multimodal fact-Checking
-- Open Source Intelligence
+- Multimodal automated fact-Checking
+- Automation for Open Source Intelligence
 - Chart reasoning with LLMs
 - Computational Social Science
 
 
 ### **News**
 
-- [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://www.arxiv.org/abs/2408.09939)
+- [Oct 2024] My paper [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented during the opening keynote of ECAI 2024
+- [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/)
 - [Sep 2024] I am starting a 9-months research internship at [ESAT](https://www.esat.kuleuven.be/) (KU Leuven)
 - [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/) 
 - [Sep 2023] I started a joint ELLIS PhD program at TU Darmstadt and KU Leuven 🚀
@@ -33,7 +34,7 @@ I am currently based at KU Leuven in Belgium.
 ### **Contact**
 
 Feel free to get in touch. 
-firstname \[dot\] name \[at\] gmail \[dot\] com 
+firstname \[dot\] name \[at\] tu-darmstadt \[dot\] de
 
 ### **Miscellaneous** 
 
@@ -41,7 +42,7 @@ I come from Waterloo in the periphery of [Brussels](https://jtonglet.github.io/g
 
 I keep a reading list [here](https://jtonglet.github.io/reading_list.html).
 
-In my free time, I enjoy cycling and hiking.
+In my free time, I enjoy cycling, hiking, and playing board games.
 
 
 
