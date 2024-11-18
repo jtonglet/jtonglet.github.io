@@ -9,7 +9,7 @@ author_profile: true
 
 ### Fall 2024
 
-🤖 [Capita Selecta Computer Science: Artificial Intelligence](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05N0AE.htm#activetab=doelstellingen_idp1598720). Professor : Marie-Francie Moens.
+🤖 [Capita Selecta Computer Science: Artificial Intelligence](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05N0AE.htm#activetab=doelstellingen_idp1598720). Professor : Marie-Francie Moens. <br>
 Content: Integer Linear Programming for NLP, Machine translation.
 
 ### Spring 2020
