@@ -25,7 +25,7 @@ I am currently based at KU Leuven in Belgium.
 
 ### **News**
 
-- [Oct 2024] My paper [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented during the opening keynote of ECAI 2024
+- [Oct 2024] [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented in the opening keynote at ECAI 2024
 - [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/)
 - [Sep 2024] I am starting a 9-months research internship at [ESAT](https://www.esat.kuleuven.be/) (KU Leuven)
 - [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/) 
