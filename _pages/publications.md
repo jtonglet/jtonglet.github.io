@@ -7,7 +7,7 @@ author_profile: true
 
 ### Conference papers
 
-📸 **["Image, tell me your story!" Predicting the original meta-context of visual misinformation](https://aclanthology.org/2024.emnlp-main.448)** <br>
+📸 **"Image, tell me your story!" Predicting the original meta-context of visual misinformation** <br>
 **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych <br>
 EMNLP main conference. 2024. \[[paper](https://aclanthology.org/2024.emnlp-main.448/)\] \[[code](https://github.com/UKPLab/5pils)\]
 
