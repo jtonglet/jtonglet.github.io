@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Conference papers
+## Conference papers
 
 🏖️ **COVE: COntext and VEracity prediction for out-of-context images** <br>
 **Jonathan Tonglet**, Gabriel Thiem, Iryna Gurevych <br>
@@ -22,7 +22,7 @@ EMNLP main conference. 2024.<br>
 EMNLP main conference. 2023. <br>
 📄[paper](https://aclanthology.org/2023.emnlp-main.837/) 💻[code](https://github.com/jtonglet/SEER)
 
-### Journal papers
+## Journal papers
 
 ⚖️ **Evaluating text classification: A benchmark study** <br>
 Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, <br> Wouter Verbeke, Seppe vanden Broucke, Bart Baesens <br>
