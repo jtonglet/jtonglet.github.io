@@ -7,6 +7,11 @@ author_profile: true
 
 ### Conference papers
 
+🏖️ **COVE: COntext and VEracity prediction for out-of-context images** <br>
+**Jonathan Tonglet**, Gabriel Thiem, Iryna Gurevych <br>
+NAACL main conference. 2025. <br>
+📄[preprint](https://arxiv.org/abs/2502.01194) 💻[code](https://github.com/UKPLab/naacl2025-cove)
+
 📸 **"Image, tell me your story!" Predicting the original meta-context of visual misinformation** <br>
 **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych <br>
 EMNLP main conference. 2024.<br>
