@@ -15,7 +15,7 @@ Education
 ======
 * **ELLIS PhD Student in Computer Science**, TU Darmstadt and KU Leuven, 2023-2027
   * Supervisors : Iryna Gurevych (TU Darmstadt), Marie-Francine Moens (KU Leuven), and Tinne Tuytelaars (KU Leuven)
-  * Research on real-world fact-checking, image verification, and computational social science
+  * Research on real-world fact-checking, chart understanding, and computational social science
 * **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023
   * **89.92%** *Summa Cum Laude with the Congratulations of the Board of Examiners* (best grades of the promotion)
   * Major in Speech and Language Technologies
@@ -40,7 +40,7 @@ Education
 Industry experience
 ======
 * Summer 2021 : Research Intern at Telenet Group, Mechelen, Belgium
-  * Duties included: Implementing a counterfactual explanation model for telco churn prediction
+  * Duties: Implementing a counterfactual explanation model for telco churn prediction
   * Supervisor: Professor Bart Baesens (academic), Anke Cassauwers (industry)
 
 Awards
@@ -49,14 +49,15 @@ Awards
 
 Students
 ======
-* Yusuf Heylen : master thesis student (Sep 2024 - Jun 2025)
-* Jan Zimny : master thesis student (May 2024 - Feb 2025)
-* Gabriel Thiem : student assistant (Feb 2024 - Dec 2024)
+* Yusuf Heylen : master thesis student (Feb 2025 - ongoing)
+* Jan Zimny : master thesis student (May 2024 - ongoing)
+* Gabriel Thiem : student assistant (Feb 2024 - Jan 2025), now at Deutsche Bundesbank
 * Niklas Traser : student assistant (Jun 2024 - Jul 2024)
 
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
+* Reviewer for NAACL 2025
 
 Publications
 ======
