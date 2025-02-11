@@ -17,7 +17,7 @@ Most research in multimodal automated fact-checking focuses on predicting the ve
 In this project, we assemble datasets and propose methods to assist human fact-checkers in predicting the true context of multimodal misinformation content.
 
 ## 📖 Related works 
-- [5Pils](https://aclanthology.org/2024.emnlp-main.448/) dataset (EMMNLP 2024)
+- [5Pils](https://aclanthology.org/2024.emnlp-main.448/) dataset (EMNLP 2024)
 - [COVE](https://arxiv.org/abs/2502.01194) (NAACL 2025)
 
 
