@@ -35,4 +35,14 @@ Transactions in Operations Research. 2024. <br>
 🎓 Equal contribution <br>
 📄[paper](https://link.springer.com/article/10.1007/s11750-024-00666-y) 💻[code](https://github.com/jtonglet/Demographics-PWS) <br>
 
+## Preprints
 
+**Protecting multimodal large language models against misleading visualizations** <br>
+**Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych <br>
+arXiv preprint. 2025. <br>
+📄coming soon 💻coming soon <br>
+
+🗺️**Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework** <br>
+Zirui Song, Jingpu Yang, Yuan Huang, **Jonathan Tonglet**, Zeyu Zhang, <br> Tao Cheng, Meng Fang, Iryna Gurevych, Xiuying Chen <br>
+arXiv preprint. 2025. <br>
+📄[paper](https://arxiv.org/abs/2502.13759) 🤗[data](https://huggingface.co/datasets/ShirohAO/tuxun)
