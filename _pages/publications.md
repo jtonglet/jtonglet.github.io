@@ -37,7 +37,7 @@ Transactions in Operations Research. 2024. <br>
 
 ## Preprints
 
-**Protecting multimodal large language models against misleading visualizations** <br>
+📊**Protecting multimodal large language models against misleading visualizations** <br>
 **Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych <br>
 arXiv preprint. 2025. <br>
 📄coming soon 💻coming soon <br>
