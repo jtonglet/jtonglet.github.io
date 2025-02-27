@@ -45,16 +45,16 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://www.africamuseum.be/en/visit/" target="_blank">
-    <img src="/images/brussels/tervuren2.png" alt="Hometown Image 2">
-    <figcaption>AfricaMuseum in Tervuren.</figcaption>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Horta-Lambeaux-pavilion.263131 target="_blank">
+    <img src="/images/brussels/passions_humaines_3.jpg" alt="Hometown Image 2">
+    <figcaption>Horta-Lambeaux pavilion.</figcaption>
     </a>
   </figure>
 
   <figure>
-    <a href="https://www.royalebelge-brussels.be/en/" target="_blank">
-    <img src="/images/brussels/fox2.PNG" alt="Hometown Image 2">
-    <figcaption>Royale Belge.</figcaption>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Cathedrale-Saints-Michel-et-Gudule.478" target="_blank">
+    <img src="/images/brussels/cathedrale_1.jpg" alt="Hometown Image 2">
+    <figcaption>Cathedrale Saints Michel et Gudule.</figcaption>
     </a>
   </figure>
   
@@ -135,10 +135,8 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://maisonhannon.be/en" target="_blank">
-    <img src="/images/brussels/art_nouv_3.JPG" alt="Hometown Image 2">
-    <figcaption>Maison Hannon, Art Nouveau architecture.</figcaption>
-    </a>
+    <img src="/images/brussels/schaerbeek_street.JPG" alt="Hometown Image 2">
+    <figcaption>Avenue Louis Bertrand, Schaerbeek.</figcaption>
   </figure>
 
 
