@@ -45,7 +45,7 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://www.visit.brussels/en/visitors/venue-details.Horta-Lambeaux-pavilion.263131 target="_blank">
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Horta-Lambeaux-pavilion.263131/" target="_blank">
     <img src="/images/brussels/passions_humaines_3.jpg" alt="Hometown Image 2">
     <figcaption>Horta-Lambeaux pavilion.</figcaption>
     </a>
