@@ -18,7 +18,7 @@ I am currently based at KU Leuven in Belgium.
 ### **Research Interests**
 
 - Multimodal automated fact-Checking
-- Chart reasoning with LLMs
+- Misleading visualizations and misinformation with charts
 - Computational Social Science
 
 
