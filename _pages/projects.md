@@ -8,7 +8,7 @@ author_profile: true
 # Image contextualization for fact-checking
 
 <p align="center">
-  <img width="75%" src="../images/introducory_example.png" alt="5pils_examples" />
+  <img width="50%" src="../images/introducory_example.png" alt="5pils_examples" />
 </p>
 
 ## 🗒️Summary
@@ -19,6 +19,17 @@ In this project, we assemble datasets and propose methods to assist human fact-c
 ## 📖 Related works 
 - [5Pils](https://aclanthology.org/2024.emnlp-main.448/) (EMNLP 2024)
 - [COVE](https://arxiv.org/abs/2502.01194) (NAACL 2025)
+
+# Countering misleading visualizations and misinformation with charts
+
+<p align="center">
+  <img width="75%" src="../images/real_world_examples.png" alt="misleading_visualizations_examples" />
+</p>
+
+## 🗒️Summary
+Charts and data visualizations are a convenient way to communicate about data. However, they can also be used to misinform readers by distorting the underlying data, for example, by truncating or inverting the axes. 
+
+In this project, we evaluate whether MLLMs are vulnerable to such misleading visualizations and we propose correction methods to mitigate their negative effects.
 
 
 
