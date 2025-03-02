@@ -58,17 +58,18 @@ redirect_from:
     </a>
   </figure>
   
-  <figure>
-    <img src="/images/brussels/tintin.jpg" alt="Hometown Image 2">
-    <figcaption>Stockel metro station.</figcaption>
+    <figure>
+    <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
+    <figcaption>Pannenhuis metro station.</figcaption>
   </figure>
 
-  <figure>
-    <a href="https://fine-arts-museum.be/en" target="_blank">
-    <img src="/images/brussels/fine_arts.jpg" alt="Hometown Image 2">
-    <figcaption>Royal Museum of Fine Arts.</figcaption>
+    <figure>
+    <a href="https://hotelsolvay.be/en/" target="_blank">
+    <img src="/images/brussels/hotel-solvay.jpg" alt="Hometown Image 2">
+    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
     </a>
   </figure>
+
 
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
@@ -117,10 +118,13 @@ redirect_from:
     </a>
   </figure>
 
-    <figure>
-    <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
-    <figcaption>Pannenhuis metro station.</figcaption>
+      <figure>
+    <a href="https://hotelsolvay.be/en/" target="_blank">
+    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
+    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
+    </a>
   </figure>
+
 
   <figure>
     <a href="https://fine-arts-museum.be/en/museums/musee-wiertz-museum" target="_blank">
