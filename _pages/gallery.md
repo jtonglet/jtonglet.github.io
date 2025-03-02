@@ -58,9 +58,11 @@ redirect_from:
     </a>
   </figure>
   
-    <figure>
-    <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
-    <figcaption>Pannenhuis metro station.</figcaption>
+  <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
+    <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
+    <figcaption>Brussels park.</figcaption>
+      </a>
   </figure>
 
     <figure>
@@ -72,11 +74,18 @@ redirect_from:
 
 
   <figure>
-    <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
-    <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
-    <figcaption>Brussels park.</figcaption>
-      </a>
+    <a href="https://hotelsolvay.be/en/" target="_blank">
+    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
+    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
+    </a>
   </figure>
+
+    <figure>
+    <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
+    <figcaption>Pannenhuis metro station.</figcaption>
+  </figure>
+
+  
 
   <figure>
     <a href="https://maisonhannon.be/en" target="_blank">
@@ -118,12 +127,7 @@ redirect_from:
     </a>
   </figure>
 
-      <figure>
-    <a href="https://hotelsolvay.be/en/" target="_blank">
-    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
-    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
-    </a>
-  </figure>
+
 
 
   <figure>
