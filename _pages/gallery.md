@@ -72,13 +72,11 @@ redirect_from:
     </a>
   </figure>
 
-
   <figure>
-    <a href="https://hotelsolvay.be/en/" target="_blank">
-    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
-    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
-    </a>
+    <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
+    <figcaption>Houses in Schaerbeek.</figcaption>
   </figure>
+
 
     <figure>
     <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
@@ -101,11 +99,6 @@ redirect_from:
     </a>
   </figure>
 
-
-  <figure>
-    <img src="/images/brussels/schaerbeek.jpg" alt="Hometown Image 2">
-    <figcaption>Houses in Schaerbeek.</figcaption>
-  </figure>
 
     <figure>
     <img src="/images/brussels/bolivar.jpg" alt="Hometown Image 2">
@@ -147,6 +140,12 @@ redirect_from:
     <figcaption>Avenue Louis Bertrand, Schaerbeek.</figcaption>
   </figure>
 
+  <figure>
+    <a href="https://hotelsolvay.be/en/" target="_blank">
+    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
+    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
+    </a>
+  </figure>
 
 
   <!-- Add more images and captions as needed -->
