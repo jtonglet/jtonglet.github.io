@@ -29,7 +29,10 @@ In this project, we assemble datasets and propose methods to assist human fact-c
 ## 🗒️Summary
 Charts and data visualizations are a convenient way to communicate about data. However, they can also be used to misinform readers by distorting the underlying data, for example, by truncating or inverting the axes. 
 
-In this project, we evaluate whether MLLMs are vulnerable to such misleading visualizations and we propose correction methods to mitigate their negative effects.
+In this project, we evaluate whether MLLMs are vulnerable to such misleading visualizations and we propose detection and correction methods to mitigate their negative effects.
+
+## 📖 Related works 
+- [Protecting MLLMs against misleading visualizations](https://arxiv.org/abs/2502.20503) (arXiv preprint 2025)
 
 
 
