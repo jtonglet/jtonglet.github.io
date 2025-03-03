@@ -147,6 +147,20 @@ redirect_from:
     </a>
   </figure>
 
+    <figure>
+    <a href="https://en.wikipedia.org/wiki/CBR_Building" target="_blank">
+    <img src="/images/brussels/cbr-2.jpg" alt="Hometown Image 2">
+    <figcaption>CBR Building, Boitsfort.</figcaption>
+    </a>
+  </figure>
+
+  <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Le-Logis-and-Floreal-Garden-Cities.266021" target="_blank">
+    <img src="/images/brussels/floreal.jpg" alt="Hometown Image 2">
+    <figcaption>Garden City Floréal.</figcaption>
+    </a>
+  </figure>
+
 
   <!-- Add more images and captions as needed -->
 </div>
