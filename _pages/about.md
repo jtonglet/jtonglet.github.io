@@ -24,6 +24,7 @@ I am currently based at KU Leuven in Belgium.
 
 ### **News**
 
+- [Oct 2024] New preprint: [Protecting MLLMs against misleading visualizations](https://arxiv.org/abs/2502.20503)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://arxiv.org/abs/2502.01194) 
 - [Oct 2024] [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented in the opening keynote at ECAI 2024
 - [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/)
