@@ -87,9 +87,21 @@ redirect_from:
 
   <figure>
     <a href="https://maisonhannon.be/en" target="_blank">
-    <img src="/images/brussels/art_nouv.jpg" alt="Hometown Image 2">
+    <img src="/images/brussels/hannon_2.png" alt="Hometown Image 2">
     <figcaption>Maison Hannon, painted wall, Art Nouveau.</figcaption>
     </a>
+  </figure>
+
+  <figure>
+    <a href="https://botanique.be/en" target="_blank">
+    <img src="/images/brussels/botanique_2.png" alt="Hometown Image 2">
+    <figcaption>Botanique.</figcaption>
+    </a>
+  </figure>
+
+  <figure>
+    <img src="/images/brussels/centrale.png" alt="Hometown Image 2">
+    <figcaption>Galerie Horta.</figcaption>
   </figure>
 
   <figure>
