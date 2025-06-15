@@ -10,12 +10,11 @@ redirect_from:
 
 Welcome, Bienvenue, Welkom, Willkomen! 
 
-I am a 2nd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html). <br>
+I am a 2nd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
 
 <br>
 
-I am broadly interested in applications of natural language processing for computational social science and misinformation detection. My current research project involves facilitating the work of professional fact-checkers to verify multimodal misinformation. <br>
-I am currently based at KU Leuven in Belgium. 
+I am interested in applications of natural language processing for computational social science and misinformation detection.
 
 
 ### **Research Interests**
@@ -27,9 +26,9 @@ I am currently based at KU Leuven in Belgium.
 
 ### **News**
 
-- [Apr 2025] I will be in Albuquerque for NAACL 2025!
+- [June 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
-- [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://arxiv.org/abs/2502.01194) 
+- [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
 - [Oct 2024] [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented in the opening keynote at ECAI 2024
 - [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/)
 - [Sep 2024] I am starting a 9-months research internship at [ESAT](https://www.esat.kuleuven.be/) (KU Leuven)
@@ -43,7 +42,7 @@ firstname \[dot\] name \[at\] tu-darmstadt \[dot\] de
 
 ### **Miscellaneous** 
 
-I come from Waterloo. Yes, the one where the famous French emperor was defeated. Come see one of the [yearly reenactements](https://visitwallonia.com/en-gb/content/reenactment-battle-june-18-1815-domaine-de-waterloo) of the battle and discover the beautiful nature of my home region [Wallonia](https://visitwallonia.com/) and the vibrant culture of Belgium's capital: [Brussels](https://jtonglet.github.io/gallery.html).
+I come from Waterloo, in the periphery of Brussels. Yes, the one where the famous French emperor was defeated. Come and see one of the [yearly reenactements](https://visitwallonia.com/en-gb/content/reenactment-battle-june-18-1815-domaine-de-waterloo) of the battle and discover the beautiful nature of my home region [Wallonia](https://visitwallonia.com/) and the vibrant culture of Belgium's capital: [Brussels](https://jtonglet.github.io/gallery.html).
 
 I keep a reading list [here](https://jtonglet.github.io/reading_list.html).
 
