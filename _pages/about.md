@@ -12,7 +12,6 @@ Welcome, Bienvenue, Welkom, Willkomen!
 
 I am a 2nd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
 
-<br>
 
 I am interested in applications of natural language processing for computational social science and misinformation detection.
 
