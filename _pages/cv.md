@@ -64,12 +64,9 @@ Publications
 
 * **Jonathan Tonglet**, Gabriel Thiem, and Iryna Gurevych. 2025. COVE: COntext and VEracity prediction for out-of-context images. In Proceedins of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2029-2049, Albuquerque. Association for Computational Linguistics.
 [https://aclanthology.org/2025.naacl-long.102/](https://aclanthology.org/2025.naacl-long.102/)
-* **Jonathan Tonglet**, Marie-Francine Moens, and Iryna Gurevych. 2024. ``Image, Tell me your story!'' Predicting the original meta-context of visual misinformation. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 7845–7864, Miami. Association for Computational Linguistics.
-[https://aclanthology.org/2024.emnlp-main.448/](https://aclanthology.org/2024.emnlp-main.448/)
-* Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke,  and Bart Baesens. 2024. Evaluating text classification: A benchmark study. _Expert systems with applications_, 124302.   
-[https://doi.org/10.1016/j.eswa.2024.124302](https://doi.org/10.1016/j.eswa.2024.124302)
-* **Jonathan Tonglet**, Astrid Jehoul, Manon Reusens, Michael Reusens, and Bart Baesens. 2024. Predicting the demographics of Twitter users with programmatic weak supervision. _TOP_, 1-37.   
-[https://doi.org/10.1007/s11750-024-00666-y](https://doi.org/10.1007/s11750-024-00666-y)
+* **Jonathan Tonglet**, Marie-Francine Moens, and Iryna Gurevych. 2024. ``Image, Tell me your story!'' Predicting the original meta-context of visual misinformation. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 7845–7864, Miami. Association for Computational Linguistics. [https://aclanthology.org/2024.emnlp-main.448/](https://aclanthology.org/2024.emnlp-main.448/)
+* Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke,  and Bart Baesens. 2024. Evaluating text classification: A benchmark study. _Expert systems with applications_, 124302. [https://doi.org/10.1016/j.eswa.2024.124302](https://doi.org/10.1016/j.eswa.2024.124302)
+* **Jonathan Tonglet**, Astrid Jehoul, Manon Reusens, Michael Reusens, and Bart Baesens. 2024. Predicting the demographics of Twitter users with programmatic weak supervision. _TOP_, 1-37. [https://doi.org/10.1007/s11750-024-00666-y](https://doi.org/10.1007/s11750-024-00666-y)
 * **Jonathan Tonglet**, Manon Reusens, Philipp Borchert, and Bart Baesens. 2023. SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 13569–13583, Singapore. Association for Computational Linguistics.
 [https://doi.org/10.18653/v1/2023.emnlp-main.837](https://doi.org/10.18653/v1/2023.emnlp-main.837)
 
