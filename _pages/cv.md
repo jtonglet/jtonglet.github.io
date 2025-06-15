@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Want to collaborate on a research project? Feel free to contact me by mail! 
+Want to collaborate on a research project? Feel free to contact me by mail! firstname dot lastname at tu-darmstadt dot de
 
 Education
 ======
@@ -50,19 +50,21 @@ Awards
 Students
 ======
 * Yusuf Heylen : master thesis student (Feb 2025 - ongoing)
-* Jan Zimny : master thesis student (May 2024 - ongoing)
+* Jan Zimny : master thesis student (May 2024 - May 2025)
 * Gabriel Thiem : student assistant (Feb 2024 - Jan 2025), now at Deutsche Bundesbank
 * Niklas Traser : student assistant (Jun 2024 - Jul 2024)
 
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
-* Reviewer for NAACL 2025
+* Reviewer for NAACL 2025, ACL 2025, EMNLP 2025, Nature Communications
 
 Publications
 ======
 
-* **Jonathan Tonglet**, Marie-Francine Moens, Iryna Gurevych. 2024. ``Image, Tell me your story!'' Predicting the original meta-context of visual misinformation. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 7845–7864, Miami. Association for Computational Linguistics.
+* **Jonathan Tonglet**, Gabriel Thiem, and Iryna Gurevych. 2025. COVE: COntext and VEracity prediction for out-of-context images. In Proceedins of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2029-2049, Albuquerque. Association for Computational Linguistics.
+[https://aclanthology.org/2025.naacl-long.102/](https://aclanthology.org/2025.naacl-long.102/)
+* **Jonathan Tonglet**, Marie-Francine Moens, and Iryna Gurevych. 2024. ``Image, Tell me your story!'' Predicting the original meta-context of visual misinformation. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 7845–7864, Miami. Association for Computational Linguistics.
 [https://aclanthology.org/2024.emnlp-main.448/](https://aclanthology.org/2024.emnlp-main.448/)
 * Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke,  and Bart Baesens. 2024. Evaluating text classification: A benchmark study. _Expert systems with applications_, 124302.   
 [https://doi.org/10.1016/j.eswa.2024.124302](https://doi.org/10.1016/j.eswa.2024.124302)
@@ -82,6 +84,7 @@ Languages
 Miscellaneous
 ======
 * Partner Relations Lead for Emergent, the student data science and AI society of KU Leuven, 2021-2022
+  * In charge of our core partnership with Amazon Web Services
 * Student representative at the program committee, 2019 and 2023
 * Vice-President of UStart LLN, the UCLouvain chapter of the Belgian student entrepeneurship society, 2018-2020
-* Member of the University Board of Directors (UCLouvain), 2018-2019
+* Member of the UCLouvain University Board of Directors, 2018-2019
