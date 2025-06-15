@@ -36,6 +36,7 @@ Graphic Novels
 Comic strips and graphic novels are an integral part of the franco-belgian culture. I am including here the works that have made a lasting impression on me and that deserve to be better known internationally. Most of them have been translated in English and several other languages.
 
 - L'Arabe du Futur, Riad Sattouf
+- Les cahiers d'Esther, Riad sattouf
 - La route, Manu Larcenet
 - L'Atelier Mastodonte, collective work
 - Spirou, l'espoir malgré tout, Emile Bravo
