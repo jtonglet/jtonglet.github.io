@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Want to collaborate on a research project? Feel free to contact me by mail! firstname dot lastname at tu-darmstadt dot de
+Want to collaborate on a research project? Feel free to contact me by mail! <br>
+firstname[dot]lastname[at]tu-darmstadt[dot]de
 
 Education
 ======
