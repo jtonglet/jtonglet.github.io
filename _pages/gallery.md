@@ -23,28 +23,28 @@ redirect_from:
     </a>
   </figure>
 
-   <figure>
+  <figure>
      <a href="https://belgiqueinsolite.com/passerelle-tondo/" target="_blank">
        <img src="/images/brussels/anneau.jpg" alt="Hometown Image 2">
        <figcaption>Passerelle Tondo, Belgian Parliament.</figcaption>
      </a>
   </figure>
 
-    <figure>
+  <figure>
     <a href="https://en.wikipedia.org/wiki/CBR_Building" target="_blank">
     <img src="/images/brussels/cbr-2.jpg" alt="Hometown Image 2">
     <figcaption>CBR Building, Boitsfort.</figcaption>
     </a>
   </figure>
 
-      <figure>
+  <figure>
     <a href="https://www.monarchie.be/en/heritage/royal-greenhouses-in-laeken" target="_blank">
     <img src="/images/brussels/laeken_4.png" alt="Hometown Image 2">
     <figcaption>Royal greenhouses, Laeken.</figcaption>
     </a>
   </figure>
 
-        <figure>
+  <figure>
     <a href="http://visit.brussels/en/visitors/venue-details.Grand-Place.3743" target="_blank">
     <img src="/images/brussels/grand_place.png" alt="Hometown Image 2">
     <figcaption>Grande place.</figcaption>
@@ -59,7 +59,7 @@ redirect_from:
     </a>
   </figure>
 
-    <figure>
+  <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797/" target="_blank">
       <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
       <figcaption>La Cambre Abbey.</figcaption>
@@ -89,14 +89,14 @@ redirect_from:
       </a>
   </figure>
 
-        <figure>
+  <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.Japanese-Tower-Museums-of-the-Far-East.241960" target="_blank">
     <img src="/images/brussels/laeken_5.png" alt="Hometown Image 2">
     <figcaption>Japanese tower, Laeken.</figcaption>
     </a>
   </figure>
 
-    <figure>
+  <figure>
     <a href="https://hotelsolvay.be/en/" target="_blank">
     <img src="/images/brussels/hotel-solvay.jpg" alt="Hometown Image 2">
     <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
@@ -109,7 +109,7 @@ redirect_from:
   </figure>
 
 
-    <figure>
+  <figure>
     <img src="/images/brussels/pannenhuis.JPG" alt="Hometown Image 2">
     <figcaption>Pannenhuis metro station.</figcaption>
   </figure>
@@ -143,16 +143,16 @@ redirect_from:
   </figure>
 
 
-    <figure>
+  <figure>
     <img src="/images/brussels/bolivar.jpg" alt="Hometown Image 2">
     <figcaption>Boulevard Simon Bolivar.</figcaption>
   </figure>
 
   <figure>
-  <a href="https://tour-taxis.com/fr/event-space/gare-maritime/" target="_blank">
+    <a href="https://tour-taxis.com/fr/event-space/gare-maritime/" target="_blank">
     <img src="/images/brussels/tour_taxi.jpg" alt="Hometown Image 2">
     <figcaption>Gare maritime, Tour & Taxi.</figcaption>
-  </a>
+    </a>
   </figure>
 
 
@@ -182,7 +182,7 @@ redirect_from:
     <figcaption>Avenue Louis Bertrand, Schaerbeek.</figcaption>
   </figure>
 
-          <figure>
+  <figure>
     <a href="http://visit.brussels/en/visitors/venue-details.The-Royal-Castle-in-Laeken.248754" target="_blank">
     <img src="/images/brussels/laeken_3.png" alt="Hometown Image 2">
     <figcaption>Royal palace, Laeken.</figcaption>
@@ -212,7 +212,7 @@ redirect_from:
     </a>
   </figure> 
 
-    <figure>
+  <figure>
     <a href="https://www.bruxellesmabelle.net/en/lieux/galerie-ravenstein/" target="_blank">
     <img src="/images/brussels/ravenstein.png" alt="Hometown Image 2">
     <figcaption>Galerie Ravenstein.</figcaption>
