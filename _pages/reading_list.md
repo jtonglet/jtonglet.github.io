@@ -8,19 +8,19 @@ redirect_from:
   - "/reading_list.html"
 ---
 
-List of books, I read and enjoyed.
+Non-exhaustive list of books, I read and enjoyed.
 
-Belgian literature
+Belgium
 ======
 
 - De bourgondiërs : aartsvaders van de Lage Landen, Bart Van Loo
 - Napoleon : de schaduw van de revolutie, Bart Van Loo
 - Revolusi. Indonesië en het Onstaan van de Moderne Wereld, David Van Reybrouck
 - De opgang, Stefan Hertmans
+- Lettre à mon frère Naïm, Bichara Khader
 - Derrière la haine, Barbara Abel
-- Et dans la jungle Dieu dansait, Alain Lallemand
 
-International literature
+International
 ======
 - La peste, Albert Camus
 - L'étranger, Albert Camus
