@@ -138,7 +138,7 @@ redirect_from:
   <figure>
     <a href="https://www.visit.brussels/en/visitors/plan-your-trip/neighbourhood-walk--the-sablon-and-the-marolles" target="_blank">
     <img src="/images/brussels/sablon.png" alt="Hometown Image 2">
-    <figcaption>The Sablon and the palace of justice/figcaption>
+    <figcaption>The Sablon and the palace of justice.</figcaption>
     </a>
   </figure>
 
