@@ -30,17 +30,39 @@ redirect_from:
      </a>
   </figure>
 
-  <figure>
-    <a href="https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797/" target="_blank">
-      <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
-      <figcaption>La Cambre Abbey.</figcaption>
+    <figure>
+    <a href="https://en.wikipedia.org/wiki/CBR_Building" target="_blank">
+    <img src="/images/brussels/cbr-2.jpg" alt="Hometown Image 2">
+    <figcaption>CBR Building, Boitsfort.</figcaption>
     </a>
   </figure>
+
+      <figure>
+    <a href="https://www.monarchie.be/en/heritage/royal-greenhouses-in-laeken" target="_blank">
+    <img src="/images/brussels/laeken_4.png" alt="Hometown Image 2">
+    <figcaption>Royal greenhouses, Laeken.</figcaption>
+    </a>
+  </figure>
+
+        <figure>
+    <a href="http://visit.brussels/en/visitors/venue-details.Grand-Place.3743" target="_blank">
+    <img src="/images/brussels/grand_place.png" alt="Hometown Image 2">
+    <figcaption>Grande place.</figcaption>
+    </a>
+  </figure>
+
   
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.The-Mont-des-Arts-Garden.266026/" target="_blank">
-    <img src="/images/brussels/mont_art.jpg" alt="Hometown Image 2">
+    <img src="/images/brussels/arts.png" alt="Hometown Image 2">
     <figcaption>Mont des arts.</figcaption>
+    </a>
+  </figure>
+
+    <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.La-Cambre-Abbey.248797/" target="_blank">
+      <img src="/images/brussels/abbaye_cambre.jpg" alt="Hometown Image 2">
+      <figcaption>La Cambre Abbey.</figcaption>
     </a>
   </figure>
 
@@ -57,12 +79,21 @@ redirect_from:
     <figcaption>Cathedrale Saints Michel et Gudule.</figcaption>
     </a>
   </figure>
+
+  
   
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.Brussels-Park.237417" target="_blank">
     <img src="/images/brussels/parc.jpg" alt="Hometown Image 2">
     <figcaption>Brussels park.</figcaption>
       </a>
+  </figure>
+
+        <figure>
+    <a href="https://www.visit.brussels/en/visitors/venue-details.Japanese-Tower-Museums-of-the-Far-East.241960" target="_blank">
+    <img src="/images/brussels/laeken_5.png" alt="Hometown Image 2">
+    <figcaption>Japanese tower, Laeken.</figcaption>
+    </a>
   </figure>
 
     <figure>
@@ -105,9 +136,9 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://www.belgianbeerworld.be/en/la-bourse" target="_blank">
-    <img src="/images/brussels/bourse.jpg" alt="Hometown Image 2">
-    <figcaption>La Bourse.</figcaption>
+    <a href="https://www.visit.brussels/en/visitors/plan-your-trip/neighbourhood-walk--the-sablon-and-the-marolles" target="_blank">
+    <img src="/images/brussels/sablon.png" alt="Hometown Image 2">
+    <figcaption>The Sablon and the palace of justice/figcaption>
     </a>
   </figure>
 
@@ -134,7 +165,6 @@ redirect_from:
 
 
 
-
   <figure>
     <a href="https://fine-arts-museum.be/en/museums/musee-wiertz-museum" target="_blank">
     <img src="/images/brussels/wirtz_2.png" alt="Hometown Image 2">
@@ -152,6 +182,13 @@ redirect_from:
     <figcaption>Avenue Louis Bertrand, Schaerbeek.</figcaption>
   </figure>
 
+          <figure>
+    <a href="http://visit.brussels/en/visitors/venue-details.The-Royal-Castle-in-Laeken.248754" target="_blank">
+    <img src="/images/brussels/laeken_3.png" alt="Hometown Image 2">
+    <figcaption>Royal palace, Laeken.</figcaption>
+    </a>
+  </figure>
+
   <figure>
     <a href="https://hotelsolvay.be/en/" target="_blank">
     <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
@@ -159,12 +196,7 @@ redirect_from:
     </a>
   </figure>
 
-    <figure>
-    <a href="https://en.wikipedia.org/wiki/CBR_Building" target="_blank">
-    <img src="/images/brussels/cbr-2.jpg" alt="Hometown Image 2">
-    <figcaption>CBR Building, Boitsfort.</figcaption>
-    </a>
-  </figure>
+
 
   <figure>
     <a href="https://www.visit.brussels/en/visitors/venue-details.Le-Logis-and-Floreal-Garden-Cities.266021" target="_blank">
@@ -172,6 +204,20 @@ redirect_from:
     <figcaption>Garden City Floréal.</figcaption>
     </a>
   </figure>
+
+   <figure>
+    <a href="https://www.58.brussels/" target="_blank">
+    <img src="/images/brussels/rooftop_58.png" alt="Hometown Image 2">
+    <figcaption>City administration.</figcaption>
+    </a>
+  </figure> 
+
+    <figure>
+    <a href="https://www.bruxellesmabelle.net/en/lieux/galerie-ravenstein/" target="_blank">
+    <img src="/images/brussels/ravenstein.png" alt="Hometown Image 2">
+    <figcaption>Galerie Ravenstein.</figcaption>
+    </a>
+  </figure>  
 
 
   <!-- Add more images and captions as needed -->
