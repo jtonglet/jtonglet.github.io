@@ -32,10 +32,14 @@ Expert Systems with Applications. 2024.<br>
 🐥 **Predicting the demographics of Twitter users with Programmatic Weak Supervision** <br>
 **Jonathan Tonglet**🎓, Astrid Jehoul🎓, Manon Reusens, Michael Reusens, Bart Baesens <br>
 Transactions in Operations Research. 2024. <br>
-🎓 Equal contribution <br>
 📄[paper](https://link.springer.com/article/10.1007/s11750-024-00666-y) 💻[code](https://github.com/jtonglet/Demographics-PWS) <br>
 
 ## Preprints
+
+😯 **Is this chart lying to me? Automating the detection of misleading visualizations** <br>
+**Jonathan Tonglet**🎓, Jan Zimny🎓, Tinne Tuytelaars, Iryna Gurevych <br>
+arXiv preprint. 2025. <br>
+📄[preprint](https://arxiv.org/abs/2508.21675) 💻[code](https://github.com/UKPLab/arxiv2025-misviz) <br>
 
 📈 **Protecting multimodal large language models against misleading visualizations** <br>
 **Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych <br>
@@ -46,3 +50,7 @@ arXiv preprint. 2025. <br>
 Zirui Song, Jingpu Yang, Yuan Huang, **Jonathan Tonglet**, Zeyu Zhang, <br> Tao Cheng, Meng Fang, Iryna Gurevych, Xiuying Chen <br>
 arXiv preprint. 2025. <br>
 📄[preprint](https://arxiv.org/abs/2502.13759) 🤗[data](https://huggingface.co/datasets/ShirohAO/tuxun)
+
+## Legend
+
+🎓 Equal contribution <br>
