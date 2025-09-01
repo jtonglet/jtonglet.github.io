@@ -31,8 +31,11 @@ Charts and data visualizations are a convenient way to communicate about data. H
 
 In this project, we evaluate whether MLLMs are vulnerable to such misleading visualizations and we propose detection and correction methods to mitigate their negative effects.
 
+Check out our "[Awesome misleading visualizations](https://github.com/UKPLab/awesome-misleading-visualizations)" repo to learn more about the relevant resources, papers, and datasets.
+
 ## 📖 Related works 
 - [Protecting MLLMs against misleading visualizations](https://arxiv.org/abs/2502.20503) (arXiv preprint 2025)
+- [Misviz and Misviz-synth](https://arxiv.org/abs/2508.21675) (arXiv preprint 2025)
 
 
 
