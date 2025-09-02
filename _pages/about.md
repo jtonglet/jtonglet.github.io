@@ -25,7 +25,7 @@ I am interested in applications of natural language processing for computational
 
 ### **News**
 
-- [Sep 2025] New preprint: [Is this chart lying to me?](arxiv.org/abs/2508.21675)
+- [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
 - [Jun 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
