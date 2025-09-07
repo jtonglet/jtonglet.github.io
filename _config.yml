@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Tonglet"
-  avatar           : "photo_profile.png"
+  avatar           : "profile_pic.png"
   bio              : "ELLIS PhD student at UKP Lab and KU Leuven working on Multimodal Fact Checking."
   location         : "Waterloo, Belgium"
   employer         :
