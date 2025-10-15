@@ -30,6 +30,7 @@ International
 - Far north, Marcel Theroux
 - L'oiseau bleu d'Erzeroum, Ian Manook
 - Le mage du Kremlin - Giuliano da Empoli
+- Nickel Boys - Colson Whitehead
 
 Graphic Novels
 ======
