@@ -16,12 +16,12 @@ Education
 ======
 * **ELLIS PhD Student in Computer Science**, TU Darmstadt and KU Leuven, 2023-2027
   * Supervisors : Iryna Gurevych (TU Darmstadt), Marie-Francine Moens (KU Leuven), and Tinne Tuytelaars (KU Leuven)
-  * Research on real-world fact-checking, chart understanding, and computational social science
+  * Research on multimodal fact-checking, chart understanding, and computational social science
 * **M.Sc. in Artificial Intelligence**, KU Leuven, 2022-2023
   * **89.92%** *Summa Cum Laude with the Congratulations of the Board of Examiners* (best grades of the promotion)
   * Major in Speech and Language Technologies
   * Courses : Linguistics & AI, Speech Science, Information Retrieval, Speech Recognition, Language Engineering, Reinforcement Learning 
-  * Thesis : SEER: A Knapsack approach to exemplar selection for In-Context HybridQA, accepted as a long paper at EMNLP main 2023
+  * Thesis : SEER: A Knapsack approach to exemplar selection for In-Context HybridQA, accepted at EMNLP main 2023
 * **Exchange Semester - Computer Science & Enginering**, Politecnico di Milano, Fall 2021
   * **94.67%**
   * Courses : Deep Learning, Recommender Systems, Multi-Agent Systems, Data and Information Quality
@@ -30,7 +30,7 @@ Education
   * Major in Data Science
   * Courses : Machine Learning, NLP, Time Series, Operations Research, Software Architecture
   * Research assistant at the LIRIS group under the supervision of Bart Baesens and Wouter Verbeke
-  * Thesis : Predicting the Demographics of Twitter Users with Programmatic Weak Supervision, accepted as a journal paper in TOP
+  * Thesis : Predicting the Demographics of Twitter Users with Programmatic Weak Supervision, accepted in Transactions in Operations Research
 * **B.Sc. in Business Engineering**, UCLouvain, 2017-2020
   *  **85.6%** *Magna Cum Laude* 
   * Interdisciplinary B.Sc. at the intersection of economics and engineering
@@ -50,15 +50,15 @@ Awards
 
 Students
 ======
-* Yusuf Heylen : master thesis student (Feb 2025 - ongoing)
+* Clemens Gronbach : master thesis student (June 2025-December 2025)
+* Niklas Traser : student assistant (Sep 2025 - Feb 2026)
 * Jan Zimny : master thesis student (May 2024 - May 2025)
 * Gabriel Thiem : student assistant (Feb 2024 - Jan 2025), now at Deutsche Bundesbank
-* Niklas Traser : student assistant (Jun 2024 - Jul 2024)
 
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
-* Reviewer for NAACL 2025, ACL 2025, EMNLP 2025, Nature Communications
+* Reviewer for NAACL 2025, ACL 2025, EMNLP 2025, ACL 2026, Nature Communications
 
 Publications
 ======
@@ -82,7 +82,7 @@ Languages
 Miscellaneous
 ======
 * Partner Relations Lead for Emergent, the student data science and AI society of KU Leuven, 2021-2022
-  * In charge of our core partnership with Amazon Web Services
+  * In charge of our first core partnership with Amazon
 * Student representative at the program committee, 2019 and 2023
 * Vice-President of UStart LLN, the UCLouvain chapter of the Belgian student entrepeneurship society, 2018-2020
 * Member of the UCLouvain University Board of Directors, 2018-2019
