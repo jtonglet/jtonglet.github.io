@@ -8,7 +8,7 @@ author_profile: true
 # Image contextualization for fact-checking
 
 <p align="center">
-  <img width="50%" src="../images/introducory_example.png" alt="5pils_examples" />
+  <img width="20%" src="../images/illustration_web_image_contextualization.png" alt="Image contextualization project illustration" />
 </p>
 
 ## 🗒️Summary
@@ -23,7 +23,7 @@ In this project, we assemble datasets and propose methods to assist human fact-c
 # Countering misleading visualizations and misinformation with charts
 
 <p align="center">
-  <img width="75%" src="../images/real_world_examples.png" alt="misleading_visualizations_examples" />
+  <img width="20%" src="../images/illustration_web_misleading_chart.png" alt="Misleading chart project illustration" />
 </p>
 
 ## 🗒️Summary
