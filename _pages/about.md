@@ -10,10 +10,10 @@ redirect_from:
 
 Welcome, Bienvenue, Welkom, Willkomen! 
 
-I am a 2nd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
+I am a 3rd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
 
 
-I am interested in applications of natural language processing for computational social science and misinformation detection.
+I am broadly interested in applications of natural language processing for computational social science.
 
 
 ### **Research Interests**
@@ -26,6 +26,7 @@ I am interested in applications of natural language processing for computational
 ### **News**
 
 - [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
+- [Jun 2025] I returned to TU Darmstadt
 - [Jun 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
