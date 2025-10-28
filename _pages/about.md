@@ -25,16 +25,12 @@ I am broadly interested in applications of natural language processing for compu
 
 ### **News**
 
+- [Oct 2025] New preprint: [M4FC](https://www.arxiv.org/abs/2510.23508)
 - [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
 - [Jun 2025] I returned to TU Darmstadt
 - [Jun 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
-- [Oct 2024] [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/) was presented in the opening keynote at ECAI 2024
-- [Sep 2024] One paper accepted at EMNLP 2024: [Image, tell me your story!](https://aclanthology.org/2024.emnlp-main.448/)
-- [Sep 2024] I am starting a 9-months research internship at [ESAT](https://www.esat.kuleuven.be/) (KU Leuven)
-- [Oct 2023] One paper accepted at EMNLP 2023: [SEER](https://aclanthology.org/2023.emnlp-main.837/) 
-- [Sep 2023] I started a joint ELLIS PhD program at TU Darmstadt and KU Leuven 🚀
 
 ### **Contact**
 
