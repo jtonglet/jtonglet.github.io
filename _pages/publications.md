@@ -39,7 +39,7 @@ Transactions in Operations Research. 2024. <br>
 4️⃣ **M4FC: a a Multimodal, Multilingual, Multicultural, Multitask Real-World Fact-Checking Dataset** <br>
 Jiahui Geng🎓, **Jonathan Tonglet**🎓, Iryna Gurevych <br>
 arXiv preprint. 2025. <br>
-📄[preprint](https://www.arxiv.org/abs/2510.23508) 💻[code](https://github.com/UKPLab/M4FC) <br>
+📄[preprint](https://www.arxiv.org/abs/2510.23508) 💻[code](https://github.com/UKPLab/M4FC) 📝[project](https://ukplab.github.io/M4FC/) <br>
 
 😯 **Is this chart lying to me? Automating the detection of misleading visualizations** <br>
 **Jonathan Tonglet**🎓, Jan Zimny🎓, Tinne Tuytelaars, Iryna Gurevych <br>
