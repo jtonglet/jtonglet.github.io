@@ -25,9 +25,9 @@ I am broadly interested in applications of natural language processing for compu
 
 ### **News**
 
+- [Nov 2025] Iryna Gurevych presented our research at the [Royal Society in London](https://royalsociety.org/science-events-and-lectures/2025/11/how-to-spot-and-debunk-misleading-content/)
 - [Oct 2025] New preprint: [M4FC](https://www.arxiv.org/abs/2510.23508)
 - [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
-- [Jun 2025] I returned to TU Darmstadt
 - [Jun 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
