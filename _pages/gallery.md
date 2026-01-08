@@ -212,6 +212,8 @@ redirect_from:
     </a>
   </figure> 
 
+  
+  <!-- 
   <figure>
     <img src="/images/brussels/drug-opera.png" alt="Hometown Image 2">
     <figcaption>Rue Grétry.</figcaption>
@@ -224,7 +226,7 @@ redirect_from:
     <figcaption>Church of St. Catherine.</figcaption>
     </a>
   </figure>  
-  
+  -->
 
 
   <!-- Add more images and captions as needed -->
