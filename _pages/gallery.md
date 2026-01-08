@@ -74,7 +74,7 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://www.visit.brussels/en/visitors/venue-details.Cathedrale-Saints-Michel-et-Gudule.478" target="_blank">
+    <a href="https://cathedralisbruxellensis.be/en/" target="_blank">
     <img src="/images/brussels/cathedrale_1.jpg" alt="Hometown Image 2">
     <figcaption>Cathedrale Saints Michel et Gudule.</figcaption>
     </a>
@@ -213,11 +213,19 @@ redirect_from:
   </figure> 
 
   <figure>
-    <a href="https://www.bruxellesmabelle.net/en/lieux/galerie-ravenstein/" target="_blank">
-    <img src="/images/brussels/ravenstein.png" alt="Hometown Image 2">
-    <figcaption>Galerie Ravenstein.</figcaption>
+    <img src="/images/brussels/drug-opera.png" alt="Hometown Image 2">
+    <figcaption>Rue Grétry.</figcaption>
     </a>
   </figure>  
+
+
+  <figure>
+    <a href="https://en.wikipedia.org/wiki/Church_of_St._Catherine,_Brussels" target="_blank">
+    <img src="/images/brussels/sainte-catherine.png" alt="Hometown Image 2">
+    <figcaption>Church of St. Catherine.</figcaption>
+    </a>
+  </figure>  
+  
 
 
   <!-- Add more images and captions as needed -->
