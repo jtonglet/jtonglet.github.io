@@ -215,7 +215,6 @@ redirect_from:
   <figure>
     <img src="/images/brussels/drug-opera.png" alt="Hometown Image 2">
     <figcaption>Rue Grétry.</figcaption>
-    </a>
   </figure>  
 
 
