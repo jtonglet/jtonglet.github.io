@@ -20,6 +20,7 @@ In this project, we assemble datasets and propose methods to assist human fact-c
 - [5Pils](https://aclanthology.org/2024.emnlp-main.448/) (EMNLP 2024)
 - [COVE](https://aclanthology.org/2025.naacl-long.102/) (NAACL 2025)
 - [M4FC](https://www.arxiv.org/abs/2510.23508) (arXiv preprint 2025)
+- [NewsRECON](https://arxiv.org/abs/2601.14121) (arXiv preprint 2026)
 
 # Countering misleading visualizations and misinformation with charts
 
