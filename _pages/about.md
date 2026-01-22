@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, Bienvenue, Welkom, Willkomen! 
+Welcome, Bienvenue, Welkom, Willkommen! 
 
 I am a 3rd year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
 
@@ -25,6 +25,7 @@ I am broadly interested in applications of natural language processing for compu
 
 ### **News**
 
+- [Jan 2026] New preprint: [NewsRECON](https://arxiv.org/abs/2601.14121)
 - [Nov 2025] Iryna Gurevych presented our research at the [Royal Society in London](https://royalsociety.org/science-events-and-lectures/2025/11/how-to-spot-and-debunk-misleading-content/)
 - [Oct 2025] New preprint: [M4FC](https://www.arxiv.org/abs/2510.23508)
 - [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
