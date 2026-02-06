@@ -25,11 +25,12 @@ I am broadly interested in applications of natural language processing for compu
 
 ### **News**
 
+- [Feb  2026] I presented our research on misleading charts at the Alan Turing Institute
 - [Jan 2026] New preprint: [NewsRECON](https://arxiv.org/abs/2601.14121)
 - [Nov 2025] Iryna Gurevych presented our research at the [Royal Society in London](https://royalsociety.org/science-events-and-lectures/2025/11/how-to-spot-and-debunk-misleading-content/)
 - [Oct 2025] New preprint: [M4FC](https://www.arxiv.org/abs/2510.23508)
 - [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
-- [Jun 2025] I presented our research on misleading visualizations at the Royal Flemish Academy of Arts and Sciences in Brussels
+- [Jun 2025] I presented our research on misleading charts at the Royal Flemish Academy of Arts and Sciences in Brussels
 - [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
 
