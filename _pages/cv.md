@@ -58,7 +58,7 @@ Students
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
-* Reviewer for NAACL 2025, ACL 2025, EMNLP 2025, EACL 2026, CVPR 2026, Nature Communications
+* Reviewer for NAACL 2025, ACL 2025-2026, EMNLP 2025, EACL 2026, CVPR 2026, Nature Communications
 
 Publications
 ======
@@ -83,6 +83,5 @@ Miscellaneous
 ======
 * Partner Relations Lead for Emergent, the student data science and AI society of KU Leuven, 2021-2022
   * In charge of our first core partnership with Amazon
-* Student representative on the program committee, 2019 and 2023
 * Vice-President of UStart LLN, the UCLouvain chapter of the Belgian student entrepreneurship society, 2018-2020
 * Member of the UCLouvain University Board of Directors, 2018-2019
