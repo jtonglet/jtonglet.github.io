@@ -38,6 +38,7 @@ Check out our "[Awesome misleading visualizations](https://github.com/UKPLab/awe
 ## 📖 Related works 
 - [Protecting MLLMs against misleading visualizations](https://arxiv.org/abs/2502.20503) (arXiv preprint 2025)
 - [Misviz and Misviz-synth](https://arxiv.org/abs/2508.21675) (arXiv preprint 2025)
+- [ChartAttack](https://arxiv.org/abs/2601.12983)
 
 
 
