@@ -54,7 +54,7 @@ arXiv preprint. 2025. <br>
 😯 **Is this chart lying to me? Automating the detection of misleading visualizations** <br>
 **Jonathan Tonglet**🎓, Jan Zimny🎓, Tinne Tuytelaars, Iryna Gurevych <br>
 arXiv preprint. 2025. <br>
-📄[preprint](https://arxiv.org/abs/2508.21675) 💻[code](https://github.com/UKPLab/arxiv2025-misviz) 📝[project](https://ukplab.github.io/arxiv2025-misviz/) <br>
+📄[preprint](https://arxiv.org/abs/2508.21675) 💻[code](https://github.com/UKPLab/arxiv2025-misviz) 📝[project](https://ukplab.github.io/arxiv2025-misviz/) 🤗[data](https://huggingface.co/datasets/UKPLab/misviz) <br>
 
 📈 **Protecting multimodal large language models against misleading visualizations** <br>
 **Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych <br>
