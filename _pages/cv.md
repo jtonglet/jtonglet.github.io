@@ -58,7 +58,13 @@ Students
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
-* Reviewer for NAACL 2025, ACL 2025-2026, EMNLP 2025, EACL 2026, CVPR 2026, Nature Communications
+* Reviewer for NAACL 2025, ACL 2025-2026, EMNLP 2025- 2026, EACL 2026, CVPR 2026, ECCV 2026, ACM Multimedia 2026, Nature Communications
+
+
+Talks
+======
+* Alan Turing Institute - London, United Kingdom - February 2026
+* Statistics Flanders - Leuven, Belgium - May 2022
 
 Publications
 ======
