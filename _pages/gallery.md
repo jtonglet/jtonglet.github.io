@@ -202,7 +202,7 @@ redirect_from:
 
 
   <figure>
-    <img src="/images/brussels/palace.jpj" alt="Hometown Image 2">
+    <img src="/images/brussels/palace.jpg" alt="Hometown Image 2">
     <figcaption>Rue des Capucins.</figcaption>
     </a>
   </figure>
