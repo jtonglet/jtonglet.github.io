@@ -190,9 +190,9 @@ redirect_from:
   </figure>
 
   <figure>
-    <a href="https://hotelsolvay.be/en/" target="_blank">
-    <img src="/images/brussels/hotel-solvay-2.jpg" alt="Hometown Image 2">
-    <figcaption>Hotel Solvay, Avenue Louise.</figcaption>
+    <a href="https://objectswithnarratives.com/" target="_blank">
+    <img src="/images/brussels/gallery.jpg" alt="Hometown Image 2">
+    <figcaption>Objects with narratives, Grand Sablon.</figcaption>
     </a>
   </figure>
 
