@@ -131,11 +131,6 @@ redirect_from:
   </figure>
 
   <figure>
-    <img src="/images/brussels/centrale.png" alt="Hometown Image 2">
-    <figcaption>Galerie Horta.</figcaption>
-  </figure>
-
-  <figure>
     <a href="https://www.visit.brussels/en/visitors/plan-your-trip/neighbourhood-walk--the-sablon-and-the-marolles" target="_blank">
     <img src="/images/brussels/sablon.png" alt="Hometown Image 2">
     <figcaption>The Sablon and the palace of justice.</figcaption>
@@ -213,7 +208,6 @@ redirect_from:
   </figure> 
 
   
-  <!-- 
   <figure>
     <img src="/images/brussels/drug-opera.png" alt="Hometown Image 2">
     <figcaption>Rue Grétry.</figcaption>
@@ -226,7 +220,12 @@ redirect_from:
     <figcaption>Church of St. Catherine.</figcaption>
     </a>
   </figure>  
-  -->
+
+  <figure>
+    <a href="https://www.hallerbos.be/en/" target="_blank">
+    <img src="/images/brussels/hallerbos.jpg" alt="Hometown Image 2">
+    <figcaption>Hallerbos.</figcaption>
+  </figure>   
 
 
   <!-- Add more images and captions as needed -->
