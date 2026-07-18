@@ -200,6 +200,13 @@ redirect_from:
     </a>
   </figure>
 
+
+  <figure>
+    <img src="/images/brussels/palace.jpj" alt="Hometown Image 2">
+    <figcaption>Rue des Capucins.</figcaption>
+    </a>
+  </figure>
+
    <figure>
     <a href="https://www.58.brussels/" target="_blank">
     <img src="/images/brussels/rooftop_58.png" alt="Hometown Image 2">
