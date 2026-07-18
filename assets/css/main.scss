@@ -52,13 +52,15 @@
   position: relative;
   overflow: hidden;
   margin: 0;
-  margin: 0; /* Remove any default margin */
-  padding: 0; /* Ensure no padding around figures */
+  padding: 0;
+  aspect-ratio: 4 / 3;   /* <-- locks every tile to the same shape */
 }
 
 .gallery img {
   width: 100%;
-  height: auto;
+  height: 100%;          /* <-- was height: auto */
+  object-fit: cover;      /* <-- crops instead of stretching/squishing */
+  object-position: center;
   display: block;
   transition: transform 0.3s ease;
 }
@@ -88,6 +90,9 @@
 /* Ensure each figure link works */
 .gallery figure a {
   display: block;
+  text-decoration: none;
+  height: 100%;           /* <-- so the anchor doesn't collapse below the image */
+}
   text-decoration: none;
 }
 
