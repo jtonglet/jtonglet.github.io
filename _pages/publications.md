@@ -10,7 +10,7 @@ author_profile: true
 ⚔️**ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation** <br>
 Jesus-German Ortiz-Barajas, **Jonathan Tonglet**, Vivek Gupta, Iryna Gurevych <br>
 EMNLP (main). 2026. <br>
-📄[preprint](https://arxiv.org/abs/2601.12983) 💻[code](https://github.com/insait-institute/chartAttack) (https://ukplab.github.io/arxiv2025-misviz/) 🤗[data](https://huggingface.co/datasets/jgermanmx/AttackViz) <br>
+📄[preprint](https://arxiv.org/abs/2601.12983) 💻[code](https://github.com/insait-institute/chartAttack) 🤗[data](https://huggingface.co/datasets/jgermanmx/AttackViz) <br>
 
 4️⃣ **M4FC: a Multimodal, Multilingual, Multicultural, Multitask Real-World Fact-Checking Dataset** <br>
 Jiahui Geng🎓, **Jonathan Tonglet**🎓, Iryna Gurevych <br>
