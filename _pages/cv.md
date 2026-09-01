@@ -50,7 +50,7 @@ Awards
 
 Students
 ======
-* Gabriel Thiem: student assistant (Feb 2024 - Jan 2025) - master thesis (Dec 2025 - Aug 2026)
+* Gabriel Thiem: student assistant (Feb 2024 - Jan 2025) - master thesis (Dec 2025 - Aug 2026), now at Bundesbank
 * Clemens Gronbach: master thesis (June 2025 - December 2025)
 * Niklas Traser: student assistant (Sep 2025 - Feb 2026)
 * Jan Zimny: master thesis (May 2024 - May 2025), now at SAP
@@ -58,8 +58,8 @@ Students
 Service
 ======
 * Volunteer at EMNLP 2023 in Singapore
-* Reviewer for NAACL 2025, ACL 2025-2026, EMNLP 2025- 2026, EACL 2026, CVPR 2026, ECCV 2026, ACM Multimedia 2026, Nature Communications
-
+* Reviewer for NAACL 2025, ACL 2025-2026, EMNLP 2025-2026, EACL 2026, CVPR 2026, NeurIPS 2026, AAAI 2026, ECCV 2026, ACM Multimedia 2026, Nature Communications, IEEE Transactions on Multimedia
+ 
 
 Talks
 ======
@@ -69,7 +69,12 @@ Talks
 Publications
 ======
 
-* **Jonathan Tonglet**, Gabriel Thiem, and Iryna Gurevych. 2025. COVE: COntext and VEracity prediction for out-of-context images. In Proceedins of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2029-2049, Albuquerque. Association for Computational Linguistics.
+
+* **Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, and Iryna Gurevych. 2026. Protecting multimodal large language models against misleading visualizations. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8329–8349, San Diego, California, United States. Association for Computational Linguistics.
+[https://aclanthology.org/2026.acl-long.377/](https://aclanthology.org/2026.acl-long.377/)
+* **Jonathan Tonglet**, Jan Zimny, Tinne Tuytelaars, and Iryna Gurevych. 2026. Is this chart lying to me? Automating the detection of misleading visualizations. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8823–8844, San Diego, California, United States. Association for Computational Linguistics.
+[https://aclanthology.org/2026.acl-long.398/](https://aclanthology.org/2026.acl-long.398/)
+* **Jonathan Tonglet**, Gabriel Thiem, and Iryna Gurevych. 2025. COVE: COntext and VEracity prediction for out-of-context images. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2029-2049, Albuquerque. Association for Computational Linguistics.
 [https://aclanthology.org/2025.naacl-long.102/](https://aclanthology.org/2025.naacl-long.102/)
 * **Jonathan Tonglet**, Marie-Francine Moens, and Iryna Gurevych. 2024. ``Image, Tell me your story!'' Predicting the original meta-context of visual misinformation. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 7845–7864, Miami. Association for Computational Linguistics. [https://aclanthology.org/2024.emnlp-main.448/](https://aclanthology.org/2024.emnlp-main.448/)
 * Manon Reusens, Alexander Stevens, **Jonathan Tonglet**, Johanness De Smedt, Wouter Verbeke, Seppe vanden Broucke,  and Bart Baesens. 2024. Evaluating text classification: A benchmark study. _Expert systems with applications_, 124302. [https://doi.org/10.1016/j.eswa.2024.124302](https://doi.org/10.1016/j.eswa.2024.124302)
