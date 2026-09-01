@@ -25,6 +25,8 @@ I am broadly interested in applications of natural language processing for compu
 
 ### **News**
 
+- [August 2026] Three papers accepted at EMNLP 2026: [ChartAttack](https://arxiv.org/abs/2601.12983) (Main), [M4FC](https://arxiv.org/abs/2510.23508) (Findings), and [NewsRECON](https://arxiv.org/abs/2601.14121) (Findings)
+- [August 2026] I presented our research on misleading at Linköping University 
 - [June 2026] I will be attending ACL 2026 in San Diego
 - [Apr 2026] Two paper accepted at ACL 2026:  [Is this chart lying to me?](https://arxiv.org/abs/2508.21675) and  [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Feb  2026] I presented our research on misleading charts at the Alan Turing Institute
