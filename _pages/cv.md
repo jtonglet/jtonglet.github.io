@@ -52,7 +52,7 @@ Students
 ======
 * Gabriel Thiem: student assistant (Feb 2024 - Jan 2025) - master thesis (Dec 2025 - Aug 2026), now at Bundesbank
 * Clemens Gronbach: master thesis (June 2025 - December 2025)
-* Niklas Traser: student assistant (Sep 2025 - Feb 2026)
+* Niklas Traser: student assistant (Sep 2025 - Feb 2026), now PhD student at Ruhr-Universität Bochum
 * Jan Zimny: master thesis (May 2024 - May 2025), now at SAP
 
 Service
