@@ -4,14 +4,14 @@ date: 2026-09-05
 permalink: /blog/ltb/
 excerpt: "Lessons learned from contributing to the Last Translation Benchmark"
 header:
-  teaser: "/images/ltb.png"
+  teaser: "ltb.png"
 tags:
   - translation
   - belgium
 ---
 
 <p align="center">
-  <img width="40%" src="../images/ltb.png" alt="Last Translation Benchmark illustration" />
+  <img width="40%" src="/images/ltb.png" alt="Last Translation Benchmark illustration" />
 </p>
 
 
