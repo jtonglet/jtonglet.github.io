@@ -16,8 +16,6 @@ tags:
 
 
 
-## How I invited ChatGPT for breakfast, and it showed up for lunch
-
 > September 5th 2026
 
 
