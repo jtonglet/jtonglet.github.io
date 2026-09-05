@@ -9,9 +9,78 @@ author_profile: true
 
 <p>Thoughts, notes, and tutorials on my research and related topics.</p>
 
-<div class="entries-grid">
+<style>
+  /* Blog listing — self-contained styles for the post miniatures. */
+  .blog-list__item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 1.5em;
+    margin-bottom: 2.5em;
+    padding-bottom: 2.5em;
+    border-bottom: 1px solid #f2f3f3;
+  }
+  .blog-list__item:last-child {
+    border-bottom: none;
+  }
+  /* Thumbnail: shown in full (never cropped), scaled down to fit. */
+  .blog-list__teaser {
+    flex: 0 0 auto;
+    width: 240px;
+    max-width: 100%;
+  }
+  .blog-list__teaser img {
+    display: block;
+    width: 100%;
+    height: auto;          /* preserve aspect ratio, no cropping */
+    border-radius: 4px;
+  }
+  .blog-list__item:hover .blog-list__teaser img {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  }
+  /* Text column takes the remaining width. */
+  .blog-list__body {
+    flex: 1 1 320px;
+    min-width: 0;
+  }
+  .blog-list__title {
+    margin: 0 0 0.35em;
+    font-size: 1.25em;
+  }
+  .blog-list__meta {
+    margin: 0 0 0.5em;
+    font-size: 0.8em;
+    opacity: 0.7;
+  }
+  .blog-list__excerpt {
+    margin: 0;
+  }
+</style>
+
+<div class="blog-list">
   {% assign posts = site.blog | sort: 'date' | reverse %}
   {% for post in posts %}
-    {% include archive-single.html type="grid" %}
+    <div class="blog-list__item">
+      {% if post.header.teaser %}
+        <a class="blog-list__teaser" href="{{ base_path }}{{ post.url }}">
+          <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}{% endif %}"
+               alt="{{ post.title | escape }}">
+        </a>
+      {% endif %}
+      <div class="blog-list__body">
+        <h2 class="blog-list__title">
+          <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        {% if post.date %}
+          <p class="blog-list__meta">
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+          </p>
+        {% endif %}
+        {% if post.excerpt %}
+          <p class="blog-list__excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% endif %}
+      </div>
+    </div>
   {% endfor %}
 </div>
