@@ -12,24 +12,24 @@ author_profile: true
 </p>
 
 ## 🗒️Summary
-Most research in multimodal fact-checking focuses on predicting the veracity of multimodal claims. However, in real-world fact-checking practices, a particular attention is also given to identifying the true context of the image or video content. For example,  identifying the true date, location, or depicted event. 
+Most research in multimodal fact-checking focuses on predicting the veracity of multimodal claims. However, in real-world fact-checking practices, particular attention is also given to identifying the true context of misrepresented or manipulated image or video content. For example,  identifying the true date, location, or depicted event. 
 
 In this project, we assemble datasets and propose methods to assist human fact-checkers in predicting the true context of multimodal misinformation content.
 
 ## 📖 Related works 
 - [5Pils](https://aclanthology.org/2024.emnlp-main.448/) (EMNLP 2024)
 - [COVE](https://aclanthology.org/2025.naacl-long.102/) (NAACL 2025)
-- [M4FC](https://www.arxiv.org/abs/2510.23508) (EMNLP findings 2025)
-- [NewsRECON](https://arxiv.org/abs/2601.14121) (EMNLP findings 2026)
+- [M4FC](https://www.arxiv.org/abs/2510.23508) (EMNLP Findings 2026)
+- [NewsRECON](https://arxiv.org/abs/2601.14121) (EMNLP Findings 2026)
 
-# Countering misleading visualizations and misinformation with charts
+# Countering and detecting misleading charts
 
 <p align="center">
   <img width="20%" src="../images/illustration_web_misleading_chart.png" alt="Misleading chart project illustration" />
 </p>
 
 ## 🗒️Summary
-Charts and data visualizations are a convenient way to communicate about data. However, they can also be used to misinform readers by distorting the underlying data, for example, by truncating or inverting the axes. 
+Charts are a convenient way to communicate data insights. However, they can also be used to misinform readers by distorting the underlying data, for example, by truncating or inverting the axes. 
 
 In this project, we evaluate whether MLLMs are vulnerable to such misleading visualizations and we propose detection and correction methods to mitigate their negative effects.
 
