@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Blog"
+permalink: /blog/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Thoughts, notes, and tutorials on my research and related topics.</p>
+
+<div class="entries-grid">
+  {% assign posts = site.blog | sort: 'date' | reverse %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
