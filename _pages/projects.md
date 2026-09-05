@@ -12,7 +12,7 @@ author_profile: true
 </p>
 
 ## 🗒️Summary
-Most research in multimodal fact-checking focuses on predicting the veracity of multimodal claims. However, in real-world fact-checking practices, particular attention is also given to identifying the true context of misrepresented or manipulated image or video content. For example,  identifying the true date, location, or depicted event. 
+Most research in multimodal fact-checking focuses on predicting the veracity of multimodal claims. However, in real-world fact-checking practices, particular attention is also given to identifying the true context of misrepresented or manipulated images and videos. For example,  identifying the true date, location, or depicted event of an image used out of its original context. 
 
 In this project, we assemble datasets and propose methods to assist human fact-checkers in predicting the true context of multimodal misinformation content.
 
