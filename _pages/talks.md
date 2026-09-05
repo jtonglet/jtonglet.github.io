@@ -7,7 +7,7 @@ author_profile: true
 
 **Is this chart lying to me? Detecting and countering misleading charts with AI** <br>
 
-- August 28, 2026. Linköping University, Linköping, Sweden. [[link](https://digitalmediasig.github.io/seminars2025/)\]
+- August 28, 2026. Linköping University, Linköping, Sweden.
 - February 5, 2026. Alan Turing Institute, London, UK.  [[link](https://digitalmediasig.github.io/seminars2025/)\]
 
 **Understanding and correcting Selection biases in the Sentiments derived from Flemish Tweets** <br>
