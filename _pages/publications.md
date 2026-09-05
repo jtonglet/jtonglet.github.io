@@ -20,17 +20,17 @@ EMNLP (findings). 2026. <br>
 **NewsRECON: News Article Retrieval for Image Contextualization** <br>
 **Jonathan Tonglet**, Iryna Gurevych, Tinne Tuytelaars, Marie-Francine Moens <br>
 EMNLP (findings). 2026. <br>
-📄[preprint](https://arxiv.org/abs/2601.14121) 💻[code](https://github.com/jtonglet/arxiv2025-newsrecon)  <br>
+📄[preprint](https://arxiv.org/abs/2601.14121) 💻[code](https://github.com/jtonglet/emnlp2026-newsrecon)  <br>
 
 **Is this Chart Lying to me? Automating the Detection of Misleading Visualizations** <br>
 **Jonathan Tonglet**, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych <br>
 ACL (main). 2026. <br>
-📄[paper](https://arxiv.org/abs/2508.21675) 💻[code](https://github.com/UKPLab/arxiv2025-misviz) 📝[project](https://ukplab.github.io/arxiv2025-misviz/) 🤗[data](https://huggingface.co/datasets/UKPLab/misviz) <br>
+📄[paper](https://aclanthology.org/2026.acl-long.398/) 💻[code](https://github.com/UKPLab/acl2026-misviz) 📝[project](https://ukplab.github.io/acl2026-misviz/) 🤗[data](https://huggingface.co/datasets/UKPLab/misviz) <br>
 
 **Protecting Multimodal Large Language Models Against Misleading Visualizations** <br>
 **Jonathan Tonglet**, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych <br>
 ACL (main). 2026. <br>
-📄[paper](https://arxiv.org/abs/2502.20503) 💻[code](https://github.com/UKPLab/arxiv2025-misleading-visualizations) 📝[project](https://ukplab.github.io/arxiv2025-misleading-visualizations/)  <br>
+📄[paper](https://aclanthology.org/2026.acl-long.377/) 💻[code](https://github.com/UKPLab/acl2026-misleading-visualizations) 📝[project](https://ukplab.github.io/acl2026-misleading-visualizations/)  <br>
 
 **COVE: COntext and VEracity Prediction for Out-of-Context Images** <br>
 **Jonathan Tonglet**, Gabriel Thiem, Iryna Gurevych <br>
