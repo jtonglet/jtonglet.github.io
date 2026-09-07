@@ -1,5 +1,5 @@
 ---
-title: "Multimodal fact-checking or multimodal fake news detection: two communities, one goal"
+title: "Multimodal fact-checking or multimodal fake news detection? Two communities, one goal"
 date: 2026-09-07
 permalink: /blog/mfmfd/
 excerpt: "An analysis of the two communities conducting research on multimodal misinformation and a call to unite our efforts."
@@ -12,7 +12,7 @@ tags:
 ---
 
 <p align="center">
-  <img width="60%" src="/images/mfc_mfd_2.png" alt="Multimodal fact-checking and fake news detection, two communities but one goal" />
+  <img width="60%" src="/images/mfc_mfd_2.png" alt="Multimodal fact-checking or fake news detection? Two communities but one goal" />
 </p>
 
 How much can a difference in terminology lead researchers working on the same real-world problem to form separate communities, with their own methods and datasets? I have been working for the last three years on developing AI methods to assist professional fact-checkers in detecting misinformation that combines text and multimedia content, primarily images. While conducting literature searches or reviewing papers, I realized that several synonyms exist for this task: multimodal fact-checking, multimodal misinformation/fake news/rumor detection, ... In practice, these terms describe the same thing. "Fact-checking" refers to the nature of the task, while other terms refer to the object of study. Some terms are preferable to others. For example, the UN recommend using "misinformation" (or "disinformation" when the act is intentional) rather than the more generic and easily misused "fake news" [1]. As we will see later, "fake news" is still sadly the most popular term in research papers. Some terms are more specific. For example, "out-of-context misinformation" (OOC) focuses on authentic images that are presented with misleading captions.
