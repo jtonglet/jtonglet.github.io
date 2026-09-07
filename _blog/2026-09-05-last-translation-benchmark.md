@@ -39,7 +39,7 @@ Some words of the Belgian French vocabulary are used only in narrow communities,
 
 ### When pain is not bread - LLMs can't talk like cool kids
 
-Beyond the Belgian context, I encountered another category of challenging translations from French to English: idioms that entered youth slang in recent years. Languages evolve fast; that is a well-known fact. I believe this is one of the biggest challenges for LLMs: language is a constantly moving target. Youth slang is the perfect test case for this. I will conclude with this example. When a French teenager talks about their "pain", they don't mean their favorite type of bread but rather their crush. This expression comes from the Ivorian nouchi language and has made its way in recent years into youth slang in France and Belgium. Ask an LLM, though, and it is often just as confused as a parent trying to figure out what their teenager is saying.
+Beyond the Belgian context, I encountered another category of challenging translations from French to English: idioms that entered youth slang in recent years. Languages evolve fast; that is a well-known fact. I believe this is one of the biggest challenges for LLMs: language is a constantly moving target. Youth slang is the perfect test case for this. Consider the following example: when a French teenager talks about their "pain", they don't mean their favorite type of bread but rather their crush. This expression comes from the Ivorian nouchi language and has made its way into youth slang in France and Belgium. Ask an LLM, though, and it is often just as confused as a parent trying to figure out what their teenager is saying.
 
 ### The Last Translation Benchmark needs you
 
