@@ -26,17 +26,10 @@ I am broadly interested in applications of natural language processing for compu
 ### **News**
 
 - [August 2026] Three papers accepted at EMNLP 2026: [ChartAttack](https://arxiv.org/abs/2601.12983) (Main), [M4FC](https://arxiv.org/abs/2510.23508) (Findings), and [NewsRECON](https://arxiv.org/abs/2601.14121) (Findings)
-- [August 2026] I presented our research on misleading at Linköping University 
+- [August 2026] I presented our research on misleading charts at Linköping University 
 - [June 2026] I will be attending ACL 2026 in San Diego
-- [Apr 2026] Two paper accepted at ACL 2026:  [Is this chart lying to me?](https://arxiv.org/abs/2508.21675) and  [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
+- [Apr 2026] Two papers accepted at ACL 2026:  [Is this chart lying to me?](https://arxiv.org/abs/2508.21675) and  [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
 - [Feb  2026] I presented our research on misleading charts at the Alan Turing Institute
-- [Jan 2026] New preprint: [NewsRECON](https://arxiv.org/abs/2601.14121)
-- [Nov 2025] Iryna Gurevych presented our research at the [Royal Society in London](https://royalsociety.org/science-events-and-lectures/2025/11/how-to-spot-and-debunk-misleading-content/)
-- [Oct 2025] New preprint: [M4FC](https://www.arxiv.org/abs/2510.23508)
-- [Sep 2025] New preprint: [Is this chart lying to me?](https://arxiv.org/abs/2508.21675)
-- [Jun 2025] I presented our research on misleading charts at the Royal Flemish Academy of Arts and Sciences in Brussels
-- [Mar 2025] New preprint: [Protecting MLLMs against misleading visualizations](https://ukplab.github.io/arxiv2025-misleading-visualizations/)
-- [Jan 2025] One paper accepted at NAACL 2025: [COVE](https://aclanthology.org/2025.naacl-long.102/) 
 
 ### **Contact**
 
