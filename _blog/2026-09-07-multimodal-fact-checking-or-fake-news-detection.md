@@ -2,7 +2,7 @@
 title: "Multimodal fact-checking or multimodal fake news detection: two communities, one goal"
 date: 2026-09-07
 permalink: /blog/mfmfd/
-excerpt: "An analysis of the two communities conducting research on countering multimodal misinformation and a call to unite our efforts."
+excerpt: "An analysis of the two communities conducting research on multimodal misinformation and a call to unite our efforts."
 header:
   teaser: "mfc_mfd_2.png"
 tags:
@@ -68,6 +68,6 @@ In summary, researchers trying to automatically detect multimodal misinformation
 [1] Cherilyn Ireton and Julie Posetti. 2018. [Journalism,
 fake news & disinformation: handbook for journalism education and training](https://www.unesco.org/en/articles/journalism-fake-news-disinformation). Unesco Publishing.
 
-[2] Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino. 2021. Automated Fact-Checking for Assisting Human Fact-Checkers. IJCAI 2021 Survey Track. Pages 4551-4558. https://doi.org/10.24963/ijcai.2021/619
+[2] Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino. 2021. [Automated Fact-Checking for Assisting Human Fact-Checkers](https://www.ijcai.org/proceedings/2021/619). IJCAI 2021 Survey Track. Pages 4551-4558. https://doi.org/10.24963/ijcai.2021/619
 
 
