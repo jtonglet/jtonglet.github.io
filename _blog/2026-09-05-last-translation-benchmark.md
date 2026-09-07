@@ -2,7 +2,7 @@
 title: "How I invited ChatGPT for breakfast, and it showed up for lunch"
 date: 2026-09-05
 permalink: /blog/ltb/
-excerpt: "Lessons learned from contributing to the Last Translation Benchmark"
+excerpt: "Lessons learned from contributing to the Last Translation Benchmark."
 header:
   teaser: "ltb.png"
 tags:
