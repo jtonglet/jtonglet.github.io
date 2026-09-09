@@ -1,9 +1,22 @@
 {% include base_path %}
 
-{% if site.tag_archive.type and page.tags[0] %}
-  {% include tag-list.html %}
-{% endif %}
+{% if page.collection == 'blog' %}
+  {% if page.tags[0] %}
+    <p class="page__taxonomy">
+      <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
+      <span itemprop="keywords">
+      {% for tag in page.tags %}
+        <a href="{{ base_path }}/blog/?tag={{ tag | slugify }}" class="page__taxonomy-item" rel="tag">{{ tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      {% endfor %}
+      </span>
+    </p>
+  {% endif %}
+{% else %}
+  {% if site.tag_archive.type and page.tags[0] %}
+    {% include tag-list.html %}
+  {% endif %}
 
-{% if site.category_archive.type and page.categories[0] %}
-  {% include category-list.html %}
+  {% if site.category_archive.type and page.categories[0] %}
+    {% include category-list.html %}
+  {% endif %}
 {% endif %}
