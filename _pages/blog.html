@@ -23,6 +23,10 @@ author_profile: true
   .blog-list__item:last-child {
     border-bottom: none;
   }
+  /* Ensure filtered-out cards hide: an explicit rule that beats display:flex. */
+  .blog-list__item[hidden] {
+    display: none;
+  }
   /* Thumbnail: shown in full (never cropped), scaled down to fit. */
   .blog-list__teaser {
     flex: 0 0 auto;
@@ -202,7 +206,7 @@ author_profile: true
     });
   });
 
-  // Apply an initial filter from the URL (?tag=...), e.g. arriving from a post page.
+  /* Apply an initial filter from the URL (?tag=...), e.g. arriving from a post page. */
   var params = new URLSearchParams(window.location.search);
   var initial = params.get('tag');
   if (initial) {
