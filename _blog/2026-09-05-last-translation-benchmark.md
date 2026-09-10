@@ -1,7 +1,7 @@
 ---
 title: "How I invited ChatGPT for breakfast, and it showed up for lunch"
 date: 2026-09-05
-permalink: /blog/ltb/
+permalink: /blog/ltb/how_i_invited_chatgpt_for_breakfast_and_it_showed_up_for_lunch
 excerpt: "Lessons learned from contributing to the Last Translation Benchmark."
 header:
   teaser: "ltb.png"
@@ -42,10 +42,10 @@ Beyond the Belgian context, I encountered another category of challenging transl
 These examples are part of a large project called the Last Translation Benchmark. A [preprint](https://arxiv.org/abs/2609.04173) recently came out, and the [dataset](https://huggingface.co/datasets/zouhar/last-translation-benchmark) can be found on HuggingFace. Check it out and join the project by contributing your own challenging translation pairs.
 
 {% capture takeaways %}
-- Modern LLMs already translate **many** Belgian French expressions correctly, from "nonante" (ninety) to idioms like "passer la nuit à l'amigo".
-- They still stumble on three fronts: **irony** ("Non peut-être!"), **regional meaning shifts** ("déjeuner" = breakfast in Belgium, lunch in France), and **community-specific slang** ("pif-paf").
-- **Fast-evolving youth slang** (e.g. "pain" for a crush) is especially hard — language is a constantly moving target.
-- Want to help? **Contribute your own tricky translation pairs** to the Last Translation Benchmark.
+- Modern LLMs already translate **many** Belgian French expressions correctly, from the well-known "nonante" (ninety) to idioms like "passer la nuit à l'amigo".
+- They still stumble on at least three fronts: **irony** ("Non peut-être!"), **meaning shifts compared to France** ("déjeuner" = breakfast in Belgium, lunch in France), and **community-specific vocabulary** ("affoner", "bar pi", ...).
+- **Fast-evolving French youth slang** (e.g., "mon pain" for my crush) is especially hard. Language is a constantly moving target.
+- Want to help? **Contribute your own challenging translation pairs** to the Last Translation Benchmark.
 {% endcapture %}{% include takeaway.html content=takeaways %}
 
 
