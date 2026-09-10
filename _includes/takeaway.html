@@ -1,0 +1,36 @@
+{% comment %}
+  Rounded "takeaways" callout box for blog posts.
+
+  Usage (in a Markdown post):
+
+    {% capture my_takeaways %}
+    - First main conclusion.
+    - Second main conclusion.
+    {% endcapture %}{% include takeaway.html content=my_takeaways %}
+
+  Optional: pass title="Key points" to change the heading (default: "Takeaways").
+{% endcomment %}
+{% unless takeaway_css_loaded %}
+<style>
+  .takeaway {
+    margin: 2em 0;
+    padding: 1.1em 1.4em 1.2em;
+    background: #f3f7fb;
+    border: 1px solid #d7e3ee;
+    border-left: 5px solid #4d8fbf;
+    border-radius: 12px;
+  }
+  .takeaway__title {
+    margin: 0 0 0.5em;
+    font-weight: 700;
+    font-size: 1.05em;
+  }
+  .takeaway__body > :first-child { margin-top: 0; }
+  .takeaway__body > :last-child { margin-bottom: 0; }
+</style>
+{% assign takeaway_css_loaded = true %}
+{% endunless %}
+<div class="takeaway">
+  <p class="takeaway__title">📝 {{ include.title | default: "Takeaways" }}</p>
+  <div class="takeaway__body">{{ include.content | markdownify }}</div>
+</div>
