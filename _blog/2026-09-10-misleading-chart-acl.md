@@ -7,7 +7,6 @@ header:
   teaser: "misleading_chart_anthology.png"
 tags:
   - multimodal
-  - misinformation
   - data visualization
   - misleading charts
 ---
@@ -23,11 +22,46 @@ tags:
 >  A **misleading chart** is a chart that contains design flaws that may lead readers to misunderstand the underlying data.
 > These design flaws are also called **misleaders** [1].
 
+###
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/distribution_misleader.png" alt="The distribution of misleaders in the corpus of 91 misleading charts." />
+</p>
+
+
 ###  
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/inconsistent_tick.png" alt="A chart with inconsistent tick intervals." />
+</p>
+
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/inconsistent_tick_corrected.png" alt="The corrected chart." />
+</p>
+
+###  
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/truncated.png" alt="A chart with a truncated y-axis." />
+</p>
+
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/truncated_corrected.png" alt="The corrected chart." />
+</p>
 
 
 ### 
 
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/dual_axis.png" alt="A dual axes chart." />
+</p>
+
+
+<p align="center">
+  <img width="50%" src="/images/misleading_chart_acl/dual_axis_corrected.png" alt="The corrected chart." />
+</p>
 
 
 
@@ -45,7 +79,7 @@ tags:
 
 We scrape a random sample of the ACL Anthology corresponding to the ACL and EMNLP conferences of 2022-2025. 
 We use pymupdf to extract figures from the papers. We conduct two rounds of automated labeling with Gemini-3.5-Flash. (1) Removing all figures that are not charts (e.g., prompts, methodology diagrams, ...). 
-(2) Detecting whether the chart is misleading, and which misleaders affect it.
+(2) Detecting whether the chart is misleading, and which misleaders affect it. We use the taxonomy of 12 design misleaders from [1].
 All charts flagged as misleading were manually validated afterward, yielding a final set of 261 papers containing 825 charts of which 91 are misleading. 
 
 ### References
