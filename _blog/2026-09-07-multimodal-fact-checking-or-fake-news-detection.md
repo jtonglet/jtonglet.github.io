@@ -1,7 +1,7 @@
 ---
 title: "Multimodal fact-checking or multimodal fake news detection? Two communities, one goal"
 date: 2026-09-07
-permalink: /blog/mfmfd/
+permalink: /blog/multimodal-fact-checking-or-multimodal-fake-news-detection-two-communities-one-goal/
 excerpt: "An analysis of the communities conducting research on multimodal misinformation and a call to unite efforts."
 header:
   teaser: "mfc_mfd_2.png"
@@ -65,10 +65,10 @@ In contrast, the "multimodal fact-checking" community is better aligned with rea
 In summary, researchers trying to automate multimodal misinformation detection are currently split across two main communities, with separate benchmarks and partially overlapping methods. Building more bridges between these communities in the coming years could benefit both and, hopefully, eventually bring them entirely together. The "multimodal fake news detection" community would benefit from evaluating its methods on more recent, less saturated, and more robust benchmarks developed by "multimodal fact-checking" researchers, such as [AVerImaTeC](https://fever.ai/dataset/averimatec.html), [M4FC](https://github.com/UKPLab/M4FC), or [VERITAS](https://veritas.mai.informatik.tu-darmstadt.de/). Conversely, researchers working on fact-checking could benefit from testing their evidence- and LLM-based approaches against the sophisticated multimodal methods developed for multimodal fake news detection. 
 
 {% capture takeaways %}
-- Research on multimodal misinformation is split into two communities that rarely mix: **fake news / rumor detection** (Weibo, Twitter, Pheme) and **fact-checking / OOC detection** (NewsCLIPpings, VERITE, MMFakeBench).
-- **Fake news detection dominates by paper volume**, but leans on old, saturated benchmarks that are risky for evaluating LLMs and often output only a binary verdict.
-- The **fact-checking community** is smaller but better aligned with real-world needs: evidence-grounded verdicts and regularly refreshed benchmarks.
-- **Building bridges** — cross-evaluating each community's methods on the other's benchmarks — could push the field forward and eventually reunite it.
+- Research on multimodal misinformation is split into two communities that rarely mix: **fake news / rumor detection** (Weibo, Twitter, Pheme, ...) and **fact-checking / OOC detection** (NewsCLIPpings, VERITE, MMFakeBench, ...).
+- **Fake news detection dominates by paper volume**, but leans on old, saturated benchmarks that are risky for evaluating LLMs and focus too much on binary verdict prediction.
+- The **fact-checking community** is smaller but better aligned with real-world fact-checker needs: evidence-grounded verdicts and recent benchmarks.
+- **Building bridges**: cross-evaluating each community's methods on the other's benchmarks could push the field forward and eventually reunite it.
 {% endcapture %}{% include takeaway.html content=takeaways %}
 
 > Disclaimer: A corpus of around 200 papers was collected from the Semantic Scholar API and manually reviewed for the purpose of this post. The corpus was constructed by following citations to a curated list of major benchmarks and filtering them for the presence of specific keywords in their titles, so it should not be considered a systematic literature review. The analysis is intended to illustrate broad trends rather than provide a comprehensive picture of the field.
