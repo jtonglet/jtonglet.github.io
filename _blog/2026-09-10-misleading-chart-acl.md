@@ -55,17 +55,17 @@ A much better solution is to use consistent tick intervals, as in the chart disp
   <img width="50%" src="/images/misleading_chart_acl/inconsistent_tick_corrected.png" alt="The corrected chart." />
 </p>
 
-### Dude, don't be so dramatic and just start the axis at 0 
+### Don't be so dramatic and just start the axis at 0 
 
 Let's stay with our chihuahuas and muffins for a little longer. The following chart shows the accuracy of all three models on the classification task. The main purpose of a bar chart like this one is to compare the models based on the height of their bars. So, model A's accuracy is three times better than model B. Right? No, wait. Based on the y-axis ticks, the accuracy of model A is 80, and that of model B is 40. That's twice as good, not three times. 
 
-So what happened here? The little culprit lies in the bottom-left corner. The y-axis starts at 20. This is called a truncation. Implicitly, the human mind assumes that the bars start from 0, but a quarter of the bars is actually hidden. Again, we got deceived by analyzing the visual signal, here, the height of the bar.
+So what happened here? The little culprit lies in the bottom-left corner. The y-axis starts at 20. This is called a truncation. Implicitly, the human mind assumes that the bars start at 0, but a quarter of the bars are actually hidden. Again, we got deceived by analyzing the visual signal, here, the height of the bar.
 
 <p align="center">
   <img width="50%" src="/images/misleading_chart_acl/truncated.png" alt="A chart with a truncated y-axis." />
 </p>
 
-The fix is quite simple: start the y-axis at 0. But you will maybe argue that doing so makes the bars too long and the gaps in accuracy harder to see. If that bothers you, I have two suggestions: (1) use another metric, (2) report the accuracies in a table instead of using a chart. Using a truncated bar chart is the least recommended option, because even if you specify the accuracy scores on the top of the bars, there will always be readers who will remember that the blue bar was three times bigger than the orange one, and as time passes, this will transform into remembering that model A was three times better than model B.
+The fix is quite simple: start the y-axis at 0. But you might argue that doing so makes the bars too long and the gaps in accuracy harder to see. If that bothers you, I have two suggestions: (1) use another metric, (2) report the accuracy in a table instead of using a chart. Using a truncated bar chart is the least recommended option, because even if you specify the accuracy scores on top of the bars, there will always be readers who will remember that the blue bar was three times bigger than the orange one, and as time passes, this will transform into remembering that model A was three times better than model B.
 
 
 <p align="center">
@@ -77,26 +77,28 @@ The fix is quite simple: start the y-axis at 0. But you will maybe argue that do
 
 Let's explore one more example of the third most-represented misleader: dual axis. Here, we compare the three models against human accuracy on three NLP tasks. This is a bar chart, so let's see which bar is the tallest. Damn, model A looks really strong, beating the human accuracy on all tasks!
 
-Of course, there is a trick. Look on your left, look on your left, there is not one but two numerical axes. The left one is a standard 0-100 axis used to report model accuracy. The one on the right is truncated at 80% (!) and reports the human accuracy. In this setting, it is simply impossible to compare model A and the human accuracy. This chart needs an urgent fix.
-
-
-
 <p align="center">
   <img width="50%" src="/images/misleading_chart_acl/dual_axis.png" alt="A dual axes chart." />
 </p>
 
-The chart below is much better now. It uses a single axis. Now it is clear that model A never beats human performance in practice. Takeaway: dual axes are misleading in almost all scenarios; avoid using them.
+Of course, there is a trick. Look to your left, look to your right; there is not one but two numerical axes. The left one is a standard 0-100 axis used to report model accuracy. The one on the right is truncated at 80% (!) and reports the human accuracy. In this setting, it's simply impossible to fairly compare model A's performance with human performance. This chart needs an urgent fix.
+
+
+
+
+
+The chart below is much better. It uses a single axis. Now it is clear that model A never beats human performance in practice. Takeaway: dual axes are misleading in almost all scenarios; avoid using them.
 
 
 <p align="center">
   <img width="50%" src="/images/misleading_chart_acl/dual_axis_corrected.png" alt="The corrected chart." />
 </p>
 
-> A comparison between AI models and humans using two different axes was done in an actual ACL/EMNLP paper that served as inspiration for this example.
+> This example is inspired by a real dual-axis AI-vs-human comparison published at ACL/EMNLP.
 
 ### To go further, return first to 1954
 
-Misleading charts have only gained major interest recently in the wake of the COVID pandemic, due to their extensive use to propagate disinformation about the virus. However, they were already discussed in 1954 by Darrel Huff in his excellent book "How to Lie with Statistics" [2]. I highly recommend this short but great read to anyone interested in the topic. If you want to explore this growing research area further, you can also check out [the reading list](https://github.com/UKPLab/awesome-misleading-visualizations) that I regularly update on Github [3].
+Misleading charts have only gained major interest recently in the wake of the COVID pandemic, due to their extensive use to propagate disinformation about the virus. However, they were already discussed in 1954 by Darrel Huff in his excellent book "How to Lie with Statistics" [2]. I highly recommend this short but great read to anyone interested in the topic. If you want to explore this growing research area further, you can also check out [the reading list](https://github.com/UKPLab/awesome-misleading-visualizations) that I regularly update on GitHub [3].
 
 
 {% capture takeaways %}
@@ -114,7 +116,7 @@ Misleading charts have only gained major interest recently in the wake of the CO
 I scraped a random sample from the ACL Anthology for the ACL and EMNLP conferences of 2022-2025. 
 I used pymupdf to extract figures from the papers. I conducted two rounds of automated labeling with Gemini 3.5 Flash. (1) Removing all figures that are not charts (e.g., prompts, methodology diagrams, ...). 
 (2) Detecting whether the chart is misleading, and which misleaders affect it, using the taxonomy of 12 design misleaders from [1].
-All charts flagged as misleading were manually validated afterward, yielding a final set of 261 papers containing 825 charts of which 91 are misleading. 
+All charts flagged as misleading were manually validated afterward, yielding a final set of 261 papers containing 825 charts, of which 91 are misleading. 
 
 ### References
 
