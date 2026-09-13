@@ -15,7 +15,7 @@ tags:
   <img width="70%" src="/images/misleading_chart_anthology.png" alt="How to not make your next paper's results charts" />
 </p>
 
-One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. While the misleading charts I encounter in my research are usually published by sketchy companies, politicians, or social media accounts, I have always been curious whether flawed design practices also affect charts published at Natural Language Processing (NLP) research conferences. Equipped with Gemini 3.5 Flash and the taxonomy of misleaders that I used in my prior work [1], I investigated a random collection of 261 papers published at ACL and EMNLP, the two flagship NLP conferences. This blog post discusses the main insights.
+One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. While the misleading charts I encounter in my research are usually published by sketchy companies, politicians, or social media accounts, I have always been curious whether flawed design practices also affect charts published at Natural Language Processing (NLP) research conferences. Equipped with Gemini 3.5 Flash and the taxonomy of misleaders that I used in my prior work [1], I investigated a random collection of 623 papers published at ACL and EMNLP, the two flagship NLP conferences. This blog post discusses the main insights.
 
 > 📖 **Glossary**
 > 
@@ -23,16 +23,16 @@ One of my research focuses is developing AI methods to detect and counter mislea
 > Importantly, this does not mean that the chart will systematically be deceiving, but rather that one or more best design practices were broken.
 > These design flaws are also called **misleaders** [1].
 
-### 73 Papers. 91 Charts. More misleading than expected
+###  133 Papers. 191 Charts. More misleading than expected
 
-**73**. That is the number of scientific papers in the collection that contained at least one misleading chart. That corresponds to a staggering 28% of the collection, way more than I ever expected. Of the 825 charts in the collection, 91 were labeled as misleading by Gemini 3.5 Flash and me. That's 11% of all charts. The types of misleaders affecting these charts are diverse. 
+**133**. That is the number of scientific papers in the collection that contained at least one misleading chart. That corresponds to a staggering 21% of the collection, way more than I ever expected. Of the 1798 charts in the collection, 187 were labeled as misleading by Gemini 3.5 Flash and me. That's 10% of all charts. The types of misleaders affecting these charts are diverse. 
 
-In total, we found 9 of the 12 misleaders in our taxonomy. These stats are not great. But there is good news; almost all of it comes down to two culprits: "inconsistent tick intervals" and "truncated axis", and they are both easy to address. Let's see how we can fix those charts with some examples.
+In total, we found 9 of the 12 misleaders in our taxonomy. These stats are not great. But there is good news; most of it comes down to two culprits: "inconsistent tick intervals" and "truncated axis", and they are both easy to address. Let's see how we can fix those charts with some examples.
 
 > All the examples below are fictional but directly based on the real-world cases that I observed in the collection.
 
 <p align="center">
-  <img width="80%" src="/images/misleading_chart_acl/distribution_misleader.png" alt="The distribution of misleaders in the collection of 91 misleading charts." />
+  <img width="80%" src="/images/misleading_chart_acl/distribution_misleader.png" alt="The distribution of misleaders in the collection of 191 misleading charts." />
 </p>
 
 
@@ -103,19 +103,19 @@ Misleading charts have only gained major interest recently in the wake of the CO
 
 {% capture takeaways %}
 - **Many charts in ACL and EMNLP contain design flaws** that can make them misleading.
-- In a random sample of 261 papers, **~28%** contain at least one misleading chart. Out of a sample of 825 charts, **~11%** are misleading.
+- In a random sample of 623 papers, **~21%** contain at least one misleading chart. Out of a sample of 1798 charts, **~10%** are misleading.
 - The top three misleaders are: **inconsistent tick intervals**, **truncated axis**, **dual axes**.
 - Avoiding misleading design flaws is essential to avoid misinterpretation of the results by readers.
 {% endcapture %}{% include takeaway.html content=takeaways %}
 
-> Disclaimer: The collection is only a small random sample (n=261) of the papers published at ACL and EMNLP.
+> Disclaimer: The collection is only a small random sample (n=623) of the papers published at ACL and EMNLP.
 
 ### Collection method
 
 I scraped a random sample from the ACL Anthology for the ACL and EMNLP conferences of 2022-2025. 
 I used pymupdf to extract figures from the papers. I conducted two rounds of automated labeling with Gemini 3.5 Flash. (1) Removing all figures that are not charts (e.g., prompts, methodology diagrams, ...). 
 (2) Detecting whether the chart is misleading, and which misleaders affect it, using the taxonomy of 12 design misleaders from [1].
-All charts flagged as misleading were manually validated afterward, yielding a final set of 261 papers containing 825 charts, of which 91 are misleading. 
+All charts flagged as misleading were manually validated afterward, yielding a final set of 623 papers containing 1798 charts, of which 187 are misleading. 
 
 ### References
 
