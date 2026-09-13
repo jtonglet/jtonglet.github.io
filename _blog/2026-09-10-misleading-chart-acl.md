@@ -109,7 +109,6 @@ Misleading charts have only gained major interest recently in the wake of the CO
 {% endcapture %}{% include takeaway.html content=takeaways %}
 
 > Disclaimer: The collection is only a small random sample (n=261) of the papers published at ACL and EMNLP.
-> This blog post will be regularly updated to provide new results based on larger samples.
 
 ### Collection method
 
