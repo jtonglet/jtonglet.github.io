@@ -1,7 +1,7 @@
 ---
-title: "28% of NLP papers have misleading charts. Is yours one of them?"
+title: "NLP papers contain misleading charts. Is yours one of them?"
 date: 2026-09-10
-permalink: /blog/how-not-to-make-your-next-paper-results-charts/
+permalink: /blog/nlp-papers-contain-misleading-charts-is-yours-one-of-them/
 excerpt: "An analysis of the bad chart design practices in ACL and EMNLP conference papers."
 header:
   teaser: "misleading_chart_anthology.png"
