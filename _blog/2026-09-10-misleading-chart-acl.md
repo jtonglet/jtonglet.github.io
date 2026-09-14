@@ -15,7 +15,13 @@ tags:
   <img width="70%" src="/images/misleading_chart_anthology.png" alt="How to not make your next paper's results charts" />
 </p>
 
-One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. While the misleading charts I encounter in my research are usually published by sketchy companies, politicians, or social media accounts, I have always been curious whether flawed design practices also affect charts published at Natural Language Processing (NLP) research conferences. Equipped with Gemini 3.5 Flash and the taxonomy of misleaders that I used in my prior work [1], I investigated a random collection of 623 papers published at ACL and EMNLP, the two flagship NLP conferences. This blog post discusses the main insights.
+One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. Take the pie chart below, published on the page [WTF Visualizations](https://viz.wtf/post/81897328816/thirds). The slices cover 75 and 25% of the pie, while their labels are 66.7 and 33.3%, respectively. This is a typical example of misleading chart.
+
+<p align="center">
+  <img width="30%" src="/images/misleading_chart_acl/misleading_chart_example.png" alt="How to not make your next paper's results charts" />
+</p>
+
+While the misleading charts I encounter in my research are often published by companies, politicians, or social media users, I have always been curious whether flawed design practices also affect charts published at Natural Language Processing (NLP) research conferences. Equipped with Gemini 3.5 Flash and the taxonomy of misleaders that I used in my prior work [1], I investigated a random collection of 623 papers published at ACL and EMNLP, the two flagship NLP conferences. This blog post discusses the main insights.
 
 > 📖 **Glossary**
 > 
@@ -113,7 +119,7 @@ Misleading charts have only gained major interest recently in the wake of the CO
 ### Collection method
 
 I scraped a random sample from the ACL Anthology for the ACL and EMNLP conferences of 2022-2025. 
-I used pymupdf to extract figures from the papers. I conducted two rounds of automated labeling with Gemini 3.5 Flash. (1) Removing all figures that are not charts (e.g., prompts, methodology diagrams, ...). 
+I used pymupdf to extract figures from the papers. I conducted two rounds of automated labeling with Gemini 3.5 Flash. (1) Removing all figures that are not charts (e.g., prompts, methodology diagrams, etcetera). 
 (2) Detecting whether the chart is misleading, and which misleaders affect it, using the taxonomy of 12 design misleaders from [1].
 All charts flagged as misleading were manually validated afterward, yielding a final set of 623 papers containing 1798 charts, of which 187 are misleading. 
 
