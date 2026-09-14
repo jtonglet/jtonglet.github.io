@@ -29,7 +29,7 @@ While the misleading charts I encounter in my research are often published by co
 > Importantly, this does not mean that the chart will systematically be deceiving, but rather that one or more best design practices were broken.
 > These design flaws are also called **misleaders** [1].
 
-###  133 Papers. 191 Charts. More misleading than expected
+###  133 Papers. 187 Charts. More misleading than expected
 
 **133**. That is the number of scientific papers in the collection that contained at least one misleading chart. That corresponds to a staggering 21% of the collection, way more than I ever expected. Of the 1798 charts in the collection, 187 were labeled as misleading by Gemini 3.5 Flash and me. That's 10% of all charts. The types of misleaders affecting these charts are diverse. 
 
@@ -38,7 +38,7 @@ In total, we found 9 of the 12 misleaders in our taxonomy. These stats are not g
 > All the examples below are fictional but directly based on the real-world cases that I observed in the collection.
 
 <p align="center">
-  <img width="80%" src="/images/misleading_chart_acl/distribution_misleader.png" alt="The distribution of misleaders in the collection of 191 misleading charts." />
+  <img width="80%" src="/images/misleading_chart_acl/distribution_misleader.png" alt="The distribution of misleaders in the collection of 187 misleading charts." />
 </p>
 
 
@@ -81,7 +81,7 @@ The fix is quite simple: start the y-axis at 0. But you might argue that doing s
 
 ### Two axes, one illusion
 
-Let's explore one more example of the third most-represented misleader: dual axis. Here, we compare the three models against human accuracy on three NLP tasks. This is a bar chart, so let's see which bar is the tallest. Damn, model A looks really strong, beating the human accuracy on all tasks!
+Let's explore one more example of the third most-represented misleader: dual axes. Here, we compare the three models against human accuracy on three NLP tasks. This is a bar chart, so let's see which bar is the tallest. Damn, model A looks really strong, beating the human accuracy on all tasks!
 
 <p align="center">
   <img width="70%" src="/images/misleading_chart_acl/dual_axis.png" alt="A dual axes chart." />
