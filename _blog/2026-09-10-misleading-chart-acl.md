@@ -15,10 +15,10 @@ tags:
   <img width="70%" src="/images/misleading_chart_anthology.png" alt="How to not make your next paper's results charts" />
 </p>
 
-One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. Take the pie chart below, published on the page [WTF Visualizations](https://viz.wtf/post/81897328816/thirds). The slices cover 75 and 25% of the pie, while their labels are 66.7 and 33.3%, respectively. This is a typical example of misleading chart.
+One of my research focuses is developing AI methods to detect and counter misleading charts, i.e., charts with questionable design choices that can lead readers to misinterpret the data behind the chart. Take the pie chart below, published on the page [WTF Visualizations](https://viz.wtf/post/81897328816/thirds). The slices cover 75 and 25% of the pie, while their labels are 66.7 and 33.3%, respectively. This is a typical example of a misleading chart.
 
 <p align="center">
-  <img width="30%" src="/images/misleading_chart_acl/misleading_chart_example.png" alt="How to not make your next paper's results charts" />
+  <img width="40%" src="/images/misleading_chart_acl/misleading_chart_example.png" alt="How to not make your next paper's results charts" />
 </p>
 
 While the misleading charts I encounter in my research are often published by companies, politicians, or social media users, I have always been curious whether flawed design practices also affect charts published at Natural Language Processing (NLP) research conferences. Equipped with Gemini 3.5 Flash and the taxonomy of misleaders that I used in my prior work [1], I investigated a random collection of 623 papers published at ACL and EMNLP, the two flagship NLP conferences. This blog post discusses the main insights.
