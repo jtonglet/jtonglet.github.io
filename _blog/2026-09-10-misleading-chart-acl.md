@@ -28,9 +28,7 @@ While the misleading charts I encounter in my research are often published by co
 
 ###  133 Papers. 187 Charts. More misleading than expected
 
-**133**. That is the number of scientific papers in the collection that contained at least one misleading chart. That corresponds to a staggering 21% of the collection, way more than I ever expected. Of the 1798 charts in the collection, 187 were labeled as misleading by Gemini 3.5 Flash and me. That's 10% of all charts. The types of misleaders affecting these charts are diverse. 
-
-In total, we found 9 of the 12 misleaders in our taxonomy. These stats are not great. But there is good news; most of it comes down to two culprits: "inconsistent tick intervals" and "truncated axis", and they are both easy to address. Let's see how we can fix those charts with some examples.
+**133**. That is the number of scientific papers in the collection that contained at least one misleading chart. That corresponds to a staggering 21% of the collection, way more than I ever expected. Of the 1798 charts in the collection, 187 were labeled as misleading by Gemini 3.5 Flash and me. That's 10% of all charts. The types of misleaders affecting these charts are diverse. In total, we found 9 of the 12 misleaders in our taxonomy. These stats are not great. But there is good news; most of it comes down to two culprits: "inconsistent tick intervals" and "truncated axis", and they are both easy to address. Let's see how we can fix those charts with some examples.
 
 > All the examples below are fictional but directly based on the real-world cases that I observed in the collection.
 
@@ -45,13 +43,13 @@ The most common misleader is the use of inconsistent intervals between numerical
 
 The following line chart shows the classification accuracy of the models across different numbers of few-shot demonstrations (i.e., examples) provided in their prompts. Now, a line chart consists of two things: dots representing accuracy scores and lines connecting them. The slope of the line is useful to show the rate at which accuracy is increasing or decreasing. The problem with this chart is that the slope cannot be analyzed that way because the x-axis values do not have consistent intervals. 
 
-If I were to ask you whether going from 2 to 5 demonstrations yielded a higher increase than going from 1 to 2, you would probably answer "Yes" because the slope is steeper between 2 and 5. However, there is a 3-unit increase from 2 to 5, so the slope should be divided by 3 to compare it with the increase from 1 to 2. This is a typical example of how charts can be misleading: a visual artifact, here the slope, could lead you to conclusions that are not supported by the actual data.
+If I were to ask you whether accuracy increased at a higher rate from 2 to 5 or from 1 to 2, you would probably answer "2 to 5" because the slope is steeper in that segment. However, there is a 3-unit increase from 2 to 5, so the slope should be divided by 3 to compare it with the rate from 1 to 2. This is a typical example of how charts can be misleading: a visual artifact, here the slope, could lead you to conclusions that are not supported by the actual data.
 
 <p align="center">
   <img width="70%" src="/images/misleading_chart_acl/inconsistent_tick.png" alt="A chart with inconsistent tick intervals." />
 </p>
 
-A much better solution is to use consistent tick intervals, as in the chart displayed below. This ensures that the slope of the line chart remains meaningful. If I were to ask the same question again, the answer here would clearly be "No", as the slope is steeper between 1 and 2. It is worth noting that many papers in the collection adopt this better design practice for drawing their line charts.
+A much better solution is to use consistent tick intervals, as in the chart displayed below. This ensures that the slope of the line chart remains meaningful. If I were to ask the same question again, the answer here would clearly be "1 to 2", as that segment has a steeper slope. It is worth noting that many papers in the collection adopt this better design practice for drawing their line charts.
 
 
 <p align="center">
@@ -68,7 +66,9 @@ So what happened here? The little culprit lies in the bottom-left corner. The y-
   <img width="70%" src="/images/misleading_chart_acl/truncated.png" alt="A chart with a truncated y-axis." />
 </p>
 
-The fix is quite simple: start the y-axis at 0. But you might argue that doing so makes the bars too long and the gaps in accuracy harder to see. If that bothers you, I have two suggestions: (1) use another metric, (2) report the accuracy in a table instead of using a chart. Using a truncated bar chart is the least recommended option, because even if you specify the accuracy scores on top of the bars, there will always be readers who will remember that the blue bar was three times bigger than the orange one, and as time passes, this will transform into remembering that model A was three times better than model B.
+The fix is quite simple: start the y-axis at a reasonable value given the context, 0% in this case, and make it clearly visible. But you might argue that doing so makes the bars too long and the gaps in accuracy harder to see. If that bothers you, I have two suggestions: (1) use another metric with a shorter numerical axis, (2) report the accuracy in a table instead of using a chart. Using a truncated bar chart is the least recommended option, because even if you specify the accuracy scores on top of the bars, there will always be readers who will remember that the blue bar was three times bigger than the orange one, and as time passes, this will transform into remembering that model A was three times better than model B.
+
+> The meaningful starting point of the numerical axis depends on the context and metric used and does not always need to be 0. 
 
 
 <p align="center">
