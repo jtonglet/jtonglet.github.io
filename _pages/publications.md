@@ -61,6 +61,11 @@ Transactions in Operations Research. 2024. <br>
 
 ## Preprints
 
+**MIC: Explaining Image-Claim Inconsistencies in AI-Generated Multimodal Misinformation** <br>
+Ruihong Zeng, Jonathan Tonglet, Preslav Nakov, Iryna Gurevych <br>
+arXiv preprint. 2026. <br>
+📄[preprint](https://arxiv.org/abs/2609.33441) 💻[code](https://github.com/UKPLab/arxiv2026-mic)
+
 **Last Translation Benchmark** <br>
 LTB authors and data contributors (200+) <br>
 arXiv preprint. 2026. <br>
