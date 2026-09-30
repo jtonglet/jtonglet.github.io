@@ -79,7 +79,7 @@ In summary, researchers trying to automate multimodal misinformation detection a
 
 All papers citing a seed set of popular multimodal misinformation detection benchmarks were collected using the Semantic Scholar API. These benchmarks are: Pheme, Weibo, Twitter, DGM4, VERITE, NewsCLIPpings, MR2, MMFakeBench, AverImaTeC. All articles that contain one of the following terms in their title are collected: fact-checking, misinformation, disinformation, fake news, rumor, out-of-context. The benchmarks used in the experiments section of a paper are manually labeled based on the article's content. Articles behind a paywall are excluded from the study.
 
- > The metadata will be released soon in another public repository.
+ > The metadata is available [here](https://github.com/jtonglet/jtonglet.github.io/tree/master/resources/mafc_analysis).
 
 ### References
 
