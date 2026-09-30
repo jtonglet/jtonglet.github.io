@@ -1,6 +1,6 @@
 ---
 title: "This looks real, but is it true? On how a flag and some cars can tell you that an image is AI-generated"
-date: 2026-09-10
+date: 2026-09-30
 permalink: /blog/on_how_a_flag_and_some_cars_can_tell_you_that_an_image_is_ai_generated/
 excerpt: "Practical tips to detect AI-generated multimodal misinformation using your knowledge of the world."
 header:
