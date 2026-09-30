@@ -1,0 +1,188 @@
+title,year,degree,connects_to_seed,datasets,keyword,paper_id
+Cross-modal Ambiguity Learning for Multimodal Fake News Detection,2022.0,43,False,"twitter,weibo",fake news,a81deb67bcb6b9befe8747b707d14153f9ec7b4c
+FKA-Owl: Advancing Multimodal Fake News Detection through Knowledge-Augmented LVLMs,2024.0,25,True,"dgm4,newsclippings",fake news,a68f9ad83eab98d2cb6445093c834c9500d5e841
+Multimodal Fake News Detection via CLIP-Guided Learning,2022.0,23,True,"weibo,politifact,gossipcop",fake news,27f45012acd0c304a198456b9b4163ed15c18e1a
+Multimodal fake news detection via progressive fusion networks,2023.0,21,True,"weibo,twitter",fake news,1e8f59aab7f3f7d402f1d7527f8c1e414fbf29f6
+Leveraging Intra and Inter Modality Relationship for Multimodal Fake News Detection,2022.0,18,True,"weibo,twitter",fake news,efcb9331e1704817925afc7c5d67084b8123df9a
+Cross-modal Contrastive Learning for Multimodal Fake News Detection,2023.0,18,True,"weibo,twitter",fake news,4915a3ca61e6cdcfcaa47297ad269958bec37a5d
+TERN: Type-Aware Evidence Reasoning for Multimodal Fake News Detection,2026.0,17,True,"mr2,weibo,pheme",fake news,c3a7893adf1aa2238e1b48aba7d7202a828268d9
+RED-DOT: Multimodal Fact-Checking viaRelevant Evidence Detection,2023.0,16,True,"newsclippings,verite",fact checking,d7026c7e1c166d52923f24d9fa6d1d6b0a53d8f9
+AMFB: Attention based multimodal Factorized Bilinear Pooling for multimodal Fake News Detection,2021.0,16,False,"weibo,twitter",fake news,2a67b0a9d61ea5d97ff1a9de0230445c237a7369
+Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection,2026.0,14,True,"miragenews,mmfakebench,amg",misinformation,04bbddbf590dd9014ac1a7535f04fdce77cdd082
+TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection,2025.0,14,True,"mmfakebench,factify2,dgm4,newsclippings,mocheg,fakeddit,verite",misinformation,3c0809ccd857be2ffdb4c565b0c27acba8233856
+Synthetic Misinformers: Generating and Combating Multimodal Misinformation,2023.0,14,True,newsclippings,misinformation,14931877dbaed82871fda8f9d2e5d51295e14563
+LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation,2024.0,14,True,"twitter,fakeddit",misinformation,00c6a500726a85090e1b2e7e8f4c5226ff56d86d
+Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection,2026.0,13,True,"mmfakebench,dgm4",misinformation,6d7f685778c17144c0c6aa2e7b7d43b02fd1b920
+T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search,2025.0,13,True,"mmfakebench,amg",misinformation,5a3979cf70a3057a26a6b792b7f9e7e1e0b4ff67
+Multimodal Fake News Detection with Contrastive Learning and Optimal Transport,2024.0,13,True,"weibo,pheme",fake news,a9a73a304c59595a224bd0fb4252effdaa5752ac
+Can LLMs Improve Multimodal Fact-Checking by Asking Relevant Questions?,2024.0,11,True,"mmfakebench,dgm4,factify",fact checking,e85670f9126a9f4643a2885dcee5e349e5f5fe0f
+Multimodal Fake News Detection,2021.0,11,True,fakeddit,fake news,a51494fdbefe6b9b205aae07e7aa1f4e05ef4809
+Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection,2024.0,11,True,"politifact,gossipcop,pheme",fake news,f767f775a0d2976a39bbb7b67ca4d65046a97696
+Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline,2025.0,9,True,"weibo,twitter",misinformation,a1a0b0a6861a2b4c4264deaf80c58b88889517ab
+Latent Reconstruction from Generated Data for Multimodal Misinformation Detection,2025.0,9,True,"newsclippings,verite",misinformation,bca70eb93ed2be7e8b950c4df5dce6e99073d9e4
+Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning,2025.0,8,True,"mfnd,weibo,twitter",fake news,0de6c8c7c6ca802fd002b9598aeee504b6ac9e73
+Multimodal fake news detection through intra-modality feature aggregation and inter-modality semantic fusion,2024.0,8,True,"weibo,twitter",fake news,32b73dec368c0a7b22026b0aef04d5d0c1973c43
+Entity Graph Alignment and Visual Reasoning for Multimodal Fake News Detection,2025.0,8,True,"weibo,twitter,pheme",fake news,913698b3b939d9ff9ac9d54124f76e0a5c301cb7
+A Compact GPT-Based Multimodal Fake News Detection Model with Context-Aware Fusion,2025.0,8,True,"weibo,pheme",fake news,7934aa5bdcc3033fbd08e784a8fbe89ccc18dc7d
+RW-Post: Auditable Evidence-Grounded Multimodal Fact-Checking in the Wild,2025.0,8,True,"newsclippings,claimreview24+,mocheg,rw-post",fact checking,bb40d2b257fc0c482b0692d9def19e6bbfdb1d31
+Contrastive learning of cross-modal information enhancement for multimodal fake news detection,2025.0,7,True,"weibo,twitter",fake news,e649cd6c1ca0b073094628f818121eef7827d65d
+Multimodal Fake News Detection via Evidence Retrieval and Visual Forensics with Large Vision-Language Models,2026.0,7,True,"weibo,twitter",fake news,008ac61e48e724a8680594ffae5521f91c8225e2
+SEER: Semantic Enhancement and Emotional Reasoning Network for Multimodal Fake News Detection,2025.0,7,True,"weibo,twitter",fake news,f69bb51670625c8c84b587ea68532d03e6570a96
+CroMe: Multimodal Fake News Detection Using Cross-Modal Tri-Transformer and Metric Learning,2025.0,7,True,"weibo,politifact",fake news,32c935988646a03a689a05d33712414c2c06d0f2
+Interpretable Multimodal Misinformation Detection with Logic Reasoning,2023.0,7,True,"twitter,weibo",misinformation,3d41d32ebd34969e13fcc96e6287fd113bc49887
+Toward Explainable Multimodal Fake News Detection: A Fusion of Prompt Learning and Automated Machine Learning,2025.0,7,True,"twitter,politifact,buzzfeed",fake news,14770aaefa6a122085754f30bbe2ae98d8a99e6d
+MAR: Metacognitive Agentic Reasoning for Multimodal Fake News Detection,2026.0,7,True,"mmfakebench,dgm4",fake news,f7de8d4f579ed518b870aae852dc4e583a76cedc
+FMC: Multimodal fake news detection based on multi-granularity feature fusion and contrastive learning,2024.0,7,True,"recovery,gossipcop,mr2",fake news,73789e2c3cd481a0d40396a73d99e233691717a0
+Cross-modal Consistency Learning with Fine-grained Fusion Network for Multimodal Fake News Detection,2023.0,7,True,"weibo,twitter",fake news,786fd617cd7bb95fecf8ad108307bce3dfd97a71
+Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection,2026.0,7,True,mmfakebench,misinformation,0c2d8e029b9411424437bc272e8fab1d8484139a
+LCFND: OT–guided LLM evidence reasoning and graph verification for multimodal fake news detection,2026.0,7,True,"weibo,twitter,gossipcop",fake news,eb5ef6852d1927f29b88e5e1e729db205df5a7ff
+Interpreting Multimodal Fake News Detection Models: An Experimental Study of Performance Factors and Modality Contributions,2026.0,7,True,fakeddit,fake news,9bff8a0c76f89b3a2effdb4df3bc94a2b4a8af11
+A Multimodal Fake News Detection Method Based on Contrastive Learning and Variational Autoencoder,2026.0,6,True,"weibo,twitter",fake news,b4b88a113b27f49231d4fe9c8e532781ce29facf
+KEN: Knowledge Augmentation and Emotion Guidance Network for Multimodal Fake News Detection,2025.0,6,True,"weibo,twitter",fake news,b153ff22aaa6abc92fe1d333e60d1a3f9501754a
+"No Evidence, No Problem: When Less is More for Out of Context Multimodal Misinformation Detection",2026.0,6,True,newsclippings,"ooc,misinformation",d3cfead6c66979ceb32c3eb8acde1e78db73579c
+Can Out-of-Domain Data Help to Learn Domain-Specific Prompts for Multimodal Misinformation Detection?,2023.0,6,True,"newsclippings,verite",misinformation,de3f391dedbf9f96b81325629d5e65a58e089a49
+RAMA: Retrieval-Augmented Multi-Agent Framework for Misinformation Detection in Multimodal Fact-Checking,2025.0,6,True,twitter,"fact checking,misinformation",0d6ec8388e8d2f68a1d756b6eda15de27bc9b089
+MMFN: MLLMs-guided Multi-source Information Fusion Network for Multimodal Fake News Detection,2026.0,6,True,"weibo,gossipcop,politifact",fake news,4dac1fc819563f4d9ef8ed732e3a3760a6edd98c
+LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation,2025.0,6,True,"dgm4,verite",misinformation,7e2533fc1afaefd001432ba0b70fa6c320bd8f54
+Multimodal Fake News Analysis Based on Image–Text Similarity,2024.0,5,False,"twitter,buzzfeed",fake news,d90aeb5c875b3841d6b29b8463a79ace0354a53d
+MMD-Thinker: Adaptive Multi-Dimensional Thinking for Multimodal Misinformation Detection,2025.0,5,True,"pheme,twitter",misinformation,789cd77dc32eb9304c739b1582dfef4a531bd770
+Towards Robust and Realible Multimodal Misinformation Recognition with Incomplete Modality,2025.0,5,True,"weibo,pheme",misinformation,c77137af9d687cbc4fd5b59a8a095273fe0f1f7b
+FakeNewsGPT4: Advancing Multimodal Fake News Detection through Knowledge-Augmented LVLMs,2024.0,5,True,dgm4,fake news,05093d10406b3c0d591abe4e8c514e50f592c415
+Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection,2024.0,5,True,"politifact,gossipcop,weibo",fake news,3733a3af4b7ff9c82a327f71edbeaa579bacb62d
+Navigating Truth in Multimodal Fact-checking via Retrieval- and Reasoning-Enhanced Large Language Models,2026.0,5,True,"newsclippings,mfcbench,verite,ccmf,scmf",fact checking,f909e91783415d41c4ae84c870470dd417f17d9c
+Knowledge-Enhanced Multimodal Fake News Detection: Semantic Visual and Priority Fusion,2026.0,5,True,"weibo,pheme",fake news,aaf5ed9c9ebd6f4e9db9854209a5fd27bc4adb8e
+DeBERTNeXT: A Multimodal Fake News Detection Framework,2023.0,4,True,"fakeddit,politifact,gossipcop",fake news,af315358964a36268fe628f9c54238184cd648d6
+Insight-A: Attribution-aware for Multimodal Misinformation Detection,2025.0,4,True,mmfakebench,misinformation,ecf24479c9e5e85cb3d8472fc1bf80f54a1588db
+Triple Path Enhanced Neural Architecture Search for Multimodal Fake News Detection,2025.0,4,True,"weibo,pheme",fake news,d226a9649c34f2a3c034f19a29a571bb60f6403c
+Confidence-guided Boundary Adaption Network for Multimodal Fake News Detection,2023.0,4,True,"weibo,twitter",fake news,0d745d5095eec2b061954d979a5a443347cf3069
+Harmfully Manipulated Images Matter in Multimodal Misinformation Detection,2024.0,4,True,"gossipcop,weibo,twitter",misinformation,a9c27bcf111818155ef66e47ee4595fdf0315cd2
+Multimodal Fake News Detection Based on Contrastive Learning and Similarity Fusion,2024.0,4,True,"weibo,twitter",fake news,f71171100ccaa168271110aafda4d5f7b723403d
+Intra and Inter-modality Incongruity Modeling and Adversarial Contrastive Learning for Multimodal Fake News Detection,2024.0,4,True,"weibo,twitter,gossipcop",fake news,4c949f0912aad055637c0a268ae010adbe51bd6d
+CAF-ODNN: Complementary attention fusion with optimized deep neural network for multimodal fake news detection,2024.0,4,False,"fakenewsnet,fakeddit,pheme",fake news,1e6bb8f7ddd6f79b7bfd5b1fa2ef61007877d58f
+Improving Generalization for Multimodal Fake News Detection,2023.0,4,True,twitter,fake news,d1b99f0110e5996bf6540dab7c08c46e089df8da
+Enhancing Multimodal Misinformation Detection by Replaying the Whole Story from Image Modality Perspective,2025.0,4,True,"gossipcop,weibo,twitter",misinformation,84b8af56edde098a326b12b9b747a5724d2896d1
+Evidence-Grounded Multimodal Misinformation Detection with Attention-Based GNNs,2025.0,4,True,"factify,cosmos,mmfb",misinformation,94c8f130bf28d546038c740153fdc0799bf4275a
+GC2MFND: Multi-Granularity Conflict and Domain-Guided Calibration for Multimodal Fake News Detection,2026.0,4,True,"weibo,finefake",fake news,ed85530c26d7bc694eac3e6db9797511206b61a5
+Synergistic Detection of Multimodal Fake News Leveraging TextGCN and Vision Transformer,2023.0,3,True,fakeddit,fake news,bca6c0316f67d41caab5238ff8911cf1aaa33845
+Hierarchical Semantic Enhancement Network for Multimodal Fake News Detection,2023.0,3,True,"pheme,weibo",fake news,31d1e0735693bb0fc8d848123aa4b5a369d2bd45
+A two-branch multimodal fake news detection model based on multimodal bilinear pooling and attention mechanism,2023.0,3,True,"weibo,twitter",fake news,a0955f205a4558630f5eaccde27cb61cd8b15b8d
+Early Detection of Multimodal Fake News via Reinforced Propagation Path Generation,2025.0,3,False,"pheme,politifact,gossipcop",fake news,d6b87fd53f723ddf516e64030185c42cbe038ec0
+Fine-Grained Differences-Similarities Enhancement Network for Multimodal Fake News Detection,2023.0,3,True,"weibo,twitter",fake news,8771b854981a578c4eb563ff01b1e882eba7d25d
+Multi-View mutual learning network for multimodal fake news detection,2025.0,3,False,"weibo,twitter,pheme,politifact",fake news,3fa091fd4dae0d64c2bcd0ea928eb428955075ac
+MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation,2024.0,3,True,mr2,misinformation,86f2f055218b9a8b1ab867bf3889f87b16da73f4
+A Multimodal Fake News Detection Model Based on Bidirectional Semantic Enhancement and Adversarial Network Under Web3.0,2025.0,3,True,"weibo,twitter",fake news,94cc054eae49dfd19794e1fdf73f1090f6d9b3ed
+ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection,2026.0,3,True,"amg,mr2",fake news,9f9707dd01b6ebd0cd77951ac460a67a637def10
+Discourse-Driven Detection of Multimodal Misinformation,2026.0,3,True,"pheme,twitter",misinformation,822b67153514c63becd40cbfcb0b0469b3a4a36a
+"Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors",2025.0,3,True,"gossipcop,weibo,twitter",misinformation,e55de1a4a61b2afc34ec553f6e2f758445e62646
+Multimodal fake news detection using a Cultural Algorithm with situational and normative knowledge,2020.0,3,True,"twitter,weibo",fake news,0158174f77bb7c1ffb315fcae282b3375f669c14
+"DiFaR: Enhancing Multimodal Misinformation Detection with Diverse, Factual, and Relevant Rationales",2025.0,3,True,"fakeddit,fakenewsnet,finefake,mmfakebench",misinformation,5ddf0e5a99cd617e9a68882c9a5ccd8991db4ebd
+DATTAMM: Domain-Aware Test-Time Adaptation for Multimodal Misinformation Detection,2025.0,2,True,weibo,misinformation,b18ecd028de42b4d6ce55ed5f99e217cc2eb71d3
+Potential Features Fusion Network for Multimodal Fake News Detection,2025.0,2,False,"weibo,twitter",fake news,284b51679b08e4da3da34c92bccb516d15bb154a
+DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection,2026.0,2,True,"weibo,gossipcop",fake news,53e71f8e064684d6d197a87f1f00a48252db2dd6
+MERIT: Modular Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning,2025.0,2,True,mmfakebench,misinformation,0f779b9255a7b3b92a7e0c16fc732f5e446c3504
+Cross-modal augmentation for few-shot multimodal fake news detection,2025.0,2,False,"politifact,gossipcop,weibo",fake news,daa5c606263bdc7cef82a7a5e1c24275fbb78faa
+Bridging Cognition and Emotion: Empathy-Driven Multimodal Misinformation Detection,2025.0,2,True,"politifact,gossipcop,pheme",misinformation,139c4a2880363c79ebc9df275ec5c867e431c4e0
+MAF-GAN: Modality-Aware Fusion GAN for Multimodal Fake News Detection,2026.0,2,True,"weibo,gossipcop",fake news,847cdffdbaa3d6298f466d8f697522b7d7af6c20
+An Explainable Multi-view Semantic Fusion Model for Multimodal Fake News Detection,2023.0,1,False,"fakeddit,weibo",fake news,a83273e3419628be9c89737e6492d7019dc22cd2
+Inter-modality Discordance for Multimodal Fake News Detection,2021.0,1,False,fakenewsnet,fake news,f5674400b0b00b38f0c80f64773c73ec1b7fdd3c
+Detecting Multimodal Fake News with Gated Variational AutoEncoder,2024.0,1,False,"weibo,twitter",fake news,2266a269eb2c542f156f98b090e2c49baec7661b
+Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection,2023.0,1,False,"weibo,twitter",fake news,43f175bb927592ed9dcfa842df5868a88eba56d2
+A TemporaMl-and-Spatial Flow Based Multimodal Fake News Detection by Pooling and Attention Blocks,2022.0,1,True,weibo,fake news,
+Covariance Matrix-Driven Image Channel Allocation for Multimodal Fake News Detection,2026.0,1,True,"pheme,cfnd,weibo",fake news,72326fb9e871b9cb6bfbfb2b7659167144c92618
+REVEAL: Retrieval-Enhanced Verification for Multimodal Fact-Checking,2026.0,1,True,averimatec,fact checking,c848b5f99642678b699e8cdffe9e74fdc4822eff
+Multimodal Fake News Detection Based on Contrastive Learning and Data Augmentation,2024.0,1,False,"weibo,pheme",fake news,a5cd0193a9215a73c5cbdff40a3f619bd0a48682
+Modality Perception Learning-Based Determinative Factor Discovery for Multimodal Fake News Detection,2024.0,1,False,"weibo,pheme",fake news,ea1b95c0eff92e7a401716688ca92ed4cb15e400
+Mitigating cross-modal interference in multimodal fake news detection via adaptive feature optimization,2026.0,0,False,"weibo,gossipcop,politifact",fake news,15f248247477aed3f3a834ab69470970167aba95
+Graphing the Truth: Harnessing Causal Insights for Advanced Multimodal Fake News Detection,2025.0,0,False,"twitter,weibo,pheme,fakeddit",fake news,ebf14facb947e52e969bc8ad2b8eda931ad4df87
+Don’t Judge From a Single Perspective: LVLM-Based Multiview Multimodal Fake News Detection,2026.0,0,False,"fakeddit,twitter,mr2",fake news,81f8565048d9822f9bccaf63f7810b255bfc28c9
+Multimodal Fake News Detection Using OCR and Image Captioning with Semantic Similarity Assessment,2025.0,0,False,fakeddit,fake news,8dfa659108262a2d9419630e1f73340248d84b0a
+ViLID: Multimodal misinformation detection with complementary input- and rationale-level inconsistency signals,2026.0,0,False,"fakeddit,mmfakebench",misinformation,d5bc38f649da6916e1b5d0983c5507431c78e565
+PFBL: Prototype-Based Fully Balanced Learning for Multimodal Fake News Detection,2025.0,0,False,"weibo,twitter,fakeddit",fake news,9303bd197368d9603ed309e4b77f1c0802d802d3
+Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection,2025.0,0,False,"newsclippings,verite","ooc,misinformation",864dafe05ea6eb0b111181ae20908eaad89cf0a0
+DCCMA-Net: Disentanglement-based cross-modal clues mining and aggregation network for explainable multimodal fake news detection,2025.0,0,False,"weibo,pheme,gossipcop",fake news,212157a98e681a011c92dcc92655598fba2b929c
+Explicit token modeling and hierarchical feature reasoning for multimodal fake news detection,2026.0,0,False,"weibo,politifact,gossipcop",fake news,09ad2f1717cd76f9efdf33b15dba7c93055c51a5
+MFND-DCL: Multimodal fake news detection based on dual contrastive learning,2026.0,0,False,"weibo,pheme",fake news,3403dc7f362b58033422c2969c72ae38f9949ddb
+Interpretable and robust multimodal fake news detection with evidence fusion and reliable reasoning,2025.0,0,False,fakeddit,fake news,2def0a924d69244e3e2d8a6b1af9c12ef04d7aad
+Multimodal Fake News Detection Through Semantically Enriched Image Captions,2025.0,0,False,"weibo,gossipcop,fakeddit",fake news,cfbbb898366eaa37f643ae9fd0db670c5a29f945
+Bridging cognition and emotion: Empathy-driven multimodal misinformation detection,2026.0,0,False,"politifact,gossipcop,pheme",misinformation,6eb604f73a59b98e1c47c1dd0b14019c3013cdb6
+DAPT: Domain-Aware Prompt-Tuning for Multimodal Fake News Detection,2025.0,0,False,"weibo,finefake",fake news,9aee7c8ac45e313a7713c85d156500039d078efc
+Dynamic hierarchical memory improved mixture-of-experts for multimodal fake news detection,2026.0,0,False,"weibo,pheme,politifact",fake news,ee09473796e257a30b0ec02468b0754a0b14de6c
+A Multimodal Fake News Detection Framework Based on Dual-Process Cognition and Mixture of Experts,2026.0,0,False,"weibo,gossipcop",fake news,a7978002a3874900025feeb8e9d6daf112661c1f
+AlLNet: Alternative Learning is Better for Multimodal Fake News Detection,2026.0,0,False,"weibo,gossipcop,politifact",fake news,ef0f05a9d7160cca466009ee745706205b09003f
+Synergizing small and large experts within CoSE-MFND for multimodal fake news detection,2026.0,0,False,"weibo,finefake",fake news,037a629325be9dd0cee9328a839a6bc8d0293ce5
+Mitigating shortcut learning in multimodal misinformation detection via LLM-guided orthogonal disentanglement,,0,False,"weibo,twitter",misinformation,2ab39acad34c00f213b3830a5f2a8af06da4248f
+A Teacher-Student Model for Multimodal Fake News Detection,2025.0,0,False,"fakeddit,ti-cnn",fake news,90c94f26dbbd47f4f84022370899f652915c7b59
+Multimodal Disinformation Detection with Joint Propagation Structure,2022.0,0,False,weibo,,45d31168bc46b0a43a0b4cd34888b78a450a6461
+A Multi-Agent Comprehensive Judge for Mixed-Source Multimodal Misinformation Detection,2026.0,0,False,"mmfakebench,verite",misinformation,b2c5eb5ce30f80a9b88a1463dc1f2c21e8d59a40
+Similarity-Aware Attention Network for Multimodal Fake News Detection,2022.0,0,False,"twitter,weibo",fake news,2dc2e71a92d1efed841cf966ae55afe5edb0acca
+FND-EKA: hierarchical conditional multimodal fake news detection with external knowledge augmentation,2025.0,0,False,"twitter,weibo",fake news,ae57608de436b940267521cbfeaccf9d4aa49c56
+EFCV: Entity-aware fusion of consistency and visual clues for multimodal fake news detection,2026.0,0,False,"mr2,weibo,pheme",fake news,4c6abe62b17233ea1b47d3c4be32dd467261b1d8
+Learning Frequency-Aware Cross-Modal Interaction for Multimodal Fake News Detection,2024.0,0,False,"weibo,twitter",fake news,146625976e3e834d960508d43e1c4e5842d7583b
+Multimodal Fake News Detection Based on Chain-of-Thought Prompting Large Language Models,2024.0,0,False,"weibo,twitter",fake news,204956e349974d4fdaea5f0e4dbc2bba49a8fb46
+MEVE-FN: An Adaptive Learning Framework for Multimodal Fake News Detection using Mixture-of-Experts,2025.0,0,False,"weibo,twitter",fake news,8f2e5213c46f68c5174ab2a162c2655148cff654
+Uni-Modal Event-Agnostic Knowledge Distillation for Multimodal Fake News Detection,2024.0,0,False,"weibo,gossipcop",fake news,b8ba2a2e2a1ee1c68eff583d73ae1decc1036f09
+A Multimodal Fake News Detection Model Based on Cross-Image Semantic Fusion,2024.0,0,False,weibo,fake news,3a77f2a5b734affc63f3d4f91cc33e6477b27869
+Truthformers at Factify 2022 : Evidence aware Transformer based Model for Multimodal Fact Checking (short paper),2022.0,0,False,factify2,fact checking,25a012fe8351e93afb8ab5482402d0f4a31d9b07
+DEMFND: Domain-Enhanced Multimodal Fake News Detection,2025.0,0,False,"weibo,faknewsnet,covid,politifact",fake news,6c6a85365304ec4e06b90df35a0bea446ac2d944
+DBS-FND: A Framework for Improving Multimodal Fake News Detection via Decision Boundary Alignment,2025.0,0,False,"twitter,weibo",fake news,d606af6b01bf6b46254ec39da598950d3c5cf88d
+Multimodal Fake News Prediction using a Two-Transformer Architecture approach with Llama,2025.0,0,False,weibo,fake news,1d023ac0e6997c966bca11bbbd2ed2464dddae08
+Multimodal misinformation detection based on the multi-granularity consistency,2025.0,0,False,"weibo,pheme,gossipcop",misinformation,832734e9d789e9f9899788fe8fc1b8ffce567d23
+Contrastive Prompt Learning in Structured Graph Networks for Multimodal Fake News Detection,2026.0,0,False,"weibo,twitter",fake news,8585246f1594c5eebf3c7ee48bb5cefa7b27a6ed
+Multi-dimensional feature collaborative fusion networks for multimodal fake news detection,2025.0,0,False,"weibo,twitter",fake news,d66a3c163e62e93dda9fd1ff0215c2f051fb00dd
+SEMFD: Summary-enhanced Multimodal Fake News Detection,2025.0,0,False,"weibo,twitter,gossipcop",fake news,93e3f1a2c2f84a8d9a5ab4bde0f21902e417a101
+Dual-Branch Hybrid Visual Networks and Hierarchical Adaptive Fusion Strategy: An Effective Multimodal Fake News Detection Model,2025.0,0,False,"weibo,twitter,pheme",fake news,285a6845ac605fe84aeadfbd6a0dc033ba7bb429
+DTAHF-Net: Domain-Trust Alignment and Hierarchical Fusion for Multimodal Fake News Detection,2025.0,0,False,"weibo,fakenewsnet",fake news,144b024f9532d8d919ae7a97550ed5c70c1ff4d1
+Unveiling Fine-Grained Deceptive Patterns in Multimodal Fake News: An Explainable Neuro-Symbolic Framework With LVLMs,2025.0,0,False,"weibo,fakeddit,amg",fake news,3a90bcf703b8b760e121dde41fb5abfe8dc93079
+SCATE: shared cross attention transformer encoders for multimodal fake news detection,2021.0,0,False,"weibo,twitter",fake news,bf810a5540d07db3032f414cc648e7c5065c274c
+Dual-Stage Cross-Modal Attention Network for Multimodal Fake News Detection,2026.0,0,False,"weibo,twitter",fake news,96614eae021f42cfce15460f0390dfd04097a622
+Knowledge select relational graph attention networks for multimodal fake news detection,2026.0,0,False,"weibo,twitter",fake news,5a54d99cd82a527eec9a62015474033b35798e23
+Multimodal Biases Mitigation: Multimodal Multi-Granularity Causal Reasoning Framework for Multimodal Fake News Detection,2025.0,0,False,"weibo,fakeddit,pheme",fake news,681ae35d85340badbacdae84f524a64b30bdd7c7
+Correcting the Bias: Mitigating Multimodal Inconsistency Contrastive Learning for Multimodal Fake News Detection,2023.0,0,False,"fakeddit,weibo",fake news,8305072793905475f5037b5b74489575d3cb1d64
+Unifying View-Specific Learning and Ambiguity Awareness With Emotions for Multimodal Misinformation Detection,2026.0,0,False,"weibo,twitter,gossipcop",misinformation,771fe18ba5f62d6b7f428f156c339201bbf14c22
+Fusing Narrative Coherence for Multimodal Fake News Detection,2026.0,0,False,"politifact,gossipcop",fake news,1128e73f9cb35d1cd6bdec528f7ef826a17250ea
+Multi-View Fusion Networks for Multimodal Fake News Detection,2023.0,0,False,"weibo,pheme",fake news,5f4bed4217527f20d41bbb638138a59ecf815e61
+"An emotion-driven, transformer-based network for multimodal fake news detection",2024.0,0,False,"twitter,fakeddit",fake news,e3d3726ec63456b4cc93416d335c5fdfe187468d
+DCLR: mitigating modality imbalance in multimodal fake news detection via dynamic contrastive learning with re-initialization,2025.0,0,False,"twitter,weibo",fake news,9ee035e6ee999280ee463d0336b2b85118a8923e
+Multimodal Fake News Detection Based on Contrastive Learning and Cross-Attention Mechanism,2024.0,0,False,"twitter,weibo",fake news,e2533156a2a8775eefe6d5b9b24ea87c6bdfe8b1
+Multimodal Fake News Detection Based on Multi-angle Fusion and Prediction Consistency Optimization,2024.0,0,False,"twitter,pheme",fake news,c4edf73aec7b6adcd15be598428b78f0039adfdc
+Integrating Open-domain Knowledge via Large Language Model for Multimodal Fake News Detection,2024.0,0,False,"weibo,twitter",fake news,42b571dfc53fc7ec6dcc87ce0b77be982232c1dd
+"Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources",2021.0,20,True,newsclippings,"fact checking,ooc",ce7e1411ccdc0b3d0c4e883355a3bcfe1acc2245
+Sniffer: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection,2024.0,16,True,"newsclippings,verite","ooc,misinformation",75d61f9286e298f13ff7913e4f839b839f61cb02
+Support or Refute: Analyzing the Stance of Evidence to Detect Out-of-Context Mis- and Disinformation,2023.0,13,True,newsclippings,ooc,d876221f70c08ca3af1ff0c934619ced612dec8c
+Similarity Over Factuality: Are we Making Progress on Multimodal Out-of-Context Misinformation Detection?,2024.0,10,True,"newsclippings,verite","ooc,misinformation",b1efbe7540b7a15a234ae4316198f34fa6574202
+Leveraging Chat-Based Large Vision Language Models for Multimodal Out-Of-Context Detection,2024.0,9,True,newsclippings,ooc,f7ad7eb2f015cbb23e8fad2341e8709d5ca7c33e
+Learning Domain-Invariant Features for Out-of-Context News Detection,2024.0,8,True,newsclippings,ooc,f3f40047944909210ad3b64564a3e7d0227e7ad4
+Multi-MLLM Knowledge Distillation for Out-of-Context News Detection,2025.0,7,True,newsclippings,ooc,3f078403d4bc601d2640127552563e0b8d3086e1
+Image-Text Out-Of-Context Detection Using Synthetic Multimodal Misinformation,2023.0,7,True,newsclippings,"ooc,misinformation",ed9570e06bf62325560c672b5f8c3740bd8d89d0
+CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection,2025.0,6,True,newsclippings,"ooc,misinformation",453adc842692c7dd00a6a1f87feb8fa40c95847c
+E2LVLM:Evidence-Enhanced Large Vision-Language Model for Multimodal Out-of-Context Misinformation Detection,2025.0,6,True,newsclippings,"ooc,misinformation",fa8af4ba8b7f1a38e13ceba5196c8f4011a5d76e
+Contrastive Domain Adaptation with Test-Time Training for Out-of-Context News Detection,2025.0,6,True,newsclippings,ooc,34377aea7289926a2f86f0cab6d43f3a4735c1c4
+Interpretable Detection of Out-of-Context Misinformation with Neural-Symbolic-Enhanced Large Multimodal Model,2023.0,5,True,newsclippings,"ooc,misinformation",ca588d50439811f763f07e889f4eacc824baad8c
+Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization,2024.0,5,True,newsclippings,ooc,088c2741b80b97b67690dd6282bbe22a5481d57b
+Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training,2025.0,4,True,newsclippings,"ooc,misinformation",54b848d09dd32723d012e4a2db33b8f66381fee8
+Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features,2026.0,3,True,"weibo,twitter",rumor,d616d1c06879182f66cbc92229471282f2856d66
+MAD-Sherlock: Multi-Agent Debates for Out-of-Context Misinformation Detection,2024.0,3,True,newsclippings,"ooc,misinformation",1606408d31016ccb3896d7c5eba23968fba8796d
+DERM: Dynamic Evidence Reliability Modeling for Multimodal Rumor Detection,2025.0,2,True,"weibo,twitter,mr2",rumor,f7b26b79be5fba4bd932fc6ed99e4469231cdda3
+Fusion of Frequency-Domain Features and Sequential Dependency for Multimodal Rumor Detection,2026.0,2,True,"weibo,pheme",rumor,ed5487e85a3e3a8d36c3b6e887c93d4b0842461a
+Dual evidence enhancement and text-image similarity awareness for multimodal rumor detection,2025.0,2,False,"weibo,twitter",rumor,7b7f766664fbaca8d356e3552270681703592a2f
+Detecting Out-of-Context Image-Caption Pair in News: A Counter-Intuitive Method,2023.0,2,True,cosmos,ooc,5d1daf789f15cecb12ef69613054cde1c6b77296
+Comprehensive Out-of-context Misinformation Detection via Global Information Enhancement,2024.0,2,True,cosmos,"ooc,misinformation",32120b3615def851aba8988291e51b453c66276f
+NewsCaption: Named-Entity aware Captioning for Out-of-Context Media,2024.0,2,True,cosmos,ooc,c232ed63ab75c3c8fc8e2c6ae3fe95af29746a9c
+Multimodal Rumor Detection via Multi-Perspective Cross-Domain Hierarchical Fusion,2026.0,2,True,weibo,rumor,2e00c13dc55eae247b36f0d8d0c8a3b6da6393ba
+A Unified Network for Detecting Out-Of-Context Information Using Generative Synthetic Data,2024.0,2,True,cosmos,ooc,e44498ec2913a4d49ce9d452f7eeebb1fad457da
+Exploring Hyperbolic Hierarchical Structure for Multimodal Rumor Detection,2025.0,1,True,mr2,rumor,89dc6d4a72873d84b55436aafb6a343f91cf12bf
+Integrating Linguistic Semantics and Sentiment for Multimodal Rumor Detection,2026.0,1,True,weibo,rumor,0ccabd9a7653aaa092db522291911bba4c9c7895
+Detecting Out-of-Context Media with LLaMa-Adapter V2 and RoBERTa: An Effective Method for Cheapfakes Detection,2024.0,1,True,cosmos,ooc,5ccd06d58bd6de7e28f4ddf982d83c7e9141f1a5
+ISMAF: Intrinsic-Social Modality Alignment and Fusion for Multimodal Rumor Detection,2025.0,1,True,"weibo,pheme",rumor,e74c4f89669e98a0f8d7d2a7284d8dadfbab8080
+TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities,2025.0,1,True,weibo,rumor,ff21f4f7cc59647b69b1f43276d0240c74590d02
+Multimodal Rumor Detection by Online Balance Multimodal Representation Learning,2025.0,1,True,"weibo,twitter",rumor,c918ef0a403f923a23c0f9159ceaebf91229f480
+Discrepancy-Aware Disentangled Contrastive Learning for Multimodal Rumor Detection,2026.0,0,False,"weibo,pheme",rumor,5228171a07a3aef679b4bace29cf9c3aee7336c5
+LLaVA-SNIPPER: Scene-Graph-based Inference with Multimodal LLMs for Explainable Out-of-Context Misinformation,2025.0,0,False,newsclippings,"ooc,misinformation",0660cda89d1ffb3f988dc4b59415da07e665c82b
+QuaFusion: Scene-Graph-Enhanced Quality-Aware Progressive Fusion for Multimodal Rumor Detection,2026.0,0,False,mr2,rumor,78f64158f6127f1f5eeaed2aab86c47b30042274
+AMONet: Alternating Modality Optimization Network for Multimodal Rumor Detection,2026.0,0,False,"weibo,twitter",rumor,ba9a4d8fb0d91e95fad8e6e35b8b28fe3b3bcff3
+Multimodal Rumor Detection via Multimodal Prompt Learning,2024.0,0,False,"weibo,twitter",rumor,8336808c00da9aa64e7777e0f886aa1e08b40085
+MDTF: Multimodal Rumor Detection with Dual Augmentation at Textual and Feature Levels,2024.0,0,False,twitter,rumor,97c5c2d4219a4e21be32b6689195c4aa1229c144
+Multimodal Rumor Detection Based on Co-Attention Mechanism,2024.0,0,False,"weibo,twitter",rumor,7a0a0261e96f0b2241b64a4da06a139b13f161dd
+An Effective Multimodal Rumor Detection Model via Image Semantic Enhancement and Hierarchical Fusion,2025.0,0,False,"weibo,pheme",rumor,c892aee5707768a72bbd8eb277c35d7ee0e46dfd
+Multimodal Rumor Detection and Dynamic Intervention: A Deep Learning and Reinforcement Learning Approach,2026.0,0,False,"weibo,twitter",rumor,fef7506a6ad4588725311419c86418102735bfa3
+Sentiment-aware Classifier for Out-of-Context Caption Detection,2022.0,0,False,cosmos,ooc,8dc112c574c46ec514c9f9e9d7d15e10745cb308
