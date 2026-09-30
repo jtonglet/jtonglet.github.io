@@ -23,11 +23,11 @@
     @include suffix(2 of 12);
   }
 
-  /* Blog posts use the full content width (no reserved right column),
-     matching the archive pages such as Teaching. */
+  /* Blog posts keep a small right margin (~8%), narrower than the default
+     ~17% reserved column so the text is less cramped than before. */
   &.page--blog {
     @include breakpoint($large) {
-      padding-right: 0;
+      @include suffix(1 of 12);
     }
   }
 
