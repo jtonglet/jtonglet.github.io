@@ -23,6 +23,14 @@
     @include suffix(2 of 12);
   }
 
+  /* Blog posts use the full content width (no reserved right column),
+     matching the archive pages such as Teaching. */
+  &.page--blog {
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+  }
+
   .page__inner-wrap {
     @include full();
 
