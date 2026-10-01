@@ -15,7 +15,7 @@ tags:
   <img width="70%" src="/images/mic_2.png" alt="Practical tips to detect AI-generated news images" />
 </p>
 
-Like me, you may have come across an AI-generated news image on Facebook or Instagram that, at first glance, looked real. AI-generated images are becoming increasingly realistic and can be misused to misrepresent real-world events. A few years ago, we could spot the gross physical distortions introduced by GenAI models: hands with four fingers, a third arm, distorted faces, and so on. As GenAI models improve, these obvious clues are becoming scarcer, making it increasingly difficult to determine whether an image is AI-generated from its appearance alone. But instead of asking only whether an image looks real, we can ask another question: is it consistent with the real-world event that it claims to depict? This blog post discusses a simple but useful strategy for answering that question: use your knowledge of the world.
+Like me, you may have come across an AI-generated news image on Facebook or Instagram that, at first glance, looked real. AI-generated images are becoming increasingly realistic and can be misused to misrepresent real-world events. In the beginning of 2026, AI-generated images about the Iran war fooled several media outlets and made their way into newspapers [1]. A few years ago, we could spot the gross physical distortions introduced by GenAI models: hands with four fingers, a third arm, distorted faces, and so on. As GenAI models improve, these obvious clues are becoming scarcer, making it increasingly difficult to determine whether an image is AI-generated from its appearance alone. But instead of asking only whether an image looks real, we can ask another question: is it consistent with the real-world event that it claims to depict? This blog post discusses a simple but useful strategy for answering that question: use your knowledge of the world.
 
 ### This may be a traffic jam, but it ain't a Belgian one
 
@@ -23,23 +23,29 @@ Take the illustration above. The robot is skeptical about the image currently di
 
 ### From visual artifacts to inconsistencies with world knowledge
 
-This verification strategy relies on a simple observation: while GenAI models are becoming increasingly good at producing well-formed objects and realistic-looking scenes, they can make mistakes in the subtle contextual details that tie an image to a particular event. Depicting a specific news event requires getting many details right: the flags, police or military uniforms, vegetation, architectural styles, road signs, license plates,  and much more. For a much more comprehensive list of such clues, I recommend Henk van Ess's detailed guide to detecting AI-generated content [1]. These cues help us verify, at the very least, that an image does not accurately depict the event it claims to show. In some cases, we may get lucky and find an even stronger clue that the image is AI-generated, e.g., when it shows a flag that simply does not exist.
+This verification strategy relies on a simple observation: while GenAI models are becoming increasingly good at producing well-formed objects and realistic-looking scenes, they can make mistakes in the subtle contextual details that tie an image to a particular event. Depicting a specific news event requires getting many details right: the flags, police or military uniforms, vegetation, architectural styles, road signs, license plates,  and much more. For a much more comprehensive list of such clues, I recommend Henk van Ess's detailed guide to detecting AI-generated content [2]. These cues help us verify, at the very least, that an image does not accurately depict the event it claims to show. In some cases, we may get lucky and find an even stronger clue that the image is AI-generated, e.g., when it shows a flag that simply does not exist.
 
-Professional fact-checkers regularly use this verification strategy. The image below was investigated by the fact-checking organization Dubawa [2]. It claimed to show Muslims praying on a road in Abuja, Nigeria, interrupting traffic. Here again, something does not fit the claimed context. Vehicles in Nigeria drive on the right, while the cars in the image drive on the left. For sure, this image does not show Abuja.
+Professional fact-checkers regularly use this verification strategy. The image below was investigated by the fact-checking organization Dubawa [3]. It claimed to show Muslims praying on a road in Abuja, Nigeria, interrupting traffic. Here again, something does not fit the claimed context. Vehicles in Nigeria drive on the right, while the cars in the image drive on the left. For sure, this image does not show Abuja.
 
 <p align="center">
   <img width="80%" src="/images/mic/abuja.png" alt="An AI-generated image of Abuja roads." />
 </p>
 
+In this other example, AFP [4] found that a video of Sara Duterte in the Philippines was manipulated with GenAI models to show her meeting fighters of the BIAF, the military wing of the Moro Islamic Liberation Front. However, a comparison with reliable images of BIAF fighters reveals that the badges on the uniforms are incorrect in the AI-altered video.
+
+<p align="center">
+  <img width="80%" src="/images/mic/biaf_example.png" alt="An AI-generated image of BIAF fighters." />
+</p>
+
 
 ### Fighting fire with fire: AI can help
 
-Checking whether an image is consistent with its claimed context is nothing new. Long before generative AI became capable of producing convincing visual misinformation, misleading posts often reused real but unrelated images to illustrate an event. For example, a real photograph from the Syrian civil war might be reposted years later with a caption claiming that it shows the conflict in Yemen. These are what we call "out-of-context" images: the image itself is authentic, the claimed context might be real or not, but it is definitely not consistent with the image. AI-generated images can be more challenging. In many cases, they will be entirely consistent with the claimed context, except for a small detail: a flag, a police badge, a road sign, or a license plate.  Finding these consistencies may require very local knowledge. Would this tree species grow in this city? What uniform do the local firemen wear? Checking all these details manually is time-consuming and requires extensive world knowledge. This is where I believe AI can help.
+Checking whether an image is consistent with its claimed context is nothing new. Long before generative AI became capable of producing convincing visual misinformation, misleading posts often reused real but unrelated images to illustrate an event. For example, a real photograph from the Syrian civil war might be reposted years later with a caption claiming that it shows the conflict in Yemen. These are what we call "out-of-context" images: the image itself is authentic, the claimed context might be real or not, but it is definitely not consistent with the image. AI-generated images can be more challenging. In many cases, they will be entirely consistent with the claimed context, except for a small detail: a flag, a police badge, a road sign, or a license plate.  Finding these consistencies may require very local knowledge. Would this tree species grow in this city? What uniform do the local firemen wear? Do the local buses have this appearance? Checking all these details manually is time-consuming and requires extensive world knowledge. This is where I believe AI can help.
 
-In our recent paper "[MIC: Explaining Image-Claim Inconsistencies in AI-Generated Multimodal Misinformation](https://arxiv.org/abs/2609.33441)" [3], Ruihong Zeng, Preslav Nakov, Iryna Gurevych, and I tackle this problem head-on. We ask the following question: Can multimodal LLMs detect inconsistencies between AI-generated images and their claimed context using their world knowledge? On our dataset, MICBench, we show that multimodal LLMs can be trained to detect nine types of inconsistencies, including flags, architecture, and uniforms, and explain why there is an inconsistency. Our preprint and code are public; check them out!
+In our recent paper "[MIC: Explaining Image-Claim Inconsistencies in AI-Generated Multimodal Misinformation](https://arxiv.org/abs/2609.33441)" [5], Ruihong Zeng, Preslav Nakov, Iryna Gurevych, and I tackle this problem head-on. We ask the following question: Can multimodal LLMs detect inconsistencies between AI-generated images and their claimed context using their world knowledge? On our dataset, MICBench, we show that multimodal LLMs can be trained with supervised fine-tuning and reinforcement learning to detect nine types of subtle inconsistencies, including flags, architecture, and uniforms. In addition, the model provides an explanation for why the image is inconsistent with its surrounding context, drawing on world knowledge. This work is only a first step, and many challenges remain. For example, multimodal LLMs underperform on images about recent news events that fall outside the world knowledge they acquired during training. Our preprint and code are public; check them out!
 
 In conclusion, an image does not exist in isolation: if it claims to depict a news event, it must make assumptions about the surrounding context. Flags, uniforms, traffic rules, vegetation, architecture, and many other small details can therefore serve as valuable cues for spotting errors made by GenAI models.
-However, no human can know all these details about every place in the world. This is where AI can help by identifying which parts of an image do not fit the story it claims to tell.
+However, no human can know all these details about every place in the world. This is where AI can help by identifying which parts of an image do not fit the story it claims to tell. This strategy can be used to detect visual misinformation, whether it is based on authentic images taken out of context or AI-generated images.
 
 
 {% capture takeaways %}
@@ -53,8 +59,12 @@ However, no human can know all these details about every place in the world. Thi
 
 ### References
 
-[1] Henk van Ess. 2025. [Reporter’s Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/).
+[1] Der Spiegel. 2026. [Manipulierte Fotos in Berichten zu Iran entdeckt](https://www.spiegel.de/backstage/medien-manipulierte-fotos-in-berichten-zu-iran-entdeckt-a-f214eb7a-23dd-4d4b-b6e3-e789f495a9ec?utm_source=firefox-newtab-de-de).
 
-[2] Sunday Awosoro. 2026. [Photo of Muslims worshipping on Abuja road, AI-generated ](https://dubawa.org/photo-of-muslims-worshipping-on-abuja-road-ai-generated/).
+[2] Henk van Ess. 2025. [Reporter’s Guide to Detecting AI-Generated Content](https://gijn.org/resource/guide-detecting-ai-generated-content/).
 
-[3] Ruihong Zeng, Jonathan Tonglet, Preslav Nakov, Iryna Gurevych. 2026. [MIC: Explaining Image-Claim Inconsistencies in AI-Generated Multimodal Misinformation](https://arxiv.org/abs/2609.33441).
+[3] Sunday Awosoro. 2026. [Photo of Muslims worshipping on Abuja road, AI-generated ](https://dubawa.org/photo-of-muslims-worshipping-on-abuja-road-ai-generated/).
+
+[4] Tatiana Maligro. 2026. [AI-altered images of Sara Duterte visiting former rebel group's military wing mislead online](https://factcheck.afp.com/doc.afp.com.C8BH9CZ).
+
+[5] Ruihong Zeng, Jonathan Tonglet, Preslav Nakov, Iryna Gurevych. 2026. [MIC: Explaining Image-Claim Inconsistencies in AI-Generated Multimodal Misinformation](https://arxiv.org/abs/2609.33441).
