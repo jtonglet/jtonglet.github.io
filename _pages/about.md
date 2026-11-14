@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome, Bienvenue, Welkom, Willkommen! 
 
-I am a 4th year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
+I am a 4th-year [ELLIS](https://ellis.eu/phd-postdoc) PhD student supervised by [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and co-supervised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html).
 
 
 I am broadly interested in applications of natural language processing for computational social science.
@@ -19,12 +19,15 @@ I am broadly interested in applications of natural language processing for compu
 ### **Research Interests**
 
 - Multimodal fact-Checking
-- Misleading visualizations and misinformation with charts
-- Computational Social Science 
+- Misinformation, propaganda, and hate speech analysis and detection
+- Computational social science
+- AI safety
 
 
 ### **News**
 
+- [Oct 2026] I was a panellist at the ELIZA forum on "Misinformation, Disinformation, and the Fate of Democracy" in Darmstadt
+- [Oct 2026] New preprint on AI-generated misinformation detection: [MIC](https://arxiv.org/abs/2609.33441)
 - [August 2026] Three papers accepted at EMNLP 2026: [ChartAttack](https://arxiv.org/abs/2601.12983) (Main), [M4FC](https://arxiv.org/abs/2510.23508) (Findings), and [NewsRECON](https://arxiv.org/abs/2601.14121) (Findings)
 - [August 2026] I presented our research on misleading charts at Linköping University 
 - [June 2026] I will be attending ACL 2026 in San Diego
